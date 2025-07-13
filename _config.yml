@@ -1,0 +1,16 @@
+title: Curriculum Vitae - Anthony Onde Morada, MD
+description: Curriculum vitae and research portfolio
+url: "https://anthonyomorada.github.io"
+baseurl: "/anthony-morada-cv"
+theme: minima
+
+author:
+  name: Anthony Onde Morada, MD
+  email: anthony.omorada@gmail.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
