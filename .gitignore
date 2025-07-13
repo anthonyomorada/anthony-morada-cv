@@ -1,4 +1,28 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# System files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+
+# GitHub Pages build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Personal/sensitive files (uncomment if needed)
+# drafts/
+# personal-notes/
+# recommendation-letters/
