@@ -1,68 +1,88 @@
-# Anthony Morada's Curriculum Vitae
+# Medical CV Template - GitHub Pages Portfolio
 
-Specialist in [Your Expertise], Researcher, and Educator  
-[LinkedIn](https://www.linkedin.com/in/yourname/) • [GitHub](https://github.com/yourusername) • [Email](mailto:youremail@example.com) • [Portfolio](https://yourwebsite.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green)](https://anthonyomorada.github.io/anthony-morada-cv/)
+[![Template](https://img.shields.io/badge/Template-Ready-blue)](#quick-setup)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
----
+A GitHub Pages-hosted curriculum vitae with linked publications and presentations.
 
-## About Me
-
-I am a [Your Profession] specializing in:
-- [Specialty 1]
-- [Specialty 2]
-
-I focus on [Key Areas]. Below, you'll find links to my CV, selected articles, and professional presentations.
+**Live Example:** [anthonyomorada.github.io/anthony-morada-cv](https://anthonyomorada.github.io/anthony-morada-cv/)
 
 ---
 
-## Table of Contents
-- [CV](#cv)
-- [Articles](#articles)
-- [Presentations](#presentations)
+## Repository Structure
+
+```
+anthony-morada-cv/
+├── index.md                        # Landing page
+├── anthony-onde-morada-cv.md       # Complete CV
+├── README.md                       # This file
+├── _config.yml                     # GitHub Pages configuration
+├── LICENSE                         # MIT license
+├── .gitignore                      # Version control settings
+├── cv/
+│   ├── anthony-onde-morada-cv.pdf  # PDF version
+│   └── styles.css                  # Custom styling
+├── publications/
+│   └── [PDF files]                 # Published papers
+└── presentations/
+    └── [PDF files]                 # Conference presentations
+```
 
 ---
 
-## CV
+## Setup for Other Users
 
-- [Download My CV (PDF)](cv.pdf)  
+### Quick Start
 
-This document provides a comprehensive overview of my education, professional experience, research, and publications.
+1. Fork this repository
+2. Replace content in `index.md` and `anthony-onde-morada-cv.md` with your information
+3. Add your PDFs to `publications/` and `presentations/` folders
+4. Enable GitHub Pages in repository Settings → Pages
+5. Access your CV at `https://yourusername.github.io/repository-name/`
 
----
+### File Naming Convention
 
-## Articles
+- Publications: `YYYY-brief-title.pdf`
+- Presentations: `YYYY-conference-title.pdf`
 
-### Selected Publications
-1. **[Title of Article 1](articles/article1.pdf)**  
-   _Published in Journal Name, Year_  
-   Brief description or abstract. [Read More](https://journalwebsite.com/article1)
+### Linking in CV
 
-2. **[Title of Article 2](https://journalwebsite.com/article2)**  
-   _Published in Journal Name, Year_  
-   Brief description or abstract.
-
-3. **[Title of Article 3](articles/article3.pdf)**  
-   _Published in Journal Name, Year_  
-   Brief description or abstract.
-
----
-
-## Presentations
-
-1. **[Presentation Title 1](presentations/presentation1.pdf)**  
-   _Presented at Conference Name, Year_  
-   Brief description or topic summary.
-
-2. **[Presentation Title 2](https://slideshare.net/presentation2)**  
-   _Presented at Conference Name, Year_  
-   Brief description or topic summary.
+```markdown
+Publication title. *Journal*. Year. [PDF](publications/filename.pdf)
+Presentation title. *Conference*. Year. [Slides](presentations/filename.pdf)
+```
 
 ---
 
-## Contact Me
+## Technical Details
 
-Feel free to reach out for collaboration or more information:  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourname/)
+### Requirements
 
-_Last Updated: January 2025_
+- GitHub account
+- Basic Markdown knowledge
+- Web browser for editing
+
+### PDF Generation
+
+- Use online Markdown to PDF converters
+- Or Pandoc: `pandoc cv.pdf`
+
+### Customization
+
+- Edit `_config.yml` for site settings
+- Modify `cv/styles.css` for appearance changes
+- All editing can be done through GitHub's web interface
+
+---
+
+## Contact
+
+**Anthony Onde Morada, MD**  
+General Surgery Resident, Geisinger Northeast  
+📧 [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com)  
+🔬 [ORCID: 0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558)
+
+---
+
+_MIT License - Free to use and modify_
