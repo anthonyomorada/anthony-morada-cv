@@ -1,28 +1,16 @@
-# System files
+# Obsidian Files
+.obsidian/
+*.obsidian
+.obsidian/*
+**/.obsidian/
+
+# R Project Files
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Basic System Files
 .DS_Store
-.DS_Store?
-._*
 Thumbs.db
-Desktop.ini
-
-# Editor files
-*~
-*.swp
-*.swo
-.vscode/
-.idea/
-
-# Backup files
-*.bak
-*.backup
-
-# GitHub Pages build files
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-
-# Personal/sensitive files (uncomment if needed)
-# drafts/
-# personal-notes/
-# recommendation-letters/
