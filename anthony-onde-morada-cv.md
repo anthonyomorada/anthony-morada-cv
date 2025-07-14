@@ -108,21 +108,15 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 3. Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022 Mar 24;15(3):e247609. doi: 10.1136/bcr-2021-247609. PMID: 35332009; PMCID: PMC8948397.
 
-4. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022 Mar;36(3):1750-1760. doi: 10.1007/s00464-021-08847-7. PMID: 34997348.
+4. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022 Mar;36(3):1750-1760. doi: 10.1007/s00464-021-08847-7. PMID: 34997348. [PDF](publications/2022-sr-ileostomy-malig.pdf)
 
-5. Senapathi H, **Morada A**, Perry M, Bertram C, Yeung E, Sultany M, Bertsch D, Cagir B. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the Surveillance, Epidemiology, and End Results (SEER) Database. *Cureus*. 2021 Nov 10;13(11):e19447. doi: 10.7759/cureus.19447. PMID: 34926025; PMCID: PMC8654067.
+5. Senapathi H, **Morada A**, Perry M, Bertram C, Yeung E, Sultany M, Bertsch D, Cagir B. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the Surveillance, Epidemiology, and End Results (SEER) Database. *Cureus*. 2021 Nov 10;13(11):e19447. doi: 10.7759/cureus. 19447. PMID: 34926025; PMCID: PMC8654067.
 
-6. **Morada AO**, Scheidel C, Brown JL, Albright J, Kolade V, Cagir B. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021.04.12.21255201. doi: 10.1101/2021.04.12.21255201
+6. **Morada AO**, Scheidel C, Brown JL, Albright J, Kolade V, Cagir B. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021.04.12.21255201. doi:10.1101/2021.04.12.21255201
 
-7. Guo H, Garcia-Vedrenne AE, Isserlin R, Lugowski A, **Morada A**, Sun A, Miao Y, Kuzmanov U, Wan C, Ma H, Foltz K, Emili A. Phosphoproteomic network analysis in the sea urchin Strongylocentrotus purpuratus reveals new candidates in egg activation. *Proteomics*. 2015;15(23–24):4080–4095. doi: 10.1002/pmic.201500159. PMID: 26572944.
+7. Guo H, Garcia-Vedrenne AE, Isserlin R, Lugowski A, **Morada A**, Sun A, Miao Y, Kuzmanov U, Wan C, Ma H, Foltz K, Emili A. Phosphoproteomic network analysis in the sea urchin Strongylocentrotus purpuratus reveals new candidates in egg activation. *Proteomics*. 2015;15(23–24):4080–4095. doi:10.1002/pmic.201500159. PMID: 26572944.
 
 ### Submitted or Prepared Manuscripts
-
-- Senapathi SH, Keller HR, **Morada A**, Bertsch D, Cagir B. Survival in Patients with Neuroendocrine Tumors of the Colon, Rectum and Small Intestine. *Manuscript submitted for publication*.
-
-- **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Manuscript submitted for publication*
-
-- Senapathi SH, **Morada AO**, Morgan P, Ceyda B, Enoch Y, Bertsch D, Cagir B. Review of Intestinal Leiomyosarcomas: Epidemiology and Survival. *Manuscript submitted for publication*
 
 - Seungwoo C, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B, Kolade V. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study of the patient-doctor relationship. *Manuscript in preparation*
 
@@ -165,7 +159,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 ### Poster Presentations
 
-1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021.
+1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [PDF](presentations/2021-sages-poster.pdf)
 
 2. Yeung E, Senapathi SH, **Morada AO**, Wung C, Miner J, Cagir B. High Output Ileostomy: A Retrospective Study on the Predictive Parameters of 30 Days Readmission from Dehydration. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021.
 
@@ -195,7 +189,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 15. Davis G, **Morada A**, Myers T, Sorour K. Effects of Body Temperature on Vasoactive-Inotropic Score. *Annual National Student Research Forum*, Galveston, TX, May 2018.
 
-16. Bolock A, Choudhary M, Fei X, Loser M, **Morada A**, Stefanelli M, Rwabukwisi F. Longitudinal Community Health Research Project: Colorectal Cancer Screening. *Geisinger Commonwealth School of Medicine Research Day*, Scranton, PA, March 2017.
+16. Bolock A, Choudhary M, Fei X, Loser M, **Morada A**, Stefanelli M, Rwabukwisi F. Longitudinal Community Health Research Project: Colorectal Cancer Screening. *Geisinger Commonwealth School of Medicine Research Day*, Scranton, PA, March 2017. 
 
 17. Miller BN, Garnett G, **Morada A**, Annamalai A, Hendifar A, Dhall D, Wachsman A, Yu R, Nissen N. Parenchymal-Preserving Resection for Pancreatic Neuroendocrine Tumors: are the Outcomes Justified? *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
 
