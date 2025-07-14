@@ -108,7 +108,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 3. Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022 Mar 24;15(3):e247609. doi: 10.1136/bcr-2021-247609. PMID: 35332009; PMCID: PMC8948397.
 
-4. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022 Mar;36(3):1750-1760. doi: 10.1007/s00464-021-08847-7. PMID: 34997348. [PDF](publications/2022-sr-ileostomy-malig.pdf)
+4. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022 Mar;36(3):1750-1760. doi: 10.1007/s00464-021-08847-7. PMID: 34997348. [📄PDF](publications/2022-sr-ileostomy-malig.pdf)
 
 5. Senapathi H, **Morada A**, Perry M, Bertram C, Yeung E, Sultany M, Bertsch D, Cagir B. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the Surveillance, Epidemiology, and End Results (SEER) Database. *Cureus*. 2021 Nov 10;13(11):e19447. doi: 10.7759/cureus. 19447. PMID: 34926025; PMCID: PMC8654067.
 
@@ -159,7 +159,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 ### Poster Presentations
 
-1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [PDF](presentations/2021-sages-poster.pdf)
+1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [📄PDF](presentations/2021-sages-poster.pdf)
 
 2. Yeung E, Senapathi SH, **Morada AO**, Wung C, Miner J, Cagir B. High Output Ileostomy: A Retrospective Study on the Predictive Parameters of 30 Days Readmission from Dehydration. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021.
 
@@ -328,4 +328,3 @@ Geisinger Commonwealth School of Medicine, Scranton, PA
 - **Programming and Data Analytics:** Proficient with R and Python (GitHub profile: moradaao)
 - **Fantasy Sports:** 9-year basketball commissioner; basketball, football, and baseball champion
 - **Fitness:** Backpacking, bowling, cycling, hiking, lifting, and running
-
