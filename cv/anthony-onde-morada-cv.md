@@ -159,7 +159,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 ### Poster Presentations
 
-1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [<span class="pdf-link">PDF</span>](../presentations/2021-sages-poster.pdf)
+1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [🖼️ PDF](../presentations/2021-sages-poster.pdf)
 
 2. Yeung E, Senapathi SH, **Morada AO**, Wung C, Miner J, Cagir B. High Output Ileostomy: A Retrospective Study on the Predictive Parameters of 30 Days Readmission from Dehydration. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021.
 
