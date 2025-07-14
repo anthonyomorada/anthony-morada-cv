@@ -100,32 +100,17 @@ def convert_to_html(input_file, output_file, css_file):
         print(f"❌ HTML generation failed")
         return False
 
-def convert_to_pdf(input_file, output_file, latex_engine):
+def convert_to_pdf(input_file, output_file, latex_engine, css_file):
     """Convert markdown to PDF with preset formatting"""
     cmd = [
         'pandoc', str(input_file),
         '-f', 'markdown',
-        '-t', 'pdf',
-        f'--pdf-engine={latex_engine}',
-        # Preset PDF formatting
-        '--variable', 'geometry:margin=0.75in',
-        '--variable', 'fontsize=11pt',
-        '--variable', 'linestretch=1.2',
-        '--variable', 'colorlinks=true',
-        '--variable', 'linkcolor=blue',
-        '--variable', 'urlcolor=blue',
-        '--variable', 'citecolor=blue',
-        '--metadata', 'title=Curriculum Vitae',
-        '-o', str(output_file)
+        '-o', str(output_file),
+        f'--pdf-engine={latex_engine}'
     ]
-    
-    # System-specific font optimization
-    system = platform.system()
-    if system == "Darwin":  # macOS
-        cmd.extend(['--variable', 'mainfont=Helvetica Neue'])
-    elif system == "Linux":
-        cmd.extend(['--variable', 'mainfont=Liberation Sans'])
-    
+    if css_file and css_file.exists():
+        cmd.extend(['--css', str(css_file)])
+       
     try:
         print("Running pandoc PDF conversion...")
         result = subprocess.run(cmd, check=True, capture_output=True, text=True)
@@ -196,7 +181,7 @@ def main():
     
     pdf_success = False
     if latex_engine:
-        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine)
+        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine, css_file)
     else:
         print("⏭️  Skipping PDF (no LaTeX)")
     
