@@ -1,4 +1,4 @@
-# # Anthony Onde Morada, MD
+# Anthony Onde Morada, MD
 
 **General Surgery Resident (PGY-4)**  
 Geisinger Northeast General Surgery Program
@@ -9,7 +9,7 @@ Filipino-American physician originally from Los Angeles, CA. UCSB alum with over
 
 ## Curriculum Vitae
 
-**[View Complete CV](anthony-onde-morada-cv.md)** | **[Download PDF](cv/anthony-onde-morada-cv.pdf)**
+**[View Complete CV](cv/anthony-onde-morada-cv.md)** | **[Download PDF](cv/anthony-onde-morada-cv.pdf)**
 
 ---
 
