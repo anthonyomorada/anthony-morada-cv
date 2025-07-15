@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-General Surgery Resident (PGY-4) at Geisinger Northeast with **demonstrated commitment to transplant surgery** through research experience at Cedars-Sinai's Liver Transplant and Hepatobiliary Surgery programs. UCSB alumnus originally from Los Angeles with over **10 years of translational and clinical research experience** spanning systematic reviews, clinical outcomes research, and genomic medicine applications. **Seven peer-reviewed publications** including first-author systematic review in *Surgical Endoscopy*. Proven track record in **quality improvement initiatives** and **large-scale data analysis** (92,297+ patients). Proud Filipino-American physician committed to advancing surgical care through evidence-based practice and research innovation in transplant surgery.
+General Surgery Resident (PGY-4) at Geisinger Northeast with research experience in transplant surgery at Cedars-Sinai Medical Center. UCSB alumnus from Los Angeles with background in clinical outcomes research, systematic reviews, and genomic medicine. Filipino-American physician interested in advancing surgical care through research and evidence-based practice.
 
 ## Research Highlights
 
