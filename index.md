@@ -1,4 +1,3 @@
-# Anthony Onde Morada, MD
 
 **General Surgery Resident (PGY-4)**  
 Geisinger Northeast General Surgery Program
