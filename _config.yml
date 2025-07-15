@@ -1,11 +1,11 @@
-title: ""
-description: Anthony Onde Morada, MD - General Surgery Resident
+title: "My Curriculum Vitae LAnding Page"
+description: General Surgery Resident - Portfolio
 url: "https://anthonyomorada.github.io"
 baseurl: "/anthony-morada-cv"
 theme: minima
 
 author:
-  name: Anthony Onde Morada, MD
+  name: "Anthony Onde Morada"
   email: anthony.omorada@gmail.com
 
 show_excerpts: false

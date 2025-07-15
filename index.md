@@ -1,6 +1,6 @@
 ---
-layout: home
-title: ""
+layout: page
+title: "Personal Curriculum Vitae"
 ---
 
 # Anthony Onde Morada, MD
