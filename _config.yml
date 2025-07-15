@@ -1,5 +1,5 @@
-title: Anthony Onde Morada, MD
-description: General Surgery Resident - Research Portfolio
+title: ""
+description: Anthony Onde Morada, MD - General Surgery Resident
 url: "https://anthonyomorada.github.io"
 baseurl: "/anthony-morada-cv"
 theme: minima
@@ -7,6 +7,9 @@ theme: minima
 author:
   name: Anthony Onde Morada, MD
   email: anthony.omorada@gmail.com
+
+show_excerpts: false
+header_pages: false
 
 plugins:
   - jekyll-feed
