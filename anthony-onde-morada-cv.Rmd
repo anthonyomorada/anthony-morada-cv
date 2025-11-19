@@ -1,0 +1,344 @@
+---
+title: "Anthony Onde Morada, MD"
+subtitle: "General Surgery Resident | Researcher | Educator"
+output:
+  pdf_document:
+    number_sections: false
+    toc: false
+    latex_engine: xelatex
+  html_document:
+    toc: true                # Enable table of contents
+    toc_float:               # Make the table of contents float
+      smooth_scroll: true    # Enable smooth scrolling to sections
+    df_print: paged          # Use paged tables for data frames
+    css: "styles.css"        # Include a custom CSS file for justification
+fontsize: 11pt
+geometry: margin=0.8in
+header-includes:
+- \usepackage{ragged2e}            # Justification for PDF
+- \justifying                      # Apply justified alignment for LaTeX
+- \usepackage{enumitem}            # Control spacing for lists
+- \setlist[enumerate]{nosep, topsep=0pt, partopsep=0pt, parsep=0pt, itemsep=0pt}
+- \setlist[itemize]{nosep, topsep=0pt, partopsep=0pt, parsep=0pt, itemsep=0pt}
+- \setlength{\parskip}{0pt}        # Remove extra paragraph spacing
+- \setlength{\parindent}{0in}      # Remove paragraph indent
+- \usepackage{titlesec}            # Control section spacing
+- \titlespacing\section{0pt}{3pt}{2pt}
+- \titlespacing\subsection{0pt}{2pt}{1pt}
+- \usepackage{setspace}            # Line spacing control
+- \setstretch{1.0}
+- \renewcommand{\baselinestretch}{1.0}
+---
+
+📧 **Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/anthonyomorada](https://linkedin.com/in/anthonyomorada)  
+💻 **GitHub:** [github.com/anthonyomorada](https://github.com/anthonyomorada)  
+🔍 **ORCID:** [orcid.org/0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558)  
+
+------------------------------------------------------------------------
+
+# About Me
+
+I am a general surgery resident at the Geisinger Northeast General Surgery Program with over 10 years of experience in translational and clinical research. As a dedicated researcher and educator, my work focuses on improving patient outcomes through innovative surgical techniques and evidence-based practices. Originally from Los Angeles, CA, I am proud of my Filipino-American heritage and commitment to fostering inclusivity in medicine.
+
+------------------------------------------------------------------------
+
+# Education
+
+1. **Doctor of Medicine**  
+   Geisinger Commonwealth School of Medicine, Scranton, PA. 2022
+
+2. **Bachelor of Science in Cell and Developmental Biology**  
+   University of California – Santa Barbara, Santa Barbara, CA. 2014  
+   Graduated with Distinction in Molecular, Cellular, and Developmental Biology. Minor in English.
+
+3. **Emergency Medical Technician Certification**  
+   UCLA Center for Prehospital Care, Los Angeles, CA. 2011  
+   Accredited by West Los Angeles College.
+
+------------------------------------------------------------------------
+
+# Research Experience
+
+1. **Clinical Investigator and Analyst**
+   *Donald Guthrie Foundation*, PA (**2020 – 2022**)
+   - Designed a study to reduce ileostomy readmissions ([NCT04669964](https://clinicaltrials.gov/ct2/show/NCT04669964)).
+   - Developed a protocol enhancing surgical autonomy with Self-Determination Theory.
+
+2. **Student Investigator**
+   *QUICC*, Guthrie Robert Packer Hospital, PA (**2019 – 2020**)
+   - Improved TCM compliance using an EPIC tool and staff training.
+   - Presented findings at Stanley Conklin Research Day.
+
+3. **Student Investigator**
+   *CHIP – Colorectal Cancer*, Northeast Regional Cancer Institute, PA (**2018 – 2019**)
+   - Boosted colorectal screening compliance through outreach and scheduling.
+   - Presented at Geisinger Commonwealth Research Day.
+
+4. **Research Chair**
+   *General Surgery Interest Group (GSIG)*, GCSOM, PA (**2018**)
+   - Organized surgical topics and guided research leading to four conference presentations.
+
+5. **Student Investigator**
+   *Weis Center for Research*, Geisinger Medical Center, PA (**2017 – 2018**)
+   - Analyzed genomic data (92,297 patients) using R programming.
+   - Secured Summer Research Immersion funding.
+
+6. **Clinical Research Specialist**
+   *Liver Transplant & Hepatobiliary Surgery*, Cedars-Sinai, CA (**2015 – 2017**)
+   - Analyzed data with SQL/R for pancreatic/liver tumor publications.
+   - Managed biorepository and liaised with IRB.
+
+7. **Clinical Research Volunteer**
+   *Microbiology Department*, St. John’s Regional Medical Center, CA (**2015**)
+   - Evaluated contamination rates in blood cultures using R programming.
+
+8. **Undergraduate Research Assistant**
+   *Dr. Kathy Foltz Laboratory*, UC Santa Barbara, CA (**2013 – 2015**)
+   - Researched egg activation mechanisms via phosphoproteomic analysis.
+   - Earned two Undergraduate Research and Creativities Grants.
+
+9. **Lab Research Assistant**
+   *Dr. Megan Valentine & Dr. Stuart Feinstein Labs*, UC Santa Barbara, CA (**2014**)
+   - Synthesized Alzheimer’s tau proteins using SDS-PAGE and chromatography.
+
+10. **Undergraduate Research Assistant**
+    *Dr. Dzwokai Zach Ma Laboratory*, UC Santa Barbara, CA (**2012**)
+    - Investigated histone modifications during cytokinesis using immunostaining and SDS-PAGE.
+
+------------------------------------------------------------------------
+
+# Premedical Clinical Experience
+
+1. **Lead Emergency Medical Technician**
+   *UCSB Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, CA* (**2012 – 2014**)
+   - Provided Basic Life Support (BLS) care to over 22,000 citizens in the UCSB community and surrounding districts.
+   - Acted as a liaison between student EMTs and the Fire Department.
+   - Organized EMT staff logistics and training sessions for continuing education.
+
+2. **Physical Therapy Volunteer**
+   *Student Health, Physical Therapy, UCSB, Santa Barbara, CA* (**2014**)
+   - Prepared patients for therapy using heat and electrical stimulation techniques.
+   - Assisted patients with physical therapy exercises under supervision.
+
+3. **Clinical Care Extender Intern**
+   *COPE Health Solutions, St. John’s Regional Medical Center/Pleasant Valley Medical Center, Oxnard & Camarillo, CA* (**2013 – 2014**)
+   - Rotated through inpatient care, rehabilitation, radiology, emergency medicine, and outpatient surgery.
+   - Gained exposure to clinical workflows in various healthcare settings.
+
+4. **Team KiPOW Member**
+   *UC Irvine School of Medicine Pediatric Interest Group, Helen Estock Elementary School, Tustin, CA* (**2016**)
+   - Taught 5th-grade students about nutrition and exercise in an advocacy program for the Orange County pediatric population.
+
+
+------------------------------------------------------------------------
+
+# Leadership & Extracurricular Activities
+
+1. **Big Brother Mentor**, *Big Brothers/Sisters, Scranton, PA* (**2017 – Present**): Mentored a “little” in academics and life skills.
+2. **APAMSA President & Community Service Chair**, *GCSOM, Scranton, PA* (**2017 – 2019**): Organized service events and represented APAMSA nationally.
+3. **Health Explorers Instructor**, *REACH-HEI, GCSOM, Scranton, PA* (**2017 – 2019**): Mentored first-generation students in health professions.
+4. **Assistant Team Captain**, *Pancreatic Cancer Action Network, Los Angeles, CA* (**2016 – 2017**): Raised $200,000+ and recruited 150+ team members.
+5. **Student Ambassador**, *GCSOM, Scranton, PA* (**2017 – 2018**): Represented GCSOM during admissions and led campus tours.
+6. **Clinical Skills Chair**, *Plastic Surgery Interest Group, GCSOM, Scranton, PA* (**2018 – 2019**): Led suture workshops and simulations.
+7. **Fundraiser & Climber**, *American Lung Association, Los Angeles, CA* (**2016**): Raised $1500 and climbed 62 stories for awareness.
+
+------------------------------------------------------------------------
+
+# Publications
+
+## Academic Manuscripts
+
+1.  Bashiri A, **Morada A**, Sultany M, Senepathi S, Silverman S, Casós S, Behm R. *Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic.* J Surg Res. 2023 Sep;289:202-210. doi: [10.1016/j.jss.2023.02.040](https://doi.org/10.1016/j.jss.2023.02.040). PMID: 37141703; PMCID: PMC10008796.
+
+2.  Keller HR, Senapathi SH, **Morada A**, Bertsch D, Cagir B. *Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine.* Am J Surg. 2023 Jan;225(1):58-65. doi: [10.1016/j.amjsurg.2022.09.053](https://doi.org/10.1016/j.amjsurg.2022.09.053). PMID: 36216612.
+
+3.  Sundaram N, **Morada A**, Bashiri A, Cagir B. *CT images demonstrating the natural progression of locally advanced partially treated rectal cancer.* BMJ Case Rep. 2022 Mar 24;15(3):e247609. doi: [10.1136/bcr-2021-247609](https://doi.org/10.1136/bcr-2021-247609). PMID: 35332009; PMCID: PMC8948397.
+
+4.  Senapathi H, **Morada A**, Perry M, Bertram C, Yeung E, Sultany M, Bertsch D, Cagir B. *Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the Surveillance, Epidemiology, and End Results (SEER) Database.* Cureus. 2021 Nov 10;13(11):e19447. doi: [10.7759/cureus.19447](https://doi.org/10.7759/cureus.19447). PMID: 34926025; PMCID: PMC8654067.
+
+5.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. *A systematic review of primary ileostomy site malignancies.* Surg Endosc. 2022 Mar;36(3):1750-1760. doi: [10.1007/s00464-021-08847-7](https://doi.org/10.1007/s00464-021-08847-7). PMID: 34997348.
+
+6.  **Morada, A. O.**, Scheidel, C., Brown, J. L., Albright, J., Kolade, V., & Cagir, B. *Predicting severe COVID-19 outcomes for triage and resource allocation.* MedRxiv, 2021.04.12.21255201. <https://doi.org/10.1101/2021.04.12.21255201>.
+
+7.  Guo, H., Garcia-Vedrenne, A. E., Isserlin, R., Lugowski, A., **Morada, A.**, Sun, A., Miao, Y., Kuzmanov, U., Wan, C., Ma, H., Foltz, K., & Emili, A. *Phosphoproteomic network analysis in the sea urchin Strongylocentrotus purpuratus reveals new candidates in egg activation.* Proteomics, 2015;15(23–24):4080–4095. doi: [10.1002/pmic.201500159](https://doi.org/10.1002/pmic.201500159).
+
+## Submitted or Prepared Manuscripts
+
+1.  Seungwoo, C., Senapathi, S. H., **Morada A. O.**, Khaliq, A. A, Malviya, B., and Kolade, V. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study of the patient-doctor relationship. Manuscript in preparation.
+
+2.  Dewar, Z., **Morada, A.O.**, Senapathi H., and Rittenberger J. Ultrasound versus combined ultrasound and modified Seldinger technique in obtaining difficult peripheral intravenous access: A systematic review and meta-analysis. Manuscript in preparation. Registered on PROSPERO [CRD210386](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=210386).
+
+## Peer Review Activities
+
+1.  **Morada AO.** (2022) *Manuscript #1010820*, Frontiers in Pharmacology (Lausanne, Switzerland).
+
+2.  **Morada AO.** (2022) SOURCE-WORK-ID: db5428db-a659-43b4-a7c8-c2e48eb8e199. PLOS ONE, ISSN: [1932-6203](https://portal.issn.org/resource/ISSN/1932-6203). Public Library of Science (San Francisco, US).
+
+3.  **Morada AO.** (2021) SOURCE-WORK-ID: 61b29edb-4208-421b-ba50-e19a3e7e3862. PLOS ONE, ISSN: [1932-6203](https://portal.issn.org/resource/ISSN/1932-6203). Public Library of Science (San Francisco, US).
+
+4.  **Morada AO.** (2021) *Manuscript #M21-2536*, The Annals of Internal Medicine. American College of Physicians (Philadelphia, PA, US). 2021-06-21.
+
+## Newspaper and Magazine Articles
+
+1.  **Morada, A. O.**, & Mackarey, P. *Finding your way clear of opioid problems.* The Scranton Times-Tribune, August 27, 2018, B7. [Link](https://www.thetimes-tribune.com/news/finding-your-way-clear-of-opioid-problems-1.2378516).
+
+2.  **Morada, A.** *Ending Tuberculosis: A Global Commitment.* The Traveler, Spring 2017, (1), 1.
+
+------------------------------------------------------------------------
+
+# Presentations
+
+## Oral Presentations
+
+1.  Bashiri, A., **Morada A. O.**, Silverman, S., Behara, M., and Behm, R. Trends of Trauma Admissions in a Rural Trauma Center During COVID-19 Pandemic. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+
+2.  Bertram, C., Yeung, E., Senapathi, H., Perry, M., **Morada, A.**, Bertsch, D., and Cagir, B. Evaluation of the Survival Outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 Registry: What Do We Know?* *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+
+3.  Chai, S., Kolade, V., Senapathi, S. H., **Morada, A. O.**, Khaliq, A. A., and Malviya, B. Exploring the Quality of Internal Medicine Resident Ambulatory Patient Care: A Feasibility Study of the Patient-Doctor Relationship. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+
+4.  Senapathi, S. H., **Morada A. O.**, Morgan, P., and Cagir, B. Comparing Epidemiology and Survival of Gastrointestinal Stromal Tumors and Leiomyosarcomas. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+
+5.  **Morada, A.**, Marinock, J., Mirshahi, U., Smelser, D. T., and Carey, D. J. Examining the Genetic Burden of Two Rare Autosomal Dominant Diseases. *Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA. August 2018.
+
+6.  **Morada, A.**, Mehta, P. A., Miller, B. N., Alagappan, A. A., Wachsman, A., Gaddam, S., Jamil, L., Lo, S., and Nissen, N.Management of Pancreatic Fistula or Leak After Pancreatectomy: Perspective from a 14-Year Single Surgeon Experience. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA. January 2017.
+
+7.  Miller, B. N., **Morada, A.**, Gangi, A., Annamalai, A. A., Wachsman, A., Hendifar, A., Tuli, R., and Nissen, N. Challenging the Treatment Paradigm of Oligometastatic Pancreatic Adenocarcinoma with Selective Use of Locoregional Cytoreductive Therapies. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA. January 2017.
+
+8.  Miller, B. N., Mehta, P. A., **Morada, A.**, Hendifar, A., Annamalai, A. A., Wachsman, A., Deepti, D., and Nissen, N. Age-Related Differences in Presentation and Management of Pancreatic Neuroendocrine Tumors. *Society of Surgical Oncology’s 70th Annual Cancer Symposium*, Seattle, WA. March 2017.
+
+## Poster Presentations
+
+1.  **Morada, A. O.**, Senapathi, S. H., Bashiri, A., Chai, S., and Cagir, B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV. August 2021.
+
+2.  Yeung, E., Senapathi, S. H., **Morada, A. O.**, Wung, C., Miner, J., and Cagir, B. High-Output Ileostomy: A Retrospective Study on the Predictive Parameters of 30-Day Readmission from Dehydration. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV. August 2021.
+
+3.  Chai, S., Kolade, V., Senapathi, S. H., **Morada, A. O.**, Khaliq, A. A., and Malviya, B. Exploring the Quality of Internal Medicine Resident Ambulatory Patient Care: A Feasibility Study of the Patient-Doctor Relationship. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+
+4.  Senapathi, S. H., **Morada A. O.**, Morgan, P., and Cagir, B. Comparing Epidemiology and Survival of Gastrointestinal Stromal Tumors and Leiomyosarcomas. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+
+5.  Bertram, C., Yeung, E., Senapathi, S. H., Perry, M., **Morada, A. O.**, Bertsch, D., and Cagir, B. Evaluation of the Survival Outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 Registry: What Do We Know? *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+
+6.  Yeung, E., Senapathi, H., Perry, M., Bertram, C., **Morada, A. O.**, Bertsch, D., and Cagir, B. Evaluation of the Survival Outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 Registry. *Society of Surgical Oncology 2021: International Conference on Surgical Cancer Care*, Virtual Meeting. March 2021.
+
+7.  Senapathi, S. H., Perry, M., **Morada, A. O.**, Bertram, C., Yeung, E., Bertsch, D., and Cagir, B. Review of Intestinal Leiomyosarcomas: Epidemiology and Survival. *Society of Surgical Oncology 2021: International Conference on Surgical Cancer Care*, Virtual Meeting. March 2021.
+
+8.  **Morada, A.**, Adnani, A., Bombar, B., Rodriguez, A., Simpson, K., and Pamula, J. Optimizing Transition Care Management Referrals to Primary Care Providers. *Stanley Conklin Research Day*, Sayre, PA. April 2020.
+
+9.  Vaddadi, S., Vyas, N., Mathews, K., **Morada, A.**, Hanrahan, M., Santa-Lucia, G., and Davis, G. An Artificial Intelligence Tool to Aid in the Management of Mechanical Ventilation: A Proof-of-Concept Study. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA. March 2019.
+
+10.  Stewart, J., Behrman, J., Davis, G., **Morada, A.**, Vyas, N., Ali, B., Watson S., and Sorour K. Retrospective Evaluation of Dependency on Supplemental Oxygen in Patients Undergoing Therapeutic Hypothermia. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA. March 2019.
+
+11.  **Morada, A.**, Marinock, J., Mirshahi, U., Smelser, D. T., and Carey, D. J. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *American College of Surgeons Clinical Congress 2019*, San Francisco, CA. October 2019.
+
+12.  **Morada, A.**, Teixeira, A., Tripathi, K., Reisch-Neyman, Y., Davis, G., Sorour, O., and Sorour K. Intracolonic Administration of Vancomycin Via Cecal Tube in ICU Patients with Fulminant Clostridium Difficile Colitis. *16th Annual American Medical Association Research Symposium*, National Harbor, MD. November 2018.
+
+13.  **Morada, A.**, Marinock, J., Mirshahi, U., Smelser, D. T., and Carey, D. J. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA. August 2018.
+
+14.  Marinock, J., **Morada, A.**, Mirshahi, U., Smelser, D. T., and Carey, D. J. Rare Variants in APC Gene Increase Population Burden of Familial Adenomatous Polyposis. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA. August 2018.
+
+15.  Davis, G., **Morada, A.**, Myers T., and Sorour K. Effects of Body Temperature on Vasoactive-Inotropic Score. *Annual National Student Research Forum*, Galveston, TX. May 2018.
+
+16.  Bolock, A., Choudhary, M., Fei X., Loser M., **Morada, A.**, Stefanelli, M., and Rwabukwisi, F. Longitudinal Community Health Research Project: Colorectal Cancer Screening. *Geisinger Commonwealth School of Medicine Research Day*, Scranton, PA. March 2017.
+
+17.  Miller, B. N., Garnett, G., **Morada, A.**, Annamalai, A., and Nissen, N. Parenchymal-Preserving Resection for Pancreatic Neuroendocrine Tumors: Are the Outcomes Justified? *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL. May 2017.
+
+18.  **Morada, A.**, Mehta, P. A., Miller, B. N., and Nissen, N. Pancreatic Fistula or Leak After Distal Pancreatectomy: A 13-Year Single Surgeon Experience. *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL. May 2017.
+
+19.  Miao, Y., **Morada, A.**, Sun, A., and Foltz, K. R. Egg Activation Signaling Networks Revealed via High-Throughput Phosphoproteomics. *2015 Molecular, Cellular, and Developmental Biology Graduate Symposium*, Santa Barbara, CA. February 2015.
+
+20.  **Morada, A.**, Garcia-Vedrenne, A. E., and Foltz, K. R. Investigating Egg Activation Signaling Circuits Using High-Throughput Phosphoproteomics. *University of California – Santa Barbara’s Undergraduate Research Colloquium*, Santa Barbara, CA. May 2014.
+
+21.  **Morada, A.**, Garcia-Vedrenne, A. E., and Foltz, K. R. Profiling and Enrichment Mapping of the Sea Urchin Egg Phosphoproteome in Response to Fertilization. *University of California – Santa Barbara’s Undergraduate Research Colloquium*, Santa Barbara, CA. May 2013.
+
+------------------------------------------------------------------------
+
+# Certifications
+
+1.  **AI for Medicine** – DeepLearning.AI, Coursera. Completed: **2020**
+2.  **Machine Learning** – Stanford University, Coursera. Completed: **2017**
+3.  **Emergency Medical Technician Certification** – EMSA License E084811. Valid: **2011–2017**. Accredited by UCLA Center for Prehospital Care, Los Angeles, CA.
+4.  **Bleeding Control Basic Certification** – American College of Surgeons, Committee on Trauma
+
+------------------------------------------------------------------------
+
+# Honors and Awards
+
+- **1st Place Oral Presentation** – Stanley Conklin Research Day, 2021
+  *Project*: Trends of Trauma Admissions in a Rural Trauma Center During COVID-19 Pandemic.
+
+- **1st Place Poster Presentation** – Stanley Conklin Research Day, 2021
+  *Project*: Exploring the Quality of Internal Medicine Resident Ambulatory Patient Care: A Feasibility Study of the Patient-Doctor Relationship.
+
+- **Hacking Health Winner** – Geisinger Steel Institute, Danville, PA, 2019
+  Won $5000 for developing “Abby,” addressing provider burnout.
+
+- **Distinction in Research** – Geisinger Commonwealth School of Medicine Summer Research Symposium, 2018
+  *Project*: Examining the Genetic Burden of Two Rare Autosomal Dominant Diseases.
+
+- **Certificate of Achievement for Pharmacology & Toxicology** – National Student Research Forum, 2018
+  *Project*: Effects of Body Temperature on Vasoactive-Inotropic Score.
+
+- **1st Place Fundraising Team** – Purple Stride, Pancreatic Cancer Action Network, 2017
+  *Role*: Assistant Team Captain for the Cedars-Sinai Whipplers.
+
+- **Undergraduate Research and Creativities Grant (URCA)** – University of California, Santa Barbara, 2014
+  *Project*: Investigating Egg Activation Mechanisms Using High-Throughput Phosphoproteomics in S. Purpuratus.
+
+- **Undergraduate Research and Creativities Grant (URCA)** – University of California, Santa Barbara, 2013
+  *Project*: Profiling and Enrichment Mapping of the Sea Urchin Egg Phosphoproteome in Response to Fertilization.
+
+------------------------------------------------------------------------
+
+# Professional & School Organizations
+
+1. American College of Surgeons
+2. American Medical Association
+3. Asian Pacific American Medical Student Association
+4. Pennsylvania Medical Society
+5. Clinical Skills Club
+6. Commonwealth Cooking Club
+7. Global Health Society
+8. Great Escapes Book Club
+9. Medical Spanish Club
+10. Medical Students for Choice (MSFC)
+11. Pediatric Outreach Group for Students (POGS)
+12. Regional Education Academy for Careers in Health – Higher Education Initiative (REACH-HEI)
+13. Student Ambassadors
+14. Technology and Medicine Interest Group
+
+------------------------------------------------------------------------
+
+# Cultural Competencies
+
+1.  **LGBTQ+ Healthcare Training**: Completed workshops on equitable care and inclusive communication.
+2.  **Microaggressions and Bias Training**: Trained to identify and address microaggressions in clinical settings.
+3.  **Empathy Development**: Participated in simulations to understand challenges faced by low-income and disabled patients.
+4.  **Culturally Competent Surgical Care**: Attended sessions on culturally sensitive practices in surgery.
+5.  **Implicit Bias Training**: Completed training to mitigate biases in decision-making and patient care.
+6.  **Language Proficiency**: Acquired basic Spanish skills for effective communication with Spanish-speaking patients.
+
+------------------------------------------------------------------------
+
+# Skills
+
+1.  **Technical Skills**: Proficient in R, Python, SQL, and data analysis for clinical and research applications.
+2.  **Surgical Expertise**: Experienced in surgical oncology, transplant, and hepatobiliary-pancreatic procedures.
+3.  **Research Skills**: Expertise in study design, statistical analysis, and manuscript preparation.
+4.  **Leadership and Teaching**: Skilled in mentoring medical students and residents in clinical and academic settings.
+5.  **Language Proficiency**: Basic Spanish for effective communication with Spanish-speaking patients.
+6.  **Technology**: Proficient in EPIC electronic medical records and advanced Microsoft Office applications.
+7.  **Public Speaking**: Adept at delivering presentations at local, regional, and national conferences.
+8.  **Cultural Competency**: Experienced in addressing implicit biases and fostering inclusivity in clinical practice.
+9.  **Clinical Skills**: Advanced proficiency in laparoscopic and open surgical techniques.
+10. **Certifications**: FLS, ATLS, ACLS, and BLS certified for patient care and emergency response.
+
+------------------------------------------------------------------------
+
+# Personal Interests
+
+- **Photography**: Landscape and portrait photography using advanced DSLR equipment.
+- **Programming**: Data visualization and analysis with R and Python.
+- **Fitness**: Backpacking, cycling, running, and weightlifting.
+- **Fantasy Sports**: Managing and participating in basketball leagues.
+- **Motorsports**: Rally car racing, sim racing, F1 and MotoGP.
