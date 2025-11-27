@@ -17,8 +17,6 @@ plugins:
 header_pages:
   - index.md
   - cv.md
-  - publications/index.md
-  - presentations/index.md
 
 # Social Links
 linkedin_username: anthonyomorada
