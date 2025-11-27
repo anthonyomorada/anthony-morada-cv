@@ -29,10 +29,6 @@ defaults:
       path: "index.md"
     values:
       title: "Home"
-  - scope:
-      path: "cv.md"
-    values:
-      title: "Anthony Onde Morada, MD"
 
 # Social Links
 linkedin_username: anthonyomorada
