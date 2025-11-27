@@ -110,19 +110,19 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 ### Peer-Reviewed Articles
 
-1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. [**Full Text**](https://doi.org/10.1007/s00464-021-08847-7) \| [**PDF**](./publications/2022-sr-ileostomy-malig.pdf)
+1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. [**Full Text**](https://doi.org/10.1007/s00464-021-08847-7) | [**PDF**](./publications/2022-sr-ileostomy-malig.pdf)
 
-2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. [**Full Text**](https://doi.org/10.1016/j.jss.2023.02.040) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/37141703/)
+2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. [**Full Text**](https://doi.org/10.1016/j.jss.2023.02.040) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/37141703/)
 
-3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. [**Full Text**](https://doi.org/10.1016/j.amjsurg.2022.09.053) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/36216612/)
+3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. [**Full Text**](https://doi.org/10.1016/j.amjsurg.2022.09.053) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/36216612/)
 
-4.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. [**Full Text**](https://doi.org/10.1136/bcr-2021-247609) \| [**PMC Free**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)
+4.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. [**Full Text**](https://doi.org/10.1136/bcr-2021-247609) | [**PMC Free**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)
 
 5.  Senapathi H, **Morada A**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. [**Full Text - Open Access**](https://doi.org/10.7759/cureus.19447)
 
 6.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. [**Preprint**](https://doi.org/10.1101/2021.04.12.21255201)
 
-7.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. [**Full Text**](https://doi.org/10.1002/pmic.201500159) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/26572944/)
+7.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. [**Full Text**](https://doi.org/10.1002/pmic.201500159) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/26572944/)
 
 ### Manuscripts Under Review/In Preparation
 
@@ -213,7 +213,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 -   **1st Place Oral Presentation**, Donald Guthrie Foundation Stanley Conklin Research Day (2021)
 -   **1st Place Poster Presentation**, Donald Guthrie Foundation Stanley Conklin Research Day (2021)
--   **1st Place Hacking Health 2019 Winner**, Steel Institute for Health Innovation (\$5,000 award for "ABBY" - addressing provider burnout through EHR optimization)
+-   **1st Place Hacking Health 2019 Winner**, Steel Institute for Health Innovation ($5,000 award for "ABBY" - addressing provider burnout through EHR optimization)
 -   **Certificate of Achievement for Pharmacology & Toxicology**, UT Medical Branch National Student Research Forum (2018)
 -   **Distinction and Certificate of Excellence**, GCSOM Summer Research Symposium (2018)
 -   **1st Place Fundraising Team**, Pancreatic Cancer Action Network Purple Stride (2016, 2017) - Assistant Team Captain for Cedars-Sinai Whipplers
@@ -221,28 +221,28 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 ## Leadership and Service
 
-**Health Explorers Instructor** \| 2017 – 2019\
+**Health Explorers Instructor** | 2017 – 2019 |
 Regional Education Academy for Careers in Health (REACH-HEI), Geisinger Commonwealth School of Medicine - Provided academic enrichment and mentoring for **low-income and first-generation college students** in northeastern Pennsylvania
 
-**President** \| 2017 – 2019\
+**President** | 2017 – 2019 |
 Asian Pacific American Medical Student Association (APAMSA), Geisinger Commonwealth School of Medicine - Led organizational leadership and **community service initiatives** for APAMSA chapter
 
-**Peer Mentor** \| 2018 – 2019\
+**Peer Mentor** | 2018 – 2019 |
 MD Peer Mentorship Program, Geisinger Commonwealth School of Medicine - Mentored first- and second-year medical students during their **transition to medical school**
 
-**Team Abby Member** \| 2019\
-Hacking Health Competition, Geisinger Steel Institute for Health Innovation - **\$5,000 first place winner** for healthcare innovation project addressing **provider burnout** and operational efficiency
+**Team Abby Member** | 2019 |
+Hacking Health Competition, Geisinger Steel Institute for Health Innovation - ** |$5,000 first place winner** for healthcare innovation project addressing **provider burnout** and operational efficiency
 
-**Clinical Skills Chair** \| 2018 – 2019\
+**Clinical Skills Chair** | 2018 – 2019 |
 Plastic Surgery Interest Group, Geisinger Commonwealth School of Medicine - Organized **clinical skills workshops** and coordinated with anatomy lab for **realistic surgical simulation**
 
-**Assistant Team Captain** \| 2016 – 2017\
-Cedars-Sinai Whipplers, Pancreatic Cancer Action Network (PanCAN), Los Angeles, CA - Led team to **#1 fundraising position** with **\$200,000+ raised** over two years - Recruited **150+ team members** through outreach and marketing initiatives
+**Assistant Team Captain** | 2016 – 2017 |
+Cedars-Sinai Whipplers, Pancreatic Cancer Action Network (PanCAN), Los Angeles, CA - Led team to **#1 fundraising position** with ** |$200,000+ raised** over two years - Recruited **150+ team members** through outreach and marketing initiatives
 
-**Team KiPOW Member** \| 2016\
+**Team KiPOW Member** | 2016 |
 UC Irvine School of Medicine Pediatric Interest Group, Orange County, CA - **Health educator** teaching nutrition and exercise to elementary students through **UCI/CHOC partnership**
 
-**Clinical Volunteer** \| 2013 – 2014\
+**Clinical Volunteer** | 2013 – 2014 |
 COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura County, CA - Rotational volunteer experience across **multiple clinical departments** including emergency medicine and surgery
 
 ## Technical Skills and Certifications
@@ -265,25 +265,25 @@ COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura Count
 
 ## Cultural Competencies
 
-**Transgender Conference** \| November 2017\
+**Transgender Conference** | November 2017 |
 Geisinger Commonwealth School of Medicine, Scranton, PA - Engaged in training to learn and support unique health needs of transgender individuals
 
-**Safe Zone Trained** \| November 2017\
+**Safe Zone Trained** | November 2017 |
 Geisinger Commonwealth School of Medicine, Scranton, PA - Acquired understanding of importance of language in creating affirming environments for LGBTQ individuals
 
-**Cross-Cultural Communication Trained** \| November 2017\
+**Cross-Cultural Communication Trained** | November 2017 |
 Geisinger Commonwealth School of Medicine, Scranton, PA - Engaged in interactive activity to experience how culture plays vital role in navigating cultural spaces
 
-**Microaggression Training** \| November 2017\
+**Microaggression Training** | November 2017 |
 Geisinger Commonwealth School of Medicine, Scranton, PA - Interactive discussion regarding techniques to minimize microaggressions
 
-**Community Action Poverty Simulation** \| November 2017\
+**Community Action Poverty Simulation** | November 2017 |
 Geisinger Commonwealth School of Medicine, Scranton, PA - Interactive, immersive experience to gain awareness of poverty and understand experiences of those living in low-income environment
 
-**Psychiatric Disability Empathy Training** \| November 2017\
+**Psychiatric Disability Empathy Training** | November 2017 |
 Geisinger Commonwealth School of Medicine, Scranton, PA - Three-hour interactive training session on performing mental status exam in mock psychiatric emergency room
 
-**People with Disabilities as Teachers (PDAT) Training** \| November 2017\
+**People with Disabilities as Teachers (PDAT) Training** | November 2017 |
 Geisinger Commonwealth School of Medicine, Scranton, PA - Communication with partners at Center for Independent Living to understand life and interactions of those living with disabilities
 
 ## Personal Interests
