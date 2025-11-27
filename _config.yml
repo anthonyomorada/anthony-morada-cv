@@ -1,6 +1,7 @@
 # Site Settings
-title: "Anthony Onde Morada, MD"
+title: "" 
 description: "General Surgery Resident (PGY-4) | Transplant Surgery Researcher"
+show_excerpts: false
 author: "Anthony Onde Morada"
 email: anthony.omorada@gmail.com
 url: "https://anthonyomorada.github.io"
@@ -13,10 +14,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation (optional - for future menu)
+# Navigation
 header_pages:
   - index.md
   - cv.md
+
+# Customize page titles for nav
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Social Links
 linkedin_username: anthonyomorada
