@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Full CV"
 ---
 
 # Anthony Onde Morada, MD
