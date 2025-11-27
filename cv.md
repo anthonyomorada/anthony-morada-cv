@@ -105,7 +105,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 ### Peer-Reviewed Articles
 
-1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. **[Full Text](https://doi.org/10.1007/s00464-021-08847-7)** | **[PDF](publications/2022-ileostomy-systematic-review.pdf)**
+1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. **[Full Text](https://doi.org/10.1007/s00464-021-08847-7)** | **[PDF](./publications/2022-sr-ileostomy-malig.pdf)**
 
 2. Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. **[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)** | **[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)**
 
@@ -162,7 +162,7 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 
 ### Poster Presentations
 
-1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [🖼️ PDF](../presentations/2021-sages-poster.pdf)
+1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [🖼️ PDF](./presentations/2021-sages-poster.pdf)
 
 2. Yeung E, Senapathi SH, **Morada AO**, Wung C, Miner J, Cagir B. High Output Ileostomy: A Retrospective Study on the Predictive Parameters of 30 Days Readmission from Dehydration. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021.
 

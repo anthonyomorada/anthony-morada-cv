@@ -1,19 +1,38 @@
-title: "My Curriculum Vitae Landing Page"
-description: General Surgery Resident - Portfolio
+# Site Settings
+title: "Anthony Onde Morada, MD"
+description: "General Surgery Resident (PGY-4) | Transplant Surgery Researcher"
+author: "Anthony Onde Morada"
+email: anthony.omorada@gmail.com
 url: "https://anthonyomorada.github.io"
 baseurl: "/anthony-morada-cv"
+
+# GitHub Pages
 theme: minima
-
-author:
-  name: "Anthony Onde Morada"
-  email: anthony.omorada@gmail.com
-
-show_excerpts: false
-header_pages: false
-
+markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-seo-tag
 
-markdown: kramdown
-highlighter: rouge
+# Navigation (optional - for future menu)
+header_pages:
+  - index.md
+  - cv.md
+  - publications/index.md
+  - presentations/index.md
+
+# Social Links
+linkedin_username: anthonyomorada
+github_username: anthonyomorada
+twitter_username: anthonyomorada
+orcid: 0000-0002-0428-6558
+
+# Build settings
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - assets/convert_cv.py
+  - README.md
+  - LICENSE
+  - .gitignore
