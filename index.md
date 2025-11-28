@@ -39,12 +39,12 @@ p {
 }
 
 h2 {
-  margin-top: 2em;
-  margin-bottom: 1em;
+  margin-top: 1.25em;
+  margin-bottom: 0.85em;
 }
 
 hr {
-  margin: 2em 0;
+  margin: 1.25em 0;
 }
 
 /* Improved text contrast */
@@ -88,11 +88,10 @@ hr {
   vertical-align: middle;
 }
 
-/* Hero section - tighter spacing */
 .hero-section {
   text-align: center;
-  padding: 30px 0 20px;
-  margin-bottom: 30px;
+  padding: 26px 0 14px;
+  margin-bottom: 12px;
 }
 
 .hero-section h1 {
@@ -143,6 +142,10 @@ hr {
   font-size: 1.1em;
   min-height: 48px;
   transition: background 0.3s ease;
+}
+
+.nav-card:visited {
+  color: white;
 }
 
 .nav-card:hover {
