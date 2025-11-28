@@ -7,9 +7,9 @@ layout: default
   --primary-color: #2c5aa0;
   --primary-dark: #1a3a5c;
   --light-bg: #f8f9fa;
-  --text-dark: #1a1a1a;
-  --link-color: #2c5aa0;
-  --link-visited: #5a3b8a;
+  --text-dark: #1a3a5c;
+  --link-color: var(--primary-color);
+  --link-visited: var(--primary-dark);
 }
 
 body {
@@ -19,7 +19,6 @@ body {
   color: var(--text-dark);
 }
 
-/* Page link colors */
 a {
   color: var(--link-color);
   text-decoration: none;
@@ -35,63 +34,55 @@ a:hover {
 
 /* Tighter paragraph and heading spacing */
 p {
-  margin: 0.8em 0;
+  margin: 0.7em 0;
 }
 
 h2 {
-  margin-top: 1.25em;
-  margin-bottom: 0.85em;
+  margin-top: 1.1em;
+  margin-bottom: 0.7em;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+h1 {
+  border-bottom: none;
+  padding-bottom: 0;
 }
 
 hr {
-  margin: 1.25em 0;
+  margin: 1em 0;
 }
 
-/* Improved text contrast */
 .hero-tagline {
   font-size: 1.2em;
-  color: #4a4a4a;
-  margin-bottom: 20px;
+  color: var(--text-dark);
+  margin-bottom: 14px;
 }
 
 .stat-card p {
   margin: 10px 0 0 0;
   font-size: 0.95em;
-  color: #4a4a4a;
+  color: var(--text-dark);
 }
 
 .featured-item .meta {
-  color: #5a5a5a;
+  color: var(--text-dark);
   font-size: 0.9em;
   margin: 10px 0;
 }
 
 .contact-badges {
   display: flex;
-  gap: 10px;
+  gap: 8px;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 20px 0;
-}
-
-.contact-badges a {
-  display: inline-block;
-  padding: 8px;
-  min-height: 48px;
-  min-width: 48px;
-  line-height: 0;
-}
-
-.contact-badges img {
-  height: auto;
-  max-height: 28px;
-  vertical-align: middle;
+  margin: 0px 0px;
 }
 
 .hero-section {
   text-align: center;
-  padding: 26px 0 14px;
-  margin-bottom: 12px;
+  padding: 18px 0 10px;
+  margin-bottom: 8px;
 }
 
 .hero-section h1 {
@@ -104,13 +95,13 @@ hr {
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 20px;
-  margin: 30px 0;
+  gap: 16px;
+  margin: 20px 0;
 }
 
 .stat-card {
   text-align: center;
-  padding: 25px;
+  padding: 16px;
   background: var(--light-bg);
   border-radius: 8px;
   border-left: 4px solid var(--primary-color);
@@ -122,17 +113,16 @@ hr {
   color: var(--primary-color);
 }
 
-/* Navigation cards - tighter spacing */
 .nav-cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-  margin: 30px 0;
+  gap: 16px;
+  margin: 18px 0;
 }
 
 .nav-card {
   display: block;
-  padding: 30px 20px;
+  padding: 10px 16px;
   background: var(--primary-color);
   color: white;
   text-align: center;
@@ -153,7 +143,6 @@ hr {
   color: white;
 }
 
-/* Featured section - tighter spacing */
 .featured-section {
   margin: 30px 0;
 }
@@ -175,7 +164,6 @@ hr {
   line-height: 1.6;
 }
 
-/* Awards list */
 .awards-list {
   display: grid;
   gap: 15px;
@@ -200,8 +188,8 @@ hr {
   }
   
   .hero-section {
-    padding: 20px 0 15px;
-    margin-bottom: 20px;
+    padding: 16px 0 12px;
+    margin-bottom: 12px;
   }
   
   .hero-section h1 {
@@ -210,12 +198,12 @@ hr {
   
   .stats-grid {
     grid-template-columns: repeat(2, 1fr);
-    margin: 20px 0;
+    margin: 18px 0;
   }
   
   .nav-cards {
     grid-template-columns: 1fr;
-    margin: 20px 0;
+    margin: 18px 0;
   }
   
   .featured-section {
@@ -260,7 +248,7 @@ hr {
   </a>
 </div>
 
-<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: 10px;">
+<p style="text-align: center; color: var(--text-dark); font-size: 0.9em; margin-top: 10px;">
   <em>Last Updated: November 2025</em><br>
   <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
 </p>
