@@ -167,7 +167,7 @@ layout: default
   <h1>Anthony Onde Morada, MD</h1>
   <p class="hero-tagline">General Surgery Resident (PGY-4) | Transplant Surgery Researcher</p>
   <p>Geisinger Northeast General Surgery Program<br>
-  Los Angeles Native 🇵🇭🇺🇸 | UCSB Alum | Former Cedars-Sinai Transplant Research</p>
+  UCSB Alumnus | Cedars-Sinai Transplant Research (2015-2017)</p>
   
   <div class="contact-badges">
     <a href="https://orcid.org/0000-0002-0428-6558" target="_blank">
@@ -178,9 +178,6 @@ layout: default
     </a>
     <a href="https://github.com/anthonyomorada" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-anthonyomorada-black?style=flat-square&logo=github" alt="GitHub">
-    </a>
-    <a href="https://twitter.com/anthonyomorada" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-@anthonyomorada-1DA1F2?style=flat-square&logo=twitter" alt="Twitter">
     </a>
   </div>
 </div>
@@ -205,6 +202,16 @@ layout: default
   <em>Last Updated: November 2025</em><br>
   <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
 </p>
+
+---
+
+## 📬 Contact
+
+**Institutional Email:** [amorada1@geisinger.edu](mailto:amorada1@geisinger.edu)  
+**Personal Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com)  
+**Phone:** +1 (909) 239-3581
+
+**ORCID:** [0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558) | **LinkedIn:** [anthonyomorada](https://linkedin.com/in/anthonyomorada) | **GitHub:** [anthonyomorada](https://github.com/anthonyomorada)
 
 ---
 
@@ -245,51 +252,28 @@ From computational genomics at Geisinger's DiscovEHR to clinical research at Ced
 
 ---
 
-## 🔬 Featured Publications
+## 🔬 Selected Publications
 
-<div class="featured-section">
+1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348 [[PDF](publications/2022-ileostomy-review.pdf)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34997348/)]
 
-<div class="featured-item">
-  <h3>A Systematic Review of Primary Ileostomy Site Malignancies</h3>
-  <p class="meta"><strong>Morada AO</strong>, Senapathi SH, Bashiri A, Chai S, Cagir B<br>
-  <em>Surgical Endoscopy</em> (2022) 36(3):1750-1760 • PMID: 34997348</p>
-  <p class="description">First comprehensive systematic review examining malignant transformation at ileostomy sites, synthesizing 50+ years of case reports and establishing clinical surveillance guidelines for high-risk patients.</p>
-  <p><strong><a href="publications/2022-ileostomy-review.pdf">📄 Download PDF</a></strong> | <a href="https://pubmed.ncbi.nlm.nih.gov/34997348/" target="_blank">PubMed</a></p>
-</div>
+2. **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. [[Preprint](https://doi.org/10.1101/2021.04.12.21255201)]
 
-<div class="featured-item">
-  <h3>Predicting Severe COVID-19 Outcomes for Triage and Resource Allocation</h3>
-  <p class="meta"><strong>Morada AO</strong>, Scheidel C, Brown JL, Albright J, Kolade V, Cagir B<br>
-  <em>MedRxiv</em> (2021) • Preprint</p>
-  <p class="description">Machine learning model achieving 87% accuracy for predicting ICU admission and mortality risk in COVID-19 patients, developed during pandemic surge to optimize resource allocation in rural healthcare settings.</p>
-  <p><strong><a href="publications/2021-covid-prediction.pdf">📄 Download PDF</a></strong> | <a href="https://doi.org/10.1101/2021.04.12.21255201" target="_blank">View Preprint</a></p>
-</div>
+3. Bashiri A, **Morada A**, Sultany M, et al. Trends of trauma admissions during COVID-19 pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)]
 
-<div class="featured-item">
-  <h3>Trends of Trauma Admissions During COVID-19 Pandemic</h3>
-  <p class="meta">Bashiri A, <strong>Morada A</strong>, Sultany M, et al.<br>
-  <em>Journal of Surgical Research</em> (2023) 289:202-210 • PMID: 37141703</p>
-  <p class="description">Analysis of trauma admission patterns at rural trauma center during pandemic, identifying significant shifts in injury mechanisms, demographics, and clinical outcomes that inform future pandemic preparedness.</p>
-  <p><strong><a href="publications/2023-trauma-covid.pdf">📄 Download PDF</a></strong> | <a href="https://pubmed.ncbi.nlm.nih.gov/37141703/" target="_blank">PubMed</a></p>
-</div>
-
-<p style="text-align: center; margin-top: 30px;">
-  <strong><a href="cv.html#publications">→ View All Publications in Full CV</a></strong>
-</p>
-
-</div>
+**[→ View all 7 publications in full CV](cv.html#publications)**
 
 ---
 
 ## 💼 Research Experience Highlights
 
-### **Cedars-Sinai Medical Center** (2015-2017)
-**Clinical Research Data Specialist** • Liver Transplant & Hepatobiliary Surgery
+### **Cedars-Sinai Medical Center Liver Transplant Program** (2015-2017)
+**Clinical Research Data Specialist** • Department of Liver Transplant & Hepatobiliary Surgery
 
-- Coordinated clinical trials for liver transplant recipients and living donor candidates
-- Managed transplant outcomes biorepository with specimens from 500+ patients
-- Served as IRB contact for liver transplant clinical trials including immunosuppression protocols
-- Performed statistical analyses for transplant surgery publications using R/SQL
+- Coordinated clinical trials for liver transplant recipients and living donor candidates under Dr. Nicholas Nissen
+- Managed transplant outcomes biorepository with specimens from 500+ transplant patients
+- IRB contact for liver transplant clinical trials evaluating immunosuppression protocols and rejection outcomes
+- Statistical analyses for transplant surgery research publications using R/SQL programming
+- Direct collaboration with transplant surgery faculty on post-transplant outcomes research
 
 ### **Geisinger DiscovEHR Project** (2017-2018)
 **Genomic Data Analyst** • Weis Center for Research
@@ -323,21 +307,6 @@ From computational genomics at Geisinger's DiscovEHR to clinical research at Ced
     Geisinger Commonwealth School of Medicine (2018)
   </div>
 </div>
-
----
-
-## 📬 Contact Information
-
-**Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com) | [amorada1@geisinger.edu](mailto:amorada1@geisinger.edu)  
-**Phone:** +1 (909) 239-3581  
-**Address:** 208 Main St., Avoca, PA 18641
-
-**Professional Profiles:**  
-ORCID: [0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558)  
-LinkedIn: [anthonyomorada](https://linkedin.com/in/anthonyomorada)  
-GitHub: [anthonyomorada](https://github.com/anthonyomorada)  
-Twitter: [@anthonyomorada](https://twitter.com/anthonyomorada)  
-Instagram: [@anthonyomorada](https://instagram.com/anthonyomorada)
 
 ---
 
