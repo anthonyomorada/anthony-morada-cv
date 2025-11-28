@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div class="web-only" style="margin-bottom: 20px;">
+  <a href="index.html">← Back to Home</a>
+</div>
+
 # Anthony Onde Morada, MD
 
 ## Contact Information
