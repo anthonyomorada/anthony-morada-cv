@@ -2,7 +2,48 @@
 layout: default
 ---
 
-# Anthony Onde Morada, MD
+<style>
+.cv-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.cv-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 3px solid #2c5aa0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cv-header-text {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .cv-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .cv-photo {
+    width: 120px;
+    height: 120px;
+  }
+}
+</style>
+
+<div class="cv-header">
+  <img src="{{ site.baseurl }}/assets/profile-photo.JPEG" alt="Anthony Onde Morada, MD" class="cv-photo">
+  <div class="cv-header-text">
+    <h1 style="margin-top: 0;">Anthony Onde Morada, MD</h1>
+  </div>
+</div>
 
 ## Contact Information
 

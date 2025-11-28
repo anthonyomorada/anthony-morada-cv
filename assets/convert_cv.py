@@ -69,14 +69,19 @@ def find_cv_file():
         return cv_file
     return None
 
-def convert_to_docx(input_file, output_file):
-    """Convert markdown to Word document"""
+def convert_to_docx(input_file, output_file, reference_doc=None):
+    """Convert markdown to Word document with optional styling"""
     cmd = [
         'pandoc', str(input_file),
         '-f', 'markdown',
         '-t', 'docx',
         '-o', str(output_file)
     ]
+
+    # Add reference document if provided
+    if reference_doc and reference_doc.exists():
+        cmd.extend(['--reference-doc', str(reference_doc)])
+        print(f"📎 Using reference document: {reference_doc}")
 
     try:
         subprocess.run(cmd, check=True, capture_output=True)
@@ -86,14 +91,19 @@ def convert_to_docx(input_file, output_file):
         print(f"❌ Word generation failed")
         return False
 
-def convert_to_pdf(input_file, output_file, latex_engine):
-    """Convert markdown to PDF"""
+def convert_to_pdf(input_file, output_file, latex_engine, css_file=None):
+    """Convert markdown to PDF with optional styling"""
     cmd = [
         'pandoc', str(input_file),
         '-f', 'markdown',
         '-o', str(output_file),
         f'--pdf-engine={latex_engine}'
     ]
+
+    # Add CSS if provided
+    if css_file and css_file.exists():
+        cmd.extend(['--css', str(css_file)])
+        print(f"📎 Using stylesheet: {css_file}")
 
     try:
         print("Running pandoc PDF conversion...")
@@ -141,16 +151,32 @@ def main():
     docx_output = output_dir / "cv.docx"
     pdf_output = output_dir / "cv.pdf"
 
+    # Check for optional styling files
+    reference_doc = Path("assets/cv-reference.docx")
+    css_file = Path("assets/style.css")
+
+    if not reference_doc.exists():
+        reference_doc = None
+        print("💡 No reference document found - using default Word styling")
+        print("   To customize Word: create assets/cv-reference.docx")
+
+    if not css_file.exists():
+        css_file = None
+        print("💡 No CSS file found - using default PDF styling")
+        print("   To customize PDF: assets/style.css already exists")
+    else:
+        print(f"📎 Found stylesheet: {css_file}")
+
     print(f"📁 Output: {output_dir}/")
 
     # Convert files
     print("🔄 Converting...")
 
-    docx_success = convert_to_docx(input_file, docx_output)
+    docx_success = convert_to_docx(input_file, docx_output, reference_doc)
 
     pdf_success = False
     if latex_engine:
-        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine)
+        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine, css_file)
     else:
         print("⏭️  Skipping PDF (no LaTeX)")
 

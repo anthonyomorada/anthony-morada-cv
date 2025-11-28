@@ -16,6 +16,17 @@ layout: default
   margin-bottom: 40px;
 }
 
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 30px;
+  display: block;
+  border: 5px solid var(--primary-color);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
 .hero-section h1 {
   font-size: 2.5em;
   margin-bottom: 10px;
@@ -133,14 +144,20 @@ layout: default
 }
 
 @media (max-width: 768px) {
+  .profile-photo {
+    width: 150px;
+    height: 150px;
+    border-width: 3px;
+  }
+
   .hero-section h1 {
     font-size: 1.8em;
   }
-  
+
   .stats-grid {
     grid-template-columns: repeat(2, 1fr);
   }
-  
+
   .nav-cards {
     grid-template-columns: 1fr;
   }
@@ -148,6 +165,7 @@ layout: default
 </style>
 
 <div class="hero-section">
+  <img src="{{ site.baseurl }}/assets/profile-photo.JPEG" alt="Anthony Onde Morada, MD" class="profile-photo">
   <h1>Anthony Onde Morada, MD</h1>
   <p class="hero-tagline">General Surgery Resident (PGY-4) | Transplant Surgery Researcher</p>
   <p>Geisinger Northeast General Surgery Program<br>
