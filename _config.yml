@@ -14,9 +14,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-minima:
-  skin: classic
-
 # Navigation
 header_pages:
   - index.md
@@ -37,8 +34,9 @@ defaults:
     values:
       title: "CV"
 
-# Social Links (for footer icons)
+# Minima theme settings
 minima:
+  skin: classic
   social_links:
     - title: GitHub
       icon: github
