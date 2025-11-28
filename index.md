@@ -10,6 +10,77 @@ layout: default
   --text-dark: #1a1a1a;
 }
 
+/* Research-backed typography */
+body {
+  font-size: 16px;
+  line-height: 1.6;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  color: var(--text-dark);
+}
+
+/* Improved text contrast (was #666, now #4a4a4a for better readability) */
+.hero-tagline {
+  font-size: 1.2em;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.stat-card p {
+  margin: 10px 0 0 0;
+  font-size: 0.95em;
+  color: #4a4a4a;
+}
+
+.featured-item .meta {
+  color: #5a5a5a;
+  font-size: 0.9em;
+  margin: 10px 0;
+}
+
+/* Touch target accessibility (48px minimum) */
+.contact-badges {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.contact-badges a {
+  display: inline-block;
+  padding: 8px;
+  min-height: 48px;
+  min-width: 48px;
+  line-height: 0;
+}
+
+.contact-badges img {
+  height: auto;
+  max-height: 28px;
+  vertical-align: middle;
+}
+
+/* Ensure nav cards meet touch targets */
+.nav-card {
+  display: block;
+  padding: 30px 20px;
+  background: var(--primary-color);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1em;
+  min-height: 48px;
+  transition: background 0.3s ease;
+}
+
+.nav-card:hover {
+  background: var(--primary-dark);
+  color: white;
+}
+
+/* Hero section */
 .hero-section {
   text-align: center;
   padding: 40px 0;
@@ -22,35 +93,7 @@ layout: default
   color: var(--text-dark);
 }
 
-.hero-tagline {
-  font-size: 1.2em;
-  color: #5a5a5a;  
-  margin-bottom: 20px;
-}
-
-/* Fix touch targets for badge images */
-.contact-badges {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: 20px 0;
-}
-
-.contact-badges a {
-  display: inline-block;
-  padding: 8px;  /* Creates larger clickable area */
-  min-height: 44px;  /* WCAG minimum */
-  min-width: 44px;
-  line-height: 0;  /* Prevents extra space around images */
-}
-
-.contact-badges img {
-  height: auto;
-  max-height: 28px;  /* Keep badges readable */
-  vertical-align: middle;
-}
-
+/* Stats grid */
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -72,12 +115,7 @@ layout: default
   color: var(--primary-color);
 }
 
-.stat-card p {
-  margin: 10px 0 0 0;
-  font-size: 0.95em;
-  color: #4a4a4a; 
-}
-
+/* Navigation cards */
 .nav-cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -85,24 +123,7 @@ layout: default
   margin: 40px 0;
 }
 
-.nav-card {
-  display: block;
-  padding: 30px 20px;
-  background: var(--primary-color);
-  color: white;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
-  font-size: 1.1em;
-  transition: background 0.3s ease;
-}
-
-.nav-card:hover {
-  background: var(--primary-dark);
-  color: white;
-}
-
+/* Featured section */
 .featured-section {
   margin: 50px 0;
 }
@@ -119,17 +140,12 @@ layout: default
   color: var(--primary-color);
 }
 
-.featured-item .meta {
-  color: #5a5a5a;  
-  font-size: 0.9em;
-  margin: 10px 0;
-}
-
 .featured-item .description {
   margin: 15px 0;
   line-height: 1.6;
 }
 
+/* Awards list */
 .awards-list {
   display: grid;
   gap: 15px;
@@ -147,7 +163,12 @@ layout: default
   color: var(--primary-color);
 }
 
+/* Mobile responsive */
 @media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+  
   .hero-section h1 {
     font-size: 1.8em;
   }
@@ -198,7 +219,7 @@ layout: default
   </a>
 </div>
 
-<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: 20px;">
+<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: 10px;">
   <em>Last Updated: November 2025</em><br>
   <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
 </p>
@@ -210,8 +231,7 @@ layout: default
 **Institutional Email:** [amorada1@geisinger.edu](mailto:amorada1@geisinger.edu)  
 **Personal Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com)  
 **Phone:** +1 (909) 239-3581
-
-**ORCID:** [0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558) | **LinkedIn:** [anthonyomorada](https://linkedin.com/in/anthonyomorada) | **GitHub:** [anthonyomorada](https://github.com/anthonyomorada)
+**ORCID:** [0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558) • **LinkedIn:** [anthonyomorada](https://linkedin.com/in/anthonyomorada) • **GitHub:** [anthonyomorada](https://github.com/anthonyomorada)
 
 ---
 
@@ -317,4 +337,3 @@ From computational genomics at Geisinger's DiscovEHR to clinical research at Ced
 - American College of Surgeons
 - American Medical Association
 - Pennsylvania Medical Society
-
