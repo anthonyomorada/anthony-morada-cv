@@ -8,7 +8,7 @@ layout: default
 
 **Phone:** +1 (909) 239-3581
 
-**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) | [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)
+**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) · [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)
 
 **Address:** 208 Main St. Avoca, PA 18641-1544
 
@@ -54,9 +54,9 @@ UCLA Center for Prehospital Care, Los Angeles, CA
 -   **Clinical Investigator and Analyst** | 2020 – 2022
     Donald Guthrie Foundation, Guthrie Robert Packer Hospital, Sayre, PA
     -   **Principal investigator** for prospective observational study improving readmission rates in high-output ileostomy patients ([NCT04669964](https://clinicaltrials.gov/ct2/show/NCT04669964))
-    -   **Led protocol development** and IRB approval process for **registered clinical trial**
-    -   Developed evidence-based protocol improving surgical resident autonomy through **structured laparoscopic training**
-    -   **Published results** contributing to surgical education and patient outcomes literature
+    -   Led protocol development and IRB approval process for registered clinical trial
+    -   Developed evidence-based protocol improving surgical resident autonomy through structured laparoscopic training
+    -   Published results contributing to surgical education and patient outcomes literature
 -   **Student Investigator** | 2019 – 2020
     Quality Improvement Community Collaborative (QUICC) – Transition Care Management, Guthrie Robert Packer Hospital, Sayre, PA
     -   Developed prospective quality improvement project to increase transition care management compliance
@@ -69,17 +69,17 @@ UCLA Center for Prehospital Care, Los Angeles, CA
     -   Organized research opportunities and presented four collaborative projects at conferences
 -   **Student Investigator** | 2017 – 2018
     Weis Center for Research, Geisinger Medical Center, Danville, PA
-    -   Analyzed genomic data from **92,297 patients** in Geisinger's MyCode and DiscovEHR program—**one of the largest healthcare genomic databases**
-    -   Performed high-volume statistical analyses using **R programming** on whole exome sequences to identify rare disease variants
-    -   **Focus on autosomal dominant diseases** relevant to transplant genetics and familial conditions
-    -   Awarded **competitive grant funding** from GCSOM's Summer Research Immersion Program
+    -   Analyzed genomic data from **92,297 patients** in Geisinger's MyCode and DiscovEHR program—one of the largest healthcare genomic databases
+    -   Performed high-volume statistical analyses using R programming on whole exome sequences to identify rare disease variants
+    -   Focus on autosomal dominant diseases relevant to transplant genetics and familial conditions
+    -   Awarded competitive grant funding from GCSOM's Summer Research Immersion Program
 -   **Clinical Research Data Specialist** | 2015 – 2017
-    Departments of **Liver Transplant & Hepatobiliary and Pancreatic Surgery**, Cedars-Sinai Medical Center, Los Angeles, CA
-    -   Coordinated clinical research studies for **liver transplant recipients** and **living donor** candidates
-    -   Managed **transplant outcomes biorepository** with specimens from 500+ transplant patients for translational research
-    -   Served as IRB contact for **liver transplant clinical trials** including immunosuppression protocols and rejection studies
-    -   Collaborated directly with **transplant surgeons** on publications analyzing **post-transplant outcomes** and surgical complications
-    -   Performed statistical analyses using R programming for **transplant surgery research** published in peer-reviewed journals
+    Departments of Liver Transplant & Hepatobiliary and Pancreatic Surgery, Cedars-Sinai Medical Center, Los Angeles, CA
+    -   Coordinated clinical research studies for liver transplant recipients and living donor candidates
+    -   Managed transplant outcomes biorepository with specimens from **500+ transplant patients** for translational research
+    -   Served as IRB contact for liver transplant clinical trials including immunosuppression protocols and rejection studies
+    -   Collaborated directly with transplant surgeons on publications analyzing post-transplant outcomes and surgical complications
+    -   Performed statistical analyses using R programming for transplant surgery research published in peer-reviewed journals
 -   **Clinical Research Volunteer** | 2015
     Department of Microbiology, St. John's Regional Medical Center, Oxnard, CA
     -   Analyzed blood culture contamination data using R programming
@@ -106,29 +106,29 @@ UCLA Center for Prehospital Care, Los Angeles, CA
 
 ### Peer-Reviewed Articles
 
-1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. [**Full Text**](https://doi.org/10.1007/s00464-021-08847-7) | [**PDF**](./publications/2022-sr-ileostomy-malig.pdf)
+1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. [[Full Text](https://doi.org/10.1007/s00464-021-08847-7)] [[PDF](./publications/2022-sr-ileostomy-malig.pdf)]
 
-2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. [**Full Text**](https://doi.org/10.1016/j.jss.2023.02.040) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/37141703/)
+2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. [[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)]
 
-3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. [**Full Text**](https://doi.org/10.1016/j.amjsurg.2022.09.053) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/36216612/)
+3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. [[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)]
 
-4.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. [**Full Text**](https://doi.org/10.1136/bcr-2021-247609) | [**PMC Free**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)
+4.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. [[Full Text](https://doi.org/10.1136/bcr-2021-247609)] [[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)]
 
-5.  Senapathi H, **Morada A**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. [**Full Text - Open Access**](https://doi.org/10.7759/cureus.19447)
+5.  Senapathi H, **Morada A**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. [[Open Access](https://doi.org/10.7759/cureus.19447)]
 
-6.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. [**Preprint**](https://doi.org/10.1101/2021.04.12.21255201)
+6.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. [[Preprint](https://doi.org/10.1101/2021.04.12.21255201)]
 
-7.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. [**Full Text**](https://doi.org/10.1002/pmic.201500159) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/26572944/)
+7.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. [[Full Text](https://doi.org/10.1002/pmic.201500159)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26572944/)]
 
 ### Manuscripts Under Review/In Preparation
 
--   Dewar Z, **Morada AO**, Senapathi H, Rittenberger J. Ultrasound versus combined ultrasound and modified Seldinger technique in obtaining difficult peripheral intravenous access: A systematic review and meta-analysis. [**PROSPERO Protocol**](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=210386) *Manuscript in preparation*
+-   Dewar Z, **Morada AO**, Senapathi H, Rittenberger J. Ultrasound versus combined ultrasound and modified Seldinger technique in obtaining difficult peripheral intravenous access: A systematic review and meta-analysis. [[PROSPERO Protocol](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=210386)] *Manuscript in preparation*
 
 -   Seungwoo C, Senapathi SH, **Morada AO**, et al. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study. *Manuscript in preparation*
 
 ### Media & Publications
 
--   **Morada AO**, Mackarey P. Finding your way clear of opioid problems. *The Scranton Times-Tribune*. August 27, 2018. [**Full Article**](https://www.thetimes-tribune.com/news/finding-your-way-clear-of-opioid-problems-1.2378516)
+-   **Morada AO**, Mackarey P. Finding your way clear of opioid problems. *The Scranton Times-Tribune*. August 27, 2018. [[Full Article](https://www.thetimes-tribune.com/news/finding-your-way-clear-of-opioid-problems-1.2378516)]
 -   **Morada A**. Ending Tuberculosis: A Global Commitment. *The Traveler*. December 2017.
 
 ### Peer Review Activities
@@ -219,48 +219,48 @@ UCLA Center for Prehospital Care, Los Angeles, CA
 
 -   **Health Explorers Instructor** | 2017 – 2019
     Regional Education Academy for Careers in Health (REACH-HEI), Geisinger Commonwealth School of Medicine
-    -   Provided academic enrichment and mentoring for **low-income and first-generation college students** in northeastern Pennsylvania
+    -   Provided academic enrichment and mentoring for low-income and first-generation college students in northeastern Pennsylvania
 -   **President** | 2017 – 2019
     Asian Pacific American Medical Student Association (APAMSA), Geisinger Commonwealth School of Medicine
-    -   Led organizational leadership and **community service initiatives** for APAMSA chapter
+    -   Led organizational leadership and community service initiatives for APAMSA chapter
 -   **Peer Mentor** | 2018 – 2019
     MD Peer Mentorship Program, Geisinger Commonwealth School of Medicine
-    -   Mentored first- and second-year medical students during their **transition to medical school**
+    -   Mentored first- and second-year medical students during their transition to medical school
 -   **Team Abby Member** | 2019
     Hacking Health Competition, Geisinger Steel Institute for Health Innovation
-    -   **\$5,000 first place winner** for healthcare innovation project addressing **provider burnout** and operational efficiency
+    -   **\$5,000 first place winner** for healthcare innovation project addressing provider burnout and operational efficiency
 -   **Clinical Skills Chair** | 2018 – 2019
     Plastic Surgery Interest Group, Geisinger Commonwealth School of Medicine
-    -   Organized **clinical skills workshops** and coordinated with anatomy lab for **realistic surgical simulation**
+    -   Organized clinical skills workshops and coordinated with anatomy lab for realistic surgical simulation
 -   **Assistant Team Captain** | 2016 – 2017
     Cedars-Sinai Whipplers, Pancreatic Cancer Action Network (PanCAN), Los Angeles, CA
     -   Led team to **#1 fundraising position** with **\$200,000+ raised** over two years
-    -   Recruited **150+ team members** through outreach and marketing initiatives
+    -   Recruited 150+ team members through outreach and marketing initiatives
 -   **Team KiPOW Member** | 2016
     UC Irvine School of Medicine Pediatric Interest Group, Orange County, CA
-    -   **Health educator** teaching nutrition and exercise to elementary students through **UCI/CHOC partnership**
+    -   Health educator teaching nutrition and exercise to elementary students through UCI/CHOC partnership
 -   **Clinical Volunteer** | 2013 – 2014
     COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura County, CA
-    -   Rotational volunteer experience across **multiple clinical departments** including emergency medicine and surgery
+    -   Rotational volunteer experience across multiple clinical departments including emergency medicine and surgery
 
 ## Technical Skills and Certifications
 
 -   **Programming & Data Analysis**
-    -   **R Programming:** Advanced statistical analysis of **92,297+ patient genomic datasets**, clinical outcomes research
-    -   **Python:** Data science applications, machine learning implementations
-    -   **SQL:** Database querying and management for clinical research studies
+    -   R Programming: Advanced statistical analysis of 92,297+ patient genomic datasets, clinical outcomes research
+    -   Python: Data science applications, machine learning implementations
+    -   SQL: Database querying and management for clinical research studies
 -   **Research Methodology**
-    -   **Large-scale data analysis:** Genomic medicine applications, clinical outcomes research
-    -   **Statistical modeling:** High-volume hypothesis testing, biostatistics
-    -   **Biorepository management:** Specimen coordination for translational research studies
-    -   **Literature synthesis:** Systematic review methodology, evidence-based analysis
+    -   Large-scale data analysis: Genomic medicine applications, clinical outcomes research
+    -   Statistical modeling: High-volume hypothesis testing, biostatistics
+    -   Biorepository management: Specimen coordination for translational research studies
+    -   Literature synthesis: Systematic review methodology, evidence-based analysis
 -   **Machine Learning & AI**
-    -   **AI for Medicine** - DeepLearning.AI (2020): Medical imaging, clinical prediction models
-    -   **Machine Learning** - Stanford University (2017): Supervised/unsupervised learning algorithms
-    -   **Data Science Specialization** - Johns Hopkins University (2016): R programming, statistical inference
+    -   AI for Medicine - DeepLearning.AI (2020): Medical imaging, clinical prediction models
+    -   Machine Learning - Stanford University (2017): Supervised/unsupervised learning algorithms
+    -   Data Science Specialization - Johns Hopkins University (2016): R programming, statistical inference
 -   **Clinical Certifications**
-    -   **Bleeding Control Basic** - American College of Surgeons (2017)
-    -   **Emergency Medical Technician** - California EMSA License E084811 (2011-2017)
+    -   Bleeding Control Basic - American College of Surgeons (2017)
+    -   Emergency Medical Technician - California EMSA License E084811 (2011-2017)
 
 ## Professional Memberships
 
@@ -272,24 +272,31 @@ UCLA Center for Prehospital Care, Los Angeles, CA
 
 ## Cultural Competencies
 
--   **Transgender Conference** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Transgender Conference** · November 2017
+    Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Engaged in training to learn and support unique health needs of transgender individuals
--   **Safe Zone Trained** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Safe Zone Trained** · November 2017
+    Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Acquired understanding of importance of language in creating affirming environments for LGBTQ individuals
--   **Cross-Cultural Communication Trained** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Cross-Cultural Communication Trained** · November 2017
+    Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Engaged in interactive activity to experience how culture plays vital role in navigating cultural spaces
--   **Microaggression Training** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Microaggression Training** · November 2017
+    Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Interactive discussion regarding techniques to minimize microaggressions
--   **Community Action Poverty Simulation** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Community Action Poverty Simulation** · November 2017
+    Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Interactive, immersive experience to gain awareness of poverty and understand experiences of those living in low-income environment
--   **Psychiatric Disability Empathy Training** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Psychiatric Disability Empathy Training** · November 2017
+    Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Three-hour interactive training session on performing mental status exam in mock psychiatric emergency room
--   **People with Disabilities as Teachers (PDAT) Training** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **People with Disabilities as Teachers (PDAT) Training** · November 2017
+    Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Communication with partners at Center for Independent Living to understand life and interactions of those living with disabilities
 
 ## Personal Interests
 
--   **Photography:** Nikon D60 with 50mm F/1.8G and 18-270mm F/3.5-6.3 lens
--   **Programming and Data Analytics:** Proficient with R and Python (GitHub profile: moradaao)
--   **Fantasy Sports:** 9-year basketball commissioner; basketball, football, and baseball champion
--   **Fitness:** Backpacking, bowling, cycling, hiking, lifting, and running
+-   Photography: Nikon D60 with 50mm F/1.8G and 18-270mm F/3.5-6.3 lens
+-   Programming and Data Analytics: Proficient with R and Python (GitHub profile: moradaao)
+-   Fantasy Sports: 9-year basketball commissioner; basketball, football, and baseball champion
+-   Fitness: Backpacking, bowling, cycling, hiking, lifting, and running
