@@ -224,9 +224,23 @@ hr {
       <img src="https://img.shields.io/badge/ORCID-0000--0002--0428--6558-green?style=flat-square&logo=orcid" alt="ORCID">
     </a>
     <a href="https://linkedin.com/in/anthonyomorada" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-anthonyomorada-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/anthonyomorada" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-anthonyomorada-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    Looking at the markdown, there's a malformed closing tag at the `$SELECTION_PLACEHOLDER$` location. The missing closing `</a>` tag should be placed there.
+
+    Here's the corrected content for that line:
+
+    ```markdown
+      </a>
+    ```
+
+    This closes the LinkedIn badge link that opens just before the placeholder. The full corrected section should be:
+
+    ```markdown
+      <a href="https://linkedin.com/in/anthonyomorada" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-anthonyomorada-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    ```
+   <a href="https://github.com/anthonyomorada" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-anthonyomorada-black?style=flat-square&logo=github" alt="GitHub">
     </a>
   </div>

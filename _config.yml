@@ -14,6 +14,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+minima:
+  skin: classic
+
 # Navigation
 header_pages:
   - index.md
@@ -34,11 +37,18 @@ defaults:
     values:
       title: "CV"
 
-# Social Links
-linkedin_username: anthonyomorada
-github_username: anthonyomorada
-twitter_username: anthonyomorada
-orcid: 0000-0002-0428-6558
+# Social Links (for footer icons)
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/anthonyomorada"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/anthonyomorada"
+    - title: ORCID
+      icon: orcid
+      url: "https://orcid.org/0000-0002-0428-6558"
 
 # Build settings
 sass:
@@ -47,6 +57,7 @@ sass:
 # Exclude from processing
 exclude:
   - assets/convert_cv.py
+  - assets/style.css
   - README.md
   - LICENSE
   - .gitignore
