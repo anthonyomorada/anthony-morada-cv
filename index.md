@@ -148,6 +148,7 @@ layout: default
 </style>
 
 <div class="hero-section">
+  <img src="{{ '/assets/profile-photo.png' | relative_url }}" alt="Anthony Morada" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 4px solid var(--primary-color);">
   <h1>Anthony Onde Morada, MD</h1>
   <p class="hero-tagline">General Surgery Resident (PGY-4) | Transplant Surgery Researcher</p>
   <p>Geisinger Northeast General Surgery Program<br>
