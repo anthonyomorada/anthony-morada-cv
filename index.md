@@ -8,6 +8,8 @@ layout: default
   --primary-dark: #1a3a5c;
   --light-bg: #f8f9fa;
   --text-dark: #1a1a1a;
+  --link-color: #2c5aa0;
+  --link-visited: #5a3b8a;
 }
 
 body {
@@ -17,7 +19,35 @@ body {
   color: var(--text-dark);
 }
 
-/* Improved text contrast (was #666, now #4a4a4a for better readability) */
+/* Page link colors */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Tighter paragraph and heading spacing */
+p {
+  margin: 0.8em 0;
+}
+
+h2 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+hr {
+  margin: 2em 0;
+}
+
+/* Improved text contrast */
 .hero-tagline {
   font-size: 1.2em;
   color: #4a4a4a;
@@ -36,7 +66,6 @@ body {
   margin: 10px 0;
 }
 
-/* Touch target accessibility (48px minimum) */
 .contact-badges {
   display: flex;
   gap: 10px;
@@ -59,7 +88,49 @@ body {
   vertical-align: middle;
 }
 
-/* Ensure nav cards meet touch targets */
+/* Hero section - tighter spacing */
+.hero-section {
+  text-align: center;
+  padding: 30px 0 20px;
+  margin-bottom: 30px;
+}
+
+.hero-section h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: var(--text-dark);
+}
+
+/* Stats grid - tighter spacing */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.stat-card {
+  text-align: center;
+  padding: 25px;
+  background: var(--light-bg);
+  border-radius: 8px;
+  border-left: 4px solid var(--primary-color);
+}
+
+.stat-card h3 {
+  font-size: 2.5em;
+  margin: 0;
+  color: var(--primary-color);
+}
+
+/* Navigation cards - tighter spacing */
+.nav-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
 .nav-card {
   display: block;
   padding: 30px 20px;
@@ -79,56 +150,13 @@ body {
   color: white;
 }
 
-/* Hero section */
-.hero-section {
-  text-align: center;
-  padding: 40px 0;
-  margin-bottom: 40px;
-}
-
-.hero-section h1 {
-  font-size: 2.5em;
-  margin-bottom: 10px;
-  color: var(--text-dark);
-}
-
-/* Stats grid */
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 20px;
-  margin: 40px 0;
-}
-
-.stat-card {
-  text-align: center;
-  padding: 25px;
-  background: var(--light-bg);
-  border-radius: 8px;
-  border-left: 4px solid var(--primary-color);
-}
-
-.stat-card h3 {
-  font-size: 2.5em;
-  margin: 0;
-  color: var(--primary-color);
-}
-
-/* Navigation cards */
-.nav-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-  margin: 40px 0;
-}
-
-/* Featured section */
+/* Featured section - tighter spacing */
 .featured-section {
-  margin: 50px 0;
+  margin: 30px 0;
 }
 
 .featured-item {
-  margin: 30px 0;
+  margin: 20px 0;
   padding: 20px;
   border-left: 4px solid var(--primary-color);
   background: var(--light-bg);
@@ -168,16 +196,27 @@ body {
     font-size: 15px;
   }
   
+  .hero-section {
+    padding: 20px 0 15px;
+    margin-bottom: 20px;
+  }
+  
   .hero-section h1 {
     font-size: 1.8em;
   }
   
   .stats-grid {
     grid-template-columns: repeat(2, 1fr);
+    margin: 20px 0;
   }
   
   .nav-cards {
     grid-template-columns: 1fr;
+    margin: 20px 0;
+  }
+  
+  .featured-section {
+    margin: 20px 0;
   }
 }
 </style>
