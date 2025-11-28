@@ -4,13 +4,21 @@ CV Conversion Script
 Converts CV from Markdown to Word and PDF using pandoc
 Author: Anthony Onde Morada, MD
 
-Usage: python3 convert_cv.py
+Usage:
+  python3 convert_cv.py                    # Use default style.css
+  python3 convert_cv.py --css custom.css   # Use custom CSS file
+  python3 convert_cv.py --help             # Show help
+
+Options:
+  --css FILE    Use custom CSS file for styling (default: assets/style.css)
+  --help        Show this help message
 """
 
 import subprocess
 import sys
 from pathlib import Path
 import platform
+import argparse
 
 def check_pandoc():
     """Check if pandoc is installed"""
@@ -69,7 +77,7 @@ def find_cv_file():
         return cv_file
     return None
 
-def convert_to_docx(input_file, output_file):
+def convert_to_docx(input_file, output_file, css_file=None):
     """Convert markdown to Word document"""
     cmd = [
         'pandoc', str(input_file),
@@ -78,15 +86,20 @@ def convert_to_docx(input_file, output_file):
         '-o', str(output_file)
     ]
 
+    if css_file and css_file.exists():
+        cmd.extend(['--css', str(css_file)])
+
     try:
         subprocess.run(cmd, check=True, capture_output=True)
         print(f"✅ Word: {output_file}")
+        if css_file:
+            print(f"   Using CSS: {css_file}")
         return True
     except subprocess.CalledProcessError as e:
         print(f"❌ Word generation failed")
         return False
 
-def convert_to_pdf(input_file, output_file, latex_engine):
+def convert_to_pdf(input_file, output_file, latex_engine, css_file=None):
     """Convert markdown to PDF"""
     cmd = [
         'pandoc', str(input_file),
@@ -95,10 +108,15 @@ def convert_to_pdf(input_file, output_file, latex_engine):
         f'--pdf-engine={latex_engine}'
     ]
 
+    if css_file and css_file.exists():
+        cmd.extend(['--css', str(css_file)])
+
     try:
         print("Running pandoc PDF conversion...")
         result = subprocess.run(cmd, check=True, capture_output=True, text=True)
         print(f"✅ PDF: {output_file}")
+        if css_file:
+            print(f"   Using CSS: {css_file}")
         return True
     except subprocess.CalledProcessError as e:
         print(f"❌ PDF generation failed")
@@ -116,16 +134,44 @@ def convert_to_pdf(input_file, output_file, latex_engine):
         return False
 
 def main():
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(
+        description='Convert CV from Markdown to Word and PDF using pandoc',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python3 convert_cv.py                    # Use default style.css
+  python3 convert_cv.py --css custom.css   # Use custom CSS file
+
+For reproducibility:
+  - Edit assets/style.css to customize the default styling
+  - Or create a custom CSS file and use --css option
+        """
+    )
+    parser.add_argument('--css', type=str, default='assets/style.css',
+                       help='CSS file for styling (default: assets/style.css)')
+
+    args = parser.parse_args()
+
     print("🔄 CV Conversion Script")
     print("=" * 40)
-    
+
+    # Resolve CSS file path
+    css_file = Path(args.css)
+    if not css_file.exists():
+        print(f"⚠️  CSS file not found: {css_file}")
+        print("   Proceeding without custom styling...")
+        css_file = None
+    else:
+        print(f"🎨 Using CSS: {css_file}")
+
     # Check dependencies
     print("🔍 Checking requirements...")
     if not check_pandoc():
         sys.exit(1)
-    
+
     latex_engine = check_latex()
-    
+
     # Find input file
     input_file = find_cv_file()
     if not input_file:
@@ -146,11 +192,11 @@ def main():
     # Convert files
     print("🔄 Converting...")
 
-    docx_success = convert_to_docx(input_file, docx_output)
+    docx_success = convert_to_docx(input_file, docx_output, css_file)
 
     pdf_success = False
     if latex_engine:
-        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine)
+        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine, css_file)
     else:
         print("⏭️  Skipping PDF (no LaTeX)")
 
