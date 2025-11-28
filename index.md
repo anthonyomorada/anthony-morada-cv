@@ -172,13 +172,6 @@ layout: default
 
 ---
 
-<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: 60px;">
-  <em>Last Updated: November 2025</em><br>
-  <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
-</p>
-
----
-
 ## 📄 Quick Navigation
 
 <div class="nav-cards">
@@ -192,6 +185,11 @@ layout: default
     📝 Download Word
   </a>
 </div>
+
+<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: 20px;">
+  <em>Last Updated: November 2025</em><br>
+  <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
+</p>
 
 ---
 
