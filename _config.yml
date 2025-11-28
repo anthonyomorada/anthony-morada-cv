@@ -29,6 +29,10 @@ defaults:
       path: "index.md"
     values:
       title: "Home"
+  - scope:
+      path: "cv.md"
+    values:
+      title: "CV"
 
 # Social Links
 linkedin_username: anthonyomorada

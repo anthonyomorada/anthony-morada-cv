@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Full CV"
 ---
 
 <div class="web-only" style="margin-bottom: 20px;">
@@ -11,11 +10,16 @@ title: "Full CV"
 
 ## Contact Information
 
-**Phone:** +1 (909) 239-3581\
-**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) \| [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)\
-**Address:** 208 Main St. Avoca, PA 18641\
-**ORCID:** [0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558)\
-**LinkedIn:** [anthonyomorada](https://www.linkedin.com/in/anthonyomorada/)\
+**Phone:** +1 (909) 239-3581
+
+**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) \| [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)
+
+**Address:** 208 Main St. Avoca, PA 18641-1544
+
+**ORCID:** [0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558)
+
+**LinkedIn:** [anthonyomorada](https://www.linkedin.com/in/anthonyomorada/)
+
 **GitHub:** [anthonyomorada](https://github.com/anthonyomorada)
 
 ## Professional Summary
@@ -32,59 +36,57 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ## Current Position
 
-**General Surgery Resident (PGY-4)** \| 2022 – Present\
-Geisinger Northeast General Surgery Program, Scranton, PA
+**General Surgery Resident (PGY-4)** \| 2022 – Present Geisinger Northeast General Surgery Program, Scranton, PA
 
 ## Education
 
-**Doctor of Medicine** \| 2022\
-Geisinger Commonwealth School of Medicine, Scranton, PA
+**Doctor of Medicine** \| 2022 Geisinger Commonwealth School of Medicine, Scranton, PA
 
-**Bachelor of Science in Cell and Developmental Biology** \| 2014\
-University of California – Santa Barbara, Santa Barbara, CA\
-*Graduated with Distinction in the Department of Molecular, Cellular, and Developmental Biology*\
-*Minor in English*
+**Bachelor of Science in Cell and Developmental Biology** \| 2014 University of California – Santa Barbara, Santa Barbara, CA *Graduated with Distinction in the Department of Molecular, Cellular, and Developmental Biology* *Minor in English*
 
-**Emergency Medical Technician Certification** \| 2011\
-UCLA Center for Prehospital Care, Los Angeles, CA\
-*Accredited by West Los Angeles College*
+**Emergency Medical Technician Certification** \| 2011 UCLA Center for Prehospital Care, Los Angeles, CA *Accredited by West Los Angeles College*
 
 ## Research Experience
 
-**Clinical Investigator and Analyst** \| 2020 – 2022\
-Donald Guthrie Foundation, Guthrie Robert Packer Hospital, Sayre, PA - **Principal investigator** for prospective observational study improving readmission rates in high-output ileostomy patients ([NCT04669964](https://clinicaltrials.gov/ct2/show/NCT04669964)) - **Led protocol development** and IRB approval process for **registered clinical trial** - Developed evidence-based protocol improving surgical resident autonomy through **structured laparoscopic training** - **Published results** contributing to surgical education and patient outcomes literature
-
-**Student Investigator** \| 2019 – 2020\
-Quality Improvement Community Collaborative (QUICC) – Transition Care Management, Guthrie Robert Packer Hospital, Sayre, PA - Developed prospective quality improvement project to increase transition care management compliance - Created EPIC tool and staff education protocol; presented at Stanley Conklin Research Day
-
-**Student Investigator** \| 2018 – 2019\
-Longitudinal Community Health Improvement and Promotion (CHIP) – Colorectal Cancer, Northeast Regional Cancer Institute, Scranton, PA - Quality improvement project for colorectal screening compliance at community clinic
-
-**Research Chair** \| 2018\
-General Surgery Interest Group (GSIG), Geisinger Commonwealth School of Medicine, Scranton, PA - Organized research opportunities and presented four collaborative projects at conferences
-
-**Student Investigator** \| 2017 – 2018\
-Weis Center for Research, Geisinger Medical Center, Danville, PA - Analyzed genomic data from **92,297 patients** in Geisinger's MyCode and DiscovEHR program - **one of the largest healthcare genomic databases** - Performed high-volume statistical analyses using **R programming** on whole exome sequences to identify rare disease variants - **Focus on autosomal dominant diseases** relevant to transplant genetics and familial conditions - Awarded **competitive grant funding** from GCSOM's Summer Research Immersion Program
-
-**Clinical Research Data Specialist** \| 2015 – 2017\
-Departments of **Liver Transplant & Hepatobiliary and Pancreatic Surgery**, Cedars-Sinai Medical Center, Los Angeles, CA - Coordinated clinical research studies for **liver transplant recipients** and **living donor** candidates - Managed **transplant outcomes biorepository** with specimens from 500+ transplant patients for translational research - Served as IRB contact for **liver transplant clinical trials** including immunosuppression protocols and rejection studies - Collaborated directly with **transplant surgeons** on publications analyzing **post-transplant outcomes** and surgical complications - Performed statistical analyses using R programming for **transplant surgery research** published in peer-reviewed journals
-
-**Clinical Research Volunteer** \| 2015\
-Department of Microbiology, St. John's Regional Medical Center, Oxnard, CA - Analyzed blood culture contamination data using R programming
-
-**Undergraduate Research Assistant** \| 2013 – 2015\
-Dr. Kathy Foltz Laboratory, University of California – Santa Barbara, Santa Barbara, CA - Investigated egg activation mechanisms; reviewed more than 8,000 unique phosphor-sequences from a high throughput phosphoproteomic analysis of time course egg lysates of S. Purpuratus - Awarded two Undergraduate Research and Creative Activities (URCA) Grants
-
-**Laboratory Research Assistant** \| 2014\
-Dr. Megan Valentine and Dr. Stuart Feinstein Laboratories, University of California – Santa Barbara, Santa Barbara, CA - Summer research project synthesizing Alzheimer's-associated tau protein and isoforms
-
-**Undergraduate Research Assistant** \| 2012\
-Dr. Dzwokai Zach Ma Laboratory, University of California – Santa Barbara, Santa Barbara, CA - Researched histone modifications during cytokinesis
+-   **Clinical Investigator and Analyst** \| 2020 – 2022 Donald Guthrie Foundation, Guthrie Robert Packer Hospital, Sayre, PA
+    -   **Principal investigator** for prospective observational study improving readmission rates in high-output ileostomy patients ([NCT04669964](https://clinicaltrials.gov/ct2/show/NCT04669964))
+    -   **Led protocol development** and IRB approval process for **registered clinical trial**
+    -   Developed evidence-based protocol improving surgical resident autonomy through **structured laparoscopic training**
+    -   **Published results** contributing to surgical education and patient outcomes literature
+-   **Student Investigator** \| 2019 – 2020 Quality Improvement Community Collaborative (QUICC) – Transition Care Management, Guthrie Robert Packer Hospital, Sayre, PA
+    -   Developed prospective quality improvement project to increase transition care management compliance
+    -   Created EPIC tool and staff education protocol; presented at Stanley Conklin Research Day
+-   **Student Investigator** \| 2018 – 2019 Longitudinal Community Health Improvement and Promotion (CHIP) – Colorectal Cancer, Northeast Regional Cancer Institute, Scranton, PA
+    -   Quality improvement project for colorectal screening compliance at community clinic
+-   **Research Chair** \| 2018 General Surgery Interest Group (GSIG), Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Organized research opportunities and presented four collaborative projects at conferences
+-   **Student Investigator** \| 2017 – 2018 Weis Center for Research, Geisinger Medical Center, Danville, PA
+    -   Analyzed genomic data from **92,297 patients** in Geisinger's MyCode and DiscovEHR program—**one of the largest healthcare genomic databases**
+    -   Performed high-volume statistical analyses using **R programming** on whole exome sequences to identify rare disease variants
+    -   **Focus on autosomal dominant diseases** relevant to transplant genetics and familial conditions
+    -   Awarded **competitive grant funding** from GCSOM's Summer Research Immersion Program
+-   **Clinical Research Data Specialist** \| 2015 – 2017 Departments of **Liver Transplant & Hepatobiliary and Pancreatic Surgery**, Cedars-Sinai Medical Center, Los Angeles, CA
+    -   Coordinated clinical research studies for **liver transplant recipients** and **living donor** candidates
+    -   Managed **transplant outcomes biorepository** with specimens from 500+ transplant patients for translational research
+    -   Served as IRB contact for **liver transplant clinical trials** including immunosuppression protocols and rejection studies
+    -   Collaborated directly with **transplant surgeons** on publications analyzing **post-transplant outcomes** and surgical complications
+    -   Performed statistical analyses using R programming for **transplant surgery research** published in peer-reviewed journals
+-   **Clinical Research Volunteer** \| 2015 Department of Microbiology, St. John's Regional Medical Center, Oxnard, CA
+    -   Analyzed blood culture contamination data using R programming
+-   **Undergraduate Research Assistant** \| 2013 – 2015 Dr. Kathy Foltz Laboratory, University of California – Santa Barbara, Santa Barbara, CA
+    -   Investigated egg activation mechanisms; reviewed more than 8,000 unique phosphor-sequences from a high throughput phosphoproteomic analysis of time course egg lysates of S. Purpuratus
+    -   Awarded two Undergraduate Research and Creative Activities (URCA) Grants
+-   **Laboratory Research Assistant** \| 2014 Dr. Megan Valentine and Dr. Stuart Feinstein Laboratories, University of California – Santa Barbara, Santa Barbara, CA
+    -   Summer research project synthesizing Alzheimer's-associated tau protein and isoforms
+-   **Undergraduate Research Assistant** \| 2012 Dr. Dzwokai Zach Ma Laboratory, University of California – Santa Barbara, Santa Barbara, CA
+    -   Researched histone modifications during cytokinesis
 
 ## Clinical Experience
 
-**Lead Emergency Medical Technician** \| 2012 – 2014\
-UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, CA - Provided Basic Life Support care to the community of the University of California – Santa Barbara and associated districts; responsible for more than 22,000 citizens - Acted as liaison between student EMTs and Santa Barbara County Fire Department - Managed EMT staff logistics and organized training sessions for continuing education
+-   **Lead Emergency Medical Technician** \| 2012 – 2014 UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, CA
+    -   Provided Basic Life Support care to the community of the University of California – Santa Barbara and associated districts; responsible for more than 22,000 citizens
+    -   Acted as liaison between student EMTs and Santa Barbara County Fire Department
+    -   Managed EMT staff logistics and organized training sessions for continuing education
 
 ## Publications
 
@@ -199,46 +201,44 @@ UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, 
 -   **1st Place Fundraising Team**, Pancreatic Cancer Action Network Purple Stride (2016, 2017) - Assistant Team Captain for Cedars-Sinai Whipplers
 -   **Undergraduate Research and Creative Activities (URCA) Grants**, UC Santa Barbara (2013, 2014)
 
-## Clinical Experience
-
-**Lead Emergency Medical Technician** \| 2012 – 2014\
-UCSB Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, CA - Provided **Basic Life Support care** to the University of California – Santa Barbara community and associated districts, serving **22,000+ citizens** - Served as **primary liaison** between student EMT staff and Santa Barbara County Fire Department administration - **Managed EMT staff logistics** including scheduling, deployment, and resource coordination across campus and community response areas - **Organized and led continuing education training sessions** to maintain certification standards and improve emergency response capabilities - **Mentored new EMT recruits** in clinical skills, emergency protocols, and professional development - Maintained **100% certification compliance** for student EMT program throughout tenure as lead - Responded to diverse emergency calls including **medical emergencies, trauma cases, and campus safety incidents**
-
 ## Leadership and Service
 
-**Health Explorers Instructor** \| 2017 – 2019\
-Regional Education Academy for Careers in Health (REACH-HEI), Geisinger Commonwealth School of Medicine - Provided academic enrichment and mentoring for **low-income and first-generation college students** in northeastern Pennsylvania
-
-**President** \| 2017 – 2019\
-Asian Pacific American Medical Student Association (APAMSA), Geisinger Commonwealth School of Medicine - Led organizational leadership and **community service initiatives** for APAMSA chapter
-
-**Peer Mentor** \| 2018 – 2019\
-MD Peer Mentorship Program, Geisinger Commonwealth School of Medicine - Mentored first- and second-year medical students during their **transition to medical school**
-
-**Team Abby Member** \| 2019\
-Hacking Health Competition, Geisinger Steel Institute for Health Innovation - **\$5,000 first place winner** for healthcare innovation project addressing **provider burnout** and operational efficiency
-
-**Clinical Skills Chair** \| 2018 – 2019\
-Plastic Surgery Interest Group, Geisinger Commonwealth School of Medicine - Organized **clinical skills workshops** and coordinated with anatomy lab for **realistic surgical simulation**
-
-**Assistant Team Captain** \| 2016 – 2017\
-Cedars-Sinai Whipplers, Pancreatic Cancer Action Network (PanCAN), Los Angeles, CA - Led team to **#1 fundraising position** with **\$200,000+ raised** over two years - Recruited **150+ team members** through outreach and marketing initiatives
-
-**Team KiPOW Member** \| 2016\
-UC Irvine School of Medicine Pediatric Interest Group, Orange County, CA - **Health educator** teaching nutrition and exercise to elementary students through **UCI/CHOC partnership**
-
-**Clinical Volunteer** \| 2013 – 2014\
-COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura County, CA - Rotational volunteer experience across **multiple clinical departments** including emergency medicine and surgery
+-   **Health Explorers Instructor** \| 2017 – 2019 \| Regional Education Academy for Careers in Health (REACH-HEI), Geisinger Commonwealth School of Medicine
+    -   Provided academic enrichment and mentoring for **low-income and first-generation college students** in northeastern Pennsylvania
+-   **President** \| 2017 – 2019 \| Asian Pacific American Medical Student Association (APAMSA), Geisinger Commonwealth School of Medicine
+    -   Led organizational leadership and **community service initiatives** for APAMSA chapter
+-   **Peer Mentor** \| 2018 – 2019 \| MD Peer Mentorship Program, Geisinger Commonwealth School of Medicine
+    -   Mentored first- and second-year medical students during their **transition to medical school**
+-   **Team Abby Member** \| 2019 \| Hacking Health Competition, Geisinger Steel Institute for Health Innovation
+    -   **\$5,000 first place winner** for healthcare innovation project addressing **provider burnout** and operational efficiency
+-   **Clinical Skills Chair** \| 2018 – 2019 \| Plastic Surgery Interest Group, Geisinger Commonwealth School of Medicine
+    -   Organized **clinical skills workshops** and coordinated with anatomy lab for **realistic surgical simulation**
+-   **Assistant Team Captain** \| 2016 – 2017 \| Cedars-Sinai Whipplers, Pancreatic Cancer Action Network (PanCAN), Los Angeles, CA
+    -   Led team to **#1 fundraising position** with **\$200,000+ raised** over two years
+    -   Recruited **150+ team members** through outreach and marketing initiatives
+-   **Team KiPOW Member** \| 2016 \| UC Irvine School of Medicine Pediatric Interest Group, Orange County, CA
+    -   **Health educator** teaching nutrition and exercise to elementary students through **UCI/CHOC partnership**
+-   **Clinical Volunteer** \| 2013 – 2014 \| COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura County, CA
+    -   Rotational volunteer experience across **multiple clinical departments** including emergency medicine and surgery
 
 ## Technical Skills and Certifications
 
-**Programming & Data Analysis:** - **R Programming:** Advanced statistical analysis of **92,297+ patient genomic datasets**, clinical outcomes research - **Python:** Data science applications, machine learning implementations - **SQL:** Database querying and management for clinical research studies
-
-**Research Methodology:** - **Large-scale data analysis:** Genomic medicine applications, clinical outcomes research - **Statistical modeling:** High-volume hypothesis testing, biostatistics - **Biorepository management:** Specimen coordination for translational research studies - **Literature synthesis:** Systematic review methodology, evidence-based analysis
-
-**Machine Learning & AI:** - **AI for Medicine** - DeepLearning.AI (2020): Medical imaging, clinical prediction models - **Machine Learning** - Stanford University (2017): Supervised/unsupervised learning algorithms - **Data Science Specialization** - Johns Hopkins University (2016): R programming, statistical inference
-
-**Clinical Certifications:** - **Bleeding Control Basic** - American College of Surgeons (2017) - **Emergency Medical Technician** - California EMSA License E084811 (2011-2017)
+-   **Programming & Data Analysis**
+    -   **R Programming:** Advanced statistical analysis of **92,297+ patient genomic datasets**, clinical outcomes research
+    -   **Python:** Data science applications, machine learning implementations
+    -   **SQL:** Database querying and management for clinical research studies
+-   **Research Methodology**
+    -   **Large-scale data analysis:** Genomic medicine applications, clinical outcomes research
+    -   **Statistical modeling:** High-volume hypothesis testing, biostatistics
+    -   **Biorepository management:** Specimen coordination for translational research studies
+    -   **Literature synthesis:** Systematic review methodology, evidence-based analysis
+-   **Machine Learning & AI**
+    -   **AI for Medicine** - DeepLearning.AI (2020): Medical imaging, clinical prediction models
+    -   **Machine Learning** - Stanford University (2017): Supervised/unsupervised learning algorithms
+    -   **Data Science Specialization** - Johns Hopkins University (2016): R programming, statistical inference
+-   **Clinical Certifications**
+    -   **Bleeding Control Basic** - American College of Surgeons (2017)
+    -   **Emergency Medical Technician** - California EMSA License E084811 (2011-2017)
 
 ## Professional Memberships
 
@@ -250,26 +250,20 @@ COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura Count
 
 ## Cultural Competencies
 
-**Transgender Conference** \| November 2017\
-Geisinger Commonwealth School of Medicine, Scranton, PA - Engaged in training to learn and support unique health needs of transgender individuals
-
-**Safe Zone Trained** \| November 2017\
-Geisinger Commonwealth School of Medicine, Scranton, PA - Acquired understanding of importance of language in creating affirming environments for LGBTQ individuals
-
-**Cross-Cultural Communication Trained** \| November 2017\
-Geisinger Commonwealth School of Medicine, Scranton, PA - Engaged in interactive activity to experience how culture plays vital role in navigating cultural spaces
-
-**Microaggression Training** \| November 2017\
-Geisinger Commonwealth School of Medicine, Scranton, PA - Interactive discussion regarding techniques to minimize microaggressions
-
-**Community Action Poverty Simulation** \| November 2017\
-Geisinger Commonwealth School of Medicine, Scranton, PA - Interactive, immersive experience to gain awareness of poverty and understand experiences of those living in low-income environment
-
-**Psychiatric Disability Empathy Training** \| November 2017\
-Geisinger Commonwealth School of Medicine, Scranton, PA - Three-hour interactive training session on performing mental status exam in mock psychiatric emergency room
-
-**People with Disabilities as Teachers (PDAT) Training** \| November 2017\
-Geisinger Commonwealth School of Medicine, Scranton, PA - Communication with partners at Center for Independent Living to understand life and interactions of those living with disabilities
+-   **Transgender Conference** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Engaged in training to learn and support unique health needs of transgender individuals
+-   **Safe Zone Trained** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Acquired understanding of importance of language in creating affirming environments for LGBTQ individuals
+-   **Cross-Cultural Communication Trained** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Engaged in interactive activity to experience how culture plays vital role in navigating cultural spaces
+-   **Microaggression Training** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Interactive discussion regarding techniques to minimize microaggressions
+-   **Community Action Poverty Simulation** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Interactive, immersive experience to gain awareness of poverty and understand experiences of those living in low-income environment
+-   **Psychiatric Disability Empathy Training** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Three-hour interactive training session on performing mental status exam in mock psychiatric emergency room
+-   **People with Disabilities as Teachers (PDAT) Training** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+    -   Communication with partners at Center for Independent Living to understand life and interactions of those living with disabilities
 
 ## Personal Interests
 
