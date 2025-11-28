@@ -2,17 +2,13 @@
 layout: default
 ---
 
-<div class="web-only" style="margin-bottom: 20px;">
-  <a href="index.html">← Back to Home</a>
-</div>
-
 # Anthony Onde Morada, MD
 
 ## Contact Information
 
 **Phone:** +1 (909) 239-3581
 
-**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) \| [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)
+**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) | [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)
 
 **Address:** 208 Main St. Avoca, PA 18641-1544
 
@@ -36,54 +32,54 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ## Current Position
 
-**General Surgery Resident (PGY-4)** \| 2022 – Present Geisinger Northeast General Surgery Program, Scranton, PA
+**General Surgery Resident (PGY-4)** | 2022 – Present Geisinger Northeast General Surgery Program, Scranton, PA
 
 ## Education
 
-**Doctor of Medicine** \| 2022 Geisinger Commonwealth School of Medicine, Scranton, PA
+**Doctor of Medicine** | 2022 Geisinger Commonwealth School of Medicine, Scranton, PA
 
-**Bachelor of Science in Cell and Developmental Biology** \| 2014 University of California – Santa Barbara, Santa Barbara, CA *Graduated with Distinction in the Department of Molecular, Cellular, and Developmental Biology* *Minor in English*
+**Bachelor of Science in Cell and Developmental Biology** | 2014 University of California – Santa Barbara, Santa Barbara, CA *Graduated with Distinction in the Department of Molecular, Cellular, and Developmental Biology* *Minor in English*
 
-**Emergency Medical Technician Certification** \| 2011 UCLA Center for Prehospital Care, Los Angeles, CA *Accredited by West Los Angeles College*
+**Emergency Medical Technician Certification** | 2011 UCLA Center for Prehospital Care, Los Angeles, CA *Accredited by West Los Angeles College*
 
 ## Research Experience
 
--   **Clinical Investigator and Analyst** \| 2020 – 2022 Donald Guthrie Foundation, Guthrie Robert Packer Hospital, Sayre, PA
+-   **Clinical Investigator and Analyst** | 2020 – 2022 Donald Guthrie Foundation, Guthrie Robert Packer Hospital, Sayre, PA
     -   **Principal investigator** for prospective observational study improving readmission rates in high-output ileostomy patients ([NCT04669964](https://clinicaltrials.gov/ct2/show/NCT04669964))
     -   **Led protocol development** and IRB approval process for **registered clinical trial**
     -   Developed evidence-based protocol improving surgical resident autonomy through **structured laparoscopic training**
     -   **Published results** contributing to surgical education and patient outcomes literature
--   **Student Investigator** \| 2019 – 2020 Quality Improvement Community Collaborative (QUICC) – Transition Care Management, Guthrie Robert Packer Hospital, Sayre, PA
+-   **Student Investigator** | 2019 – 2020 Quality Improvement Community Collaborative (QUICC) – Transition Care Management, Guthrie Robert Packer Hospital, Sayre, PA
     -   Developed prospective quality improvement project to increase transition care management compliance
     -   Created EPIC tool and staff education protocol; presented at Stanley Conklin Research Day
--   **Student Investigator** \| 2018 – 2019 Longitudinal Community Health Improvement and Promotion (CHIP) – Colorectal Cancer, Northeast Regional Cancer Institute, Scranton, PA
+-   **Student Investigator** | 2018 – 2019 Longitudinal Community Health Improvement and Promotion (CHIP) – Colorectal Cancer, Northeast Regional Cancer Institute, Scranton, PA
     -   Quality improvement project for colorectal screening compliance at community clinic
--   **Research Chair** \| 2018 General Surgery Interest Group (GSIG), Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Research Chair** | 2018 General Surgery Interest Group (GSIG), Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Organized research opportunities and presented four collaborative projects at conferences
--   **Student Investigator** \| 2017 – 2018 Weis Center for Research, Geisinger Medical Center, Danville, PA
+-   **Student Investigator** | 2017 – 2018 Weis Center for Research, Geisinger Medical Center, Danville, PA
     -   Analyzed genomic data from **92,297 patients** in Geisinger's MyCode and DiscovEHR program—**one of the largest healthcare genomic databases**
     -   Performed high-volume statistical analyses using **R programming** on whole exome sequences to identify rare disease variants
     -   **Focus on autosomal dominant diseases** relevant to transplant genetics and familial conditions
     -   Awarded **competitive grant funding** from GCSOM's Summer Research Immersion Program
--   **Clinical Research Data Specialist** \| 2015 – 2017 Departments of **Liver Transplant & Hepatobiliary and Pancreatic Surgery**, Cedars-Sinai Medical Center, Los Angeles, CA
+-   **Clinical Research Data Specialist** | 2015 – 2017 Departments of **Liver Transplant & Hepatobiliary and Pancreatic Surgery**, Cedars-Sinai Medical Center, Los Angeles, CA
     -   Coordinated clinical research studies for **liver transplant recipients** and **living donor** candidates
     -   Managed **transplant outcomes biorepository** with specimens from 500+ transplant patients for translational research
     -   Served as IRB contact for **liver transplant clinical trials** including immunosuppression protocols and rejection studies
     -   Collaborated directly with **transplant surgeons** on publications analyzing **post-transplant outcomes** and surgical complications
     -   Performed statistical analyses using R programming for **transplant surgery research** published in peer-reviewed journals
--   **Clinical Research Volunteer** \| 2015 Department of Microbiology, St. John's Regional Medical Center, Oxnard, CA
+-   **Clinical Research Volunteer** | 2015 Department of Microbiology, St. John's Regional Medical Center, Oxnard, CA
     -   Analyzed blood culture contamination data using R programming
--   **Undergraduate Research Assistant** \| 2013 – 2015 Dr. Kathy Foltz Laboratory, University of California – Santa Barbara, Santa Barbara, CA
+-   **Undergraduate Research Assistant** | 2013 – 2015 Dr. Kathy Foltz Laboratory, University of California – Santa Barbara, Santa Barbara, CA
     -   Investigated egg activation mechanisms; reviewed more than 8,000 unique phosphor-sequences from a high throughput phosphoproteomic analysis of time course egg lysates of S. Purpuratus
     -   Awarded two Undergraduate Research and Creative Activities (URCA) Grants
--   **Laboratory Research Assistant** \| 2014 Dr. Megan Valentine and Dr. Stuart Feinstein Laboratories, University of California – Santa Barbara, Santa Barbara, CA
+-   **Laboratory Research Assistant** | 2014 Dr. Megan Valentine and Dr. Stuart Feinstein Laboratories, University of California – Santa Barbara, Santa Barbara, CA
     -   Summer research project synthesizing Alzheimer's-associated tau protein and isoforms
--   **Undergraduate Research Assistant** \| 2012 Dr. Dzwokai Zach Ma Laboratory, University of California – Santa Barbara, Santa Barbara, CA
+-   **Undergraduate Research Assistant** | 2012 Dr. Dzwokai Zach Ma Laboratory, University of California – Santa Barbara, Santa Barbara, CA
     -   Researched histone modifications during cytokinesis
 
 ## Clinical Experience
 
--   **Lead Emergency Medical Technician** \| 2012 – 2014 UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, CA
+-   **Lead Emergency Medical Technician** | 2012 – 2014 UCSB's Extra Help Program, Santa Barbara County Fire Department, Santa Barbara, CA
     -   Provided Basic Life Support care to the community of the University of California – Santa Barbara and associated districts; responsible for more than 22,000 citizens
     -   Acted as liaison between student EMTs and Santa Barbara County Fire Department
     -   Managed EMT staff logistics and organized training sessions for continuing education
@@ -92,19 +88,19 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer-Reviewed Articles
 
-1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. [**Full Text**](https://doi.org/10.1007/s00464-021-08847-7) \| [**PDF**](./publications/2022-sr-ileostomy-malig.pdf)
+1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. [**Full Text**](https://doi.org/10.1007/s00464-021-08847-7) | [**PDF**](./publications/2022-sr-ileostomy-malig.pdf)
 
-2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. [**Full Text**](https://doi.org/10.1016/j.jss.2023.02.040) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/37141703/)
+2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. [**Full Text**](https://doi.org/10.1016/j.jss.2023.02.040) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/37141703/)
 
-3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. [**Full Text**](https://doi.org/10.1016/j.amjsurg.2022.09.053) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/36216612/)
+3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. [**Full Text**](https://doi.org/10.1016/j.amjsurg.2022.09.053) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/36216612/)
 
-4.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. [**Full Text**](https://doi.org/10.1136/bcr-2021-247609) \| [**PMC Free**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)
+4.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. [**Full Text**](https://doi.org/10.1136/bcr-2021-247609) | [**PMC Free**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)
 
 5.  Senapathi H, **Morada A**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. [**Full Text - Open Access**](https://doi.org/10.7759/cureus.19447)
 
 6.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. [**Preprint**](https://doi.org/10.1101/2021.04.12.21255201)
 
-7.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. [**Full Text**](https://doi.org/10.1002/pmic.201500159) \| [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/26572944/)
+7.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. [**Full Text**](https://doi.org/10.1002/pmic.201500159) | [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/26572944/)
 
 ### Manuscripts Under Review/In Preparation
 
@@ -203,22 +199,22 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ## Leadership and Service
 
--   **Health Explorers Instructor** \| 2017 – 2019 \| Regional Education Academy for Careers in Health (REACH-HEI), Geisinger Commonwealth School of Medicine
+-   **Health Explorers Instructor** | 2017 – 2019 | Regional Education Academy for Careers in Health (REACH-HEI), Geisinger Commonwealth School of Medicine
     -   Provided academic enrichment and mentoring for **low-income and first-generation college students** in northeastern Pennsylvania
--   **President** \| 2017 – 2019 \| Asian Pacific American Medical Student Association (APAMSA), Geisinger Commonwealth School of Medicine
+-   **President** | 2017 – 2019 | Asian Pacific American Medical Student Association (APAMSA), Geisinger Commonwealth School of Medicine
     -   Led organizational leadership and **community service initiatives** for APAMSA chapter
--   **Peer Mentor** \| 2018 – 2019 \| MD Peer Mentorship Program, Geisinger Commonwealth School of Medicine
+-   **Peer Mentor** | 2018 – 2019 | MD Peer Mentorship Program, Geisinger Commonwealth School of Medicine
     -   Mentored first- and second-year medical students during their **transition to medical school**
--   **Team Abby Member** \| 2019 \| Hacking Health Competition, Geisinger Steel Institute for Health Innovation
+-   **Team Abby Member** | 2019 | Hacking Health Competition, Geisinger Steel Institute for Health Innovation
     -   **\$5,000 first place winner** for healthcare innovation project addressing **provider burnout** and operational efficiency
--   **Clinical Skills Chair** \| 2018 – 2019 \| Plastic Surgery Interest Group, Geisinger Commonwealth School of Medicine
+-   **Clinical Skills Chair** | 2018 – 2019 | Plastic Surgery Interest Group, Geisinger Commonwealth School of Medicine
     -   Organized **clinical skills workshops** and coordinated with anatomy lab for **realistic surgical simulation**
--   **Assistant Team Captain** \| 2016 – 2017 \| Cedars-Sinai Whipplers, Pancreatic Cancer Action Network (PanCAN), Los Angeles, CA
+-   **Assistant Team Captain** | 2016 – 2017 | Cedars-Sinai Whipplers, Pancreatic Cancer Action Network (PanCAN), Los Angeles, CA
     -   Led team to **#1 fundraising position** with **\$200,000+ raised** over two years
     -   Recruited **150+ team members** through outreach and marketing initiatives
--   **Team KiPOW Member** \| 2016 \| UC Irvine School of Medicine Pediatric Interest Group, Orange County, CA
+-   **Team KiPOW Member** | 2016 | UC Irvine School of Medicine Pediatric Interest Group, Orange County, CA
     -   **Health educator** teaching nutrition and exercise to elementary students through **UCI/CHOC partnership**
--   **Clinical Volunteer** \| 2013 – 2014 \| COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura County, CA
+-   **Clinical Volunteer** | 2013 – 2014 | COPE Health Solutions, St. John's/Pleasant Valley Medical Centers, Ventura County, CA
     -   Rotational volunteer experience across **multiple clinical departments** including emergency medicine and surgery
 
 ## Technical Skills and Certifications
@@ -250,19 +246,19 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ## Cultural Competencies
 
--   **Transgender Conference** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Transgender Conference** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Engaged in training to learn and support unique health needs of transgender individuals
--   **Safe Zone Trained** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Safe Zone Trained** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Acquired understanding of importance of language in creating affirming environments for LGBTQ individuals
--   **Cross-Cultural Communication Trained** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Cross-Cultural Communication Trained** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Engaged in interactive activity to experience how culture plays vital role in navigating cultural spaces
--   **Microaggression Training** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Microaggression Training** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Interactive discussion regarding techniques to minimize microaggressions
--   **Community Action Poverty Simulation** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Community Action Poverty Simulation** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Interactive, immersive experience to gain awareness of poverty and understand experiences of those living in low-income environment
--   **Psychiatric Disability Empathy Training** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **Psychiatric Disability Empathy Training** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Three-hour interactive training session on performing mental status exam in mock psychiatric emergency room
--   **People with Disabilities as Teachers (PDAT) Training** \| November 2017 \| Geisinger Commonwealth School of Medicine, Scranton, PA
+-   **People with Disabilities as Teachers (PDAT) Training** | November 2017 | Geisinger Commonwealth School of Medicine, Scranton, PA
     -   Communication with partners at Center for Independent Living to understand life and interactions of those living with disabilities
 
 ## Personal Interests
