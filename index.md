@@ -172,6 +172,29 @@ layout: default
 
 ---
 
+<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: 60px;">
+  <em>Last Updated: November 2025</em><br>
+  <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
+</p>
+
+---
+
+## 📄 Quick Navigation
+
+<div class="nav-cards">
+  <a href="cv.html" class="nav-card">
+    📋 View Full CV
+  </a>
+  <a href="cv-downloads/anthony-morada-cv.pdf" class="nav-card" download>
+    📥 Download PDF
+  </a>
+  <a href="cv-downloads/anthony-morada-cv.docx" class="nav-card" download>
+    📝 Download Word
+  </a>
+</div>
+
+---
+
 ## 📊 Research Impact at a Glance
 
 <div class="stats-grid">
@@ -206,22 +229,6 @@ From computational genomics at Geisinger's DiscovEHR to clinical research at Ced
 - Systematic reviews and meta-analyses in surgery
 - Genomic medicine applications (92,297 patient cohort analysis)
 - COVID-19 predictive modeling and triage algorithms
-
----
-
-## 📄 Quick Navigation
-
-<div class="nav-cards">
-  <a href="cv.html" class="nav-card">
-    📋 View Full CV
-  </a>
-  <a href="cv-downloads/anthony-morada-cv.pdf" class="nav-card" download>
-    📥 Download PDF
-  </a>
-  <a href="cv-downloads/anthony-morada-cv.docx" class="nav-card" download>
-    📝 Download Word
-  </a>
-</div>
 
 ---
 
@@ -329,9 +336,3 @@ Instagram: [@anthonyomorada](https://instagram.com/anthonyomorada)
 - American Medical Association
 - Pennsylvania Medical Society
 
----
-
-<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: 60px;">
-  <em>Last Updated: November 2025</em><br>
-  <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
-</p>

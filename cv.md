@@ -8,7 +8,7 @@ layout: default
 
 **Phone:** +1 (909) 239-3581
 
-**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) · [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)
+**Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com) · [amorada1@geisinger.edu](mailto:amorada1@geisinger.edu)
 
 **Address:** 208 Main St. Avoca, PA 18641-1544
 
