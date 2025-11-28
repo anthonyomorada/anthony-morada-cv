@@ -67,6 +67,10 @@ def find_cv_file():
     cv_file = Path("cv.md")
     if cv_file.exists():
         return cv_file
+    """Find cv.md file"""
+    cv_file = Path("cv.md")
+    if cv_file.exists():
+        return cv_file
     return None
 
 def convert_to_docx(input_file, output_file, reference_doc=None):
@@ -74,6 +78,7 @@ def convert_to_docx(input_file, output_file, reference_doc=None):
     cmd = [
         'pandoc', str(input_file),
         '-f', 'markdown',
+        '-t', 'docx',
         '-t', 'docx',
         '-o', str(output_file)
     ]
@@ -86,8 +91,10 @@ def convert_to_docx(input_file, output_file, reference_doc=None):
     try:
         subprocess.run(cmd, check=True, capture_output=True)
         print(f"✅ Word: {output_file}")
+        print(f"✅ Word: {output_file}")
         return True
     except subprocess.CalledProcessError as e:
+        print(f"❌ Word generation failed")
         print(f"❌ Word generation failed")
         return False
 
@@ -120,6 +127,7 @@ def convert_to_pdf(input_file, output_file, latex_engine, css_file=None):
             print(f"STDOUT: {e.stdout}")
         print(f"Return code: {e.returncode}")
 
+
         print(f"\nTroubleshooting:")
         print(f"1. Check if LaTeX packages are missing")
         print(f"2. Try simpler PDF generation")
@@ -140,11 +148,15 @@ def main():
     input_file = find_cv_file()
     if not input_file:
         print("❌ cv.md not found")
+        print("❌ cv.md not found")
         sys.exit(1)
+
 
     print(f"📄 Found CV: {input_file}")
 
+
     # Setup output
+    output_dir = Path("cv-downloads")
     output_dir = Path("cv-downloads")
     output_dir.mkdir(exist_ok=True)
 
@@ -169,6 +181,7 @@ def main():
 
     print(f"📁 Output: {output_dir}/")
 
+
     # Convert files
     print("🔄 Converting...")
 
@@ -176,14 +189,20 @@ def main():
 
     pdf_success = False
     if latex_engine:
-        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine, css_file)
+        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine)
     else:
         print("⏭️  Skipping PDF (no LaTeX)")
+
 
     # Results
     print("=" * 40)
     if docx_success or pdf_success:
+    if docx_success or pdf_success:
         print("🎉 Conversion complete!")
+
+        if docx_success:
+            print(f"📄 Word: {docx_output}")
+
 
         if docx_success:
             print(f"📄 Word: {docx_output}")
@@ -192,6 +211,7 @@ def main():
             print(f"📄 PDF: {pdf_output}")
         else:
             print("📄 PDF: Failed - see error details above")
+
 
     else:
         print("❌ Conversion failed")
