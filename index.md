@@ -24,16 +24,31 @@ layout: default
 
 .hero-tagline {
   font-size: 1.2em;
-  color: #666;
+  color: #5a5a5a;  
   margin-bottom: 20px;
 }
 
+/* Fix touch targets for badge images */
 .contact-badges {
   display: flex;
   gap: 10px;
   justify-content: center;
   flex-wrap: wrap;
   margin: 20px 0;
+}
+
+.contact-badges a {
+  display: inline-block;
+  padding: 8px;  /* Creates larger clickable area */
+  min-height: 44px;  /* WCAG minimum */
+  min-width: 44px;
+  line-height: 0;  /* Prevents extra space around images */
+}
+
+.contact-badges img {
+  height: auto;
+  max-height: 28px;  /* Keep badges readable */
+  vertical-align: middle;
 }
 
 .stats-grid {
@@ -60,7 +75,7 @@ layout: default
 .stat-card p {
   margin: 10px 0 0 0;
   font-size: 0.95em;
-  color: #666;
+  color: #4a4a4a; 
 }
 
 .nav-cards {
@@ -105,7 +120,7 @@ layout: default
 }
 
 .featured-item .meta {
-  color: #666;
+  color: #5a5a5a;  
   font-size: 0.9em;
   margin: 10px 0;
 }
@@ -148,7 +163,7 @@ layout: default
 </style>
 
 <div class="hero-section">
-  <img src="assets/profile-photo.png" alt="Anthony Onde Morada, MD" style="max-width: 200px; border-radius: 50%; margin: 0 auto 20px; display: block;">
+  <img src="assets/profile-photo.png" alt="Anthony Onde Morada, MD - Professional headshot" style="max-width: 200px; border-radius: 50%; margin: 0 auto 20px; display: block;">
   <h1>Anthony Onde Morada, MD</h1>
   <p class="hero-tagline">General Surgery Resident (PGY-4) | Transplant Surgery Researcher</p>
   <p>Geisinger Northeast General Surgery Program<br>
