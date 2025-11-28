@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CV Conversion Script
-Converts CV from Markdown to HTML and PDF using pandoc with preset styling
+Converts CV from Markdown to Word and PDF using pandoc
 Author: Anthony Onde Morada, MD
 
 Usage: python3 convert_cv.py
@@ -63,54 +63,38 @@ def check_latex():
     return None
 
 def find_cv_file():
-    """Auto-detect CV markdown file"""
-    possible_files = [
-        "cv/anthony-onde-morada-cv.md",
-        "anthony-onde-morada-cv.md", 
-        "cv.md",
-        "resume.md"
-    ]
-    
-    for file_path in possible_files:
-        if Path(file_path).exists():
-            return Path(file_path)
+    """Find cv.md file"""
+    cv_file = Path("cv.md")
+    if cv_file.exists():
+        return cv_file
     return None
 
-def convert_to_html(input_file, output_file, css_file):
-    """Convert markdown to styled HTML"""
+def convert_to_docx(input_file, output_file):
+    """Convert markdown to Word document"""
     cmd = [
         'pandoc', str(input_file),
         '-f', 'markdown',
-        '-t', 'html5',
-        '--standalone',
-        '--metadata', 'title=Curriculum Vitae',
+        '-t', 'docx',
         '-o', str(output_file)
     ]
-    
-    # Add CSS if it exists
-    if css_file and css_file.exists():
-        cmd.extend(['--css', str(css_file)])
-        print(f"📎 Using stylesheet: {css_file}")
-    
+
     try:
         subprocess.run(cmd, check=True, capture_output=True)
-        print(f"✅ HTML: {output_file}")
+        print(f"✅ Word: {output_file}")
         return True
     except subprocess.CalledProcessError as e:
-        print(f"❌ HTML generation failed")
+        print(f"❌ Word generation failed")
         return False
 
-def convert_to_pdf(input_file, output_file, latex_engine, css_file):
-    """Convert markdown to PDF with preset formatting"""
+def convert_to_pdf(input_file, output_file, latex_engine):
+    """Convert markdown to PDF"""
     cmd = [
         'pandoc', str(input_file),
         '-f', 'markdown',
         '-o', str(output_file),
         f'--pdf-engine={latex_engine}'
     ]
-    if css_file and css_file.exists():
-        cmd.extend(['--css', str(css_file)])
-       
+
     try:
         print("Running pandoc PDF conversion...")
         result = subprocess.run(cmd, check=True, capture_output=True, text=True)
@@ -125,11 +109,10 @@ def convert_to_pdf(input_file, output_file, latex_engine, css_file):
         if e.stdout:
             print(f"STDOUT: {e.stdout}")
         print(f"Return code: {e.returncode}")
-        
+
         print(f"\nTroubleshooting:")
         print(f"1. Check if LaTeX packages are missing")
         print(f"2. Try simpler PDF generation")
-        print(f"3. Use HTML to PDF: open HTML in browser, print to PDF")
         return False
 
 def main():
@@ -146,65 +129,44 @@ def main():
     # Find input file
     input_file = find_cv_file()
     if not input_file:
-        print("❌ CV markdown file not found")
-        print("Expected locations:")
-        print("  • cv/anthony-onde-morada-cv.md")
-        print("  • anthony-onde-morada-cv.md")
-        print("  • cv.md")
-        print("  • resume.md")
+        print("❌ cv.md not found")
         sys.exit(1)
-    
+
     print(f"📄 Found CV: {input_file}")
-    
+
     # Setup output
-    output_dir = Path("cv")
+    output_dir = Path("cv-downloads")
     output_dir.mkdir(exist_ok=True)
-    
-    base_name = input_file.stem
-    html_output = output_dir / f"{base_name}.html"
-    pdf_output = output_dir / f"{base_name}.pdf"
-    
-    # Find CSS file
-    css_file = Path("cv-style.css")
-    if not css_file.exists():
-        css_file = Path("cv-style.css")
-    if not css_file.exists():
-        css_file = None
-        print("💡 No CSS file found - using default styling")
-    
+
+    docx_output = output_dir / "cv.docx"
+    pdf_output = output_dir / "cv.pdf"
+
     print(f"📁 Output: {output_dir}/")
-    
+
     # Convert files
     print("🔄 Converting...")
-    
-    html_success = convert_to_html(input_file, html_output, css_file)
-    
+
+    docx_success = convert_to_docx(input_file, docx_output)
+
     pdf_success = False
     if latex_engine:
-        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine, css_file)
+        pdf_success = convert_to_pdf(input_file, pdf_output, latex_engine)
     else:
         print("⏭️  Skipping PDF (no LaTeX)")
-    
+
     # Results
     print("=" * 40)
-    if html_success or pdf_success:
+    if docx_success or pdf_success:
         print("🎉 Conversion complete!")
-        
-        if html_success:
-            print(f"🌐 HTML: {html_output}")
-            print(f"   → Open in browser to preview")
-        
+
+        if docx_success:
+            print(f"📄 Word: {docx_output}")
+
         if pdf_success:
             print(f"📄 PDF: {pdf_output}")
-            print(f"   → Ready for applications")
         else:
             print("📄 PDF: Failed - see error details above")
-        
-        print("\n📋 Next steps:")
-        print("1. Review generated files")
-        print("2. Customize cv-style.css if needed")
-        print("3. Commit and push to update online CV")
-        
+
     else:
         print("❌ Conversion failed")
         sys.exit(1)

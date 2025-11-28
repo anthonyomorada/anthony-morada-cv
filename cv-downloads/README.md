@@ -4,8 +4,8 @@ This folder contains downloadable versions of Dr. Morada's curriculum vitae in m
 
 ## Available Formats
 
-- **PDF** - `anthony-morada-cv.pdf` (Coming soon)
-- **Word** - `anthony-morada-cv.docx` (Coming soon)
+- **PDF** - `cv.pdf` 
+- **Word** - `cv.docx` 
 
 ## Generating CV Files
 
