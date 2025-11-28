@@ -10,7 +10,6 @@ layout: default
   --text-dark: #1a1a1a;
 }
 
-/* Research-backed typography */
 body {
   font-size: 16px;
   line-height: 1.6;
@@ -230,7 +229,7 @@ body {
 
 **Institutional Email:** [amorada1@geisinger.edu](mailto:amorada1@geisinger.edu)  
 **Personal Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com)  
-**Phone:** +1 (909) 239-3581
+**Phone:** +1 (909) 239-3581  
 **ORCID:** [0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558) • **LinkedIn:** [anthonyomorada](https://linkedin.com/in/anthonyomorada) • **GitHub:** [anthonyomorada](https://github.com/anthonyomorada)
 
 ---
