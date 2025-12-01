@@ -1,4 +1,4 @@
-# Anthony Onde Morada, MD - CV Portfolio Website
+# Anthony Onde Morada, MD - CV Website
 
 [![Website](https://img.shields.io/badge/Website-Live-success?style=flat-square)](https://anthonyomorada.github.io/anthony-morada-cv/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
