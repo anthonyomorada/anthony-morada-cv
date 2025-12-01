@@ -5,7 +5,7 @@
 
 **Live Site:** [anthonyomorada.github.io/anthony-morada-cv](https://anthonyomorada.github.io/anthony-morada-cv/)
 
-A professional portfolio website and CV repository for General Surgery residency and transplant surgery fellowship applications. Built with GitHub Pages and Jekyll for free, automated hosting.
+A professional portfolio website and CV repository for any medical applications. Built with GitHub Pages and Jekyll for free, automated hosting.
 
 ---
 
