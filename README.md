@@ -227,11 +227,10 @@ Update contact details in both:
 ## 📬 Contact
 
 **Anthony Onde Morada, MD**  
-General Surgery Resident (PGY-4)  
+General Surgery Resident 
 Geisinger Northeast General Surgery Program
 
 📧 anthony.omorada@gmail.com | amorada1@geisinger.edu  
-📱 +1 (909) 239-3581
 
 **Professional Profiles:**
 - 🔬 [ORCID: 0000-0002-0428-6558](https://orcid.org/0000-0002-0428-6558)
