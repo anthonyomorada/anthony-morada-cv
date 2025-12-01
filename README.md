@@ -16,10 +16,10 @@ A professional portfolio website and CV repository for General Surgery residency
 👉 **[am-medical-cv-template](https://github.com/anthonyomorada/am-medical-cv-template)** - Blank template for medical professionals
 
 The template includes:
-- ✅ Pre-configured Jekyll setup
-- ✅ 5-minute quickstart guide
-- ✅ No coding required
-- ✅ Easy customization instructions
+- Pre-configured Jekyll setup
+- 5-minute quickstart guide
+- No coding required
+- Easy customization instructions
 
 ---
 
