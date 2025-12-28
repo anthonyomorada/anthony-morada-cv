@@ -8,7 +8,7 @@ layout: default
 
 **Phone:** +1 (909) 239-3581
 
-**Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com) · [amorada1@geisinger.edu](mailto:amorada1@geisinger.edu)
+**Email:** [anthony.omorada\@gmail.com](mailto:anthony.omorada@gmail.com) · [amorada1\@geisinger.edu](mailto:amorada1@geisinger.edu)
 
 **Address:** 208 Main St. Avoca, PA 18641-1544
 
@@ -88,19 +88,21 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer-Reviewed Articles
 
-1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. \[[Full Text](https://doi.org/10.1007/s00464-021-08847-7)\] \[[PDF](./publications/2022-sr-ileostomy-malig.pdf)\]
+1.  **Morada, AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Late Parotid Recurrence of Hepatocellular Carcinoma Following Liver Transplantation: A Case Report, *Case Reports in Hepatology*, 2025, 2965476, 5 pages, 2025. \[[Full Text](https://doi.org/10.1155/crhe/2965476)\] \[[PDF](./publications/2025-cr-parotid-hcc-mets.pdf)\]
 
 2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. \[[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)\]
 
 3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. \[[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)\]
 
-4.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. \[[Full Text](https://doi.org/10.1136/bcr-2021-247609)\] \[[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)\]
+4.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. \[[Full Text](https://doi.org/10.1007/s00464-021-08847-7)\] \[[PDF](./publications/2022-sr-ileostomy-malig.pdf)\]
 
-5.  Senapathi H, **Morada A**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Open Access](https://doi.org/10.7759/cureus.19447)\]
+5.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. \[[Full Text](https://doi.org/10.1136/bcr-2021-247609)\] \[[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)\]
 
-6.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. \[[Preprint](https://doi.org/10.1101/2021.04.12.21255201)\]
+6.  Senapathi H, **Morada A**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Open Access](https://doi.org/10.7759/cureus.19447)\]
 
-7.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. \[[Full Text](https://doi.org/10.1002/pmic.201500159)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/26572944/)\]
+7.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. \[[Preprint](https://doi.org/10.1101/2021.04.12.21255201)\]
+
+8.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. \[[Full Text](https://doi.org/10.1002/pmic.201500159)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/26572944/)\]
 
 ### Manuscripts Under Review/In Preparation
 
@@ -126,6 +128,12 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 ## Presentations
 
 ### Oral Presentations
+
+*Accepted*
+
+1.  **Morada AO**, Becker JL, Furey MJ, Summa CH, Richards KR, Bodde J, Jordan RM, Bannon JP, Falvo A. Building a Better Sub-Internship Evaluation: A Multi-Stakeholder Approach. *Accepted for 2026 Association for Surgical Education Annual Meeting,* Atlanta, GA. April 29 2026.
+
+*Completed*
 
 1.  Bashiri A, **Morada AO**, Silverman S, Behara M, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 

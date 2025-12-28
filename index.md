@@ -268,7 +268,7 @@ hr {
 
 <div class="stats-grid">
   <div class="stat-card">
-    <h3>7</h3>
+    <h3>8</h3>
     <p>Peer-Reviewed<br>Publications</p>
   </div>
   <div class="stat-card">
