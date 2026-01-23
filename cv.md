@@ -107,7 +107,9 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 ### Manuscripts Under Review/In Preparation
 
 -   **Morada AO**, Kropp Lopez A, Droney AC, Matera D, Lopez R. Traumatic Page Kidney: A Systematic Review and Case Report of Bilateral Gerota's Fascia Release. *Submitted to Trauma Surgery & Acute Care Open*; in review.
+
 -   **Morada AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Hepatocellular Carcinoma Metastasis to Salivary Glands: A Systematic Review of Diagnostic Challenges and Survival Outcomes. *Submitted to Journal of Gastrointestinal Oncology*; in review.
+
 -   Dewar Z, **Morada AO**, Senapathi H, Rittenberger J. Ultrasound versus combined ultrasound and modified Seldinger technique in obtaining difficult peripheral intravenous access: A systematic review and meta-analysis. \[[PROSPERO Protocol](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=210386)\] *Manuscript in preparation*
 
 -   Seungwoo C, Senapathi SH, **Morada AO**, et al. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study. *Manuscript in preparation*

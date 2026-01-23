@@ -5,13 +5,15 @@ Converts CV from Markdown to Word and PDF using pandoc
 Author: Anthony Onde Morada, MD
 
 Usage:
-  python3 convert_cv.py                    # Use default style.css
-  python3 convert_cv.py --css custom.css   # Use custom CSS file
-  python3 convert_cv.py --help             # Show help
+  python3 convert_cv.py                           # Use default style.css
+  python3 convert_cv.py --css custom.css          # Use custom CSS file
+  python3 convert_cv.py --input path/to/cv.md     # Point to a specific CV file
+  python3 convert_cv.py --help                    # Show help
 
 Options:
-  --css FILE    Use custom CSS file for styling (default: assets/style.css)
-  --help        Show this help message
+  --css FILE      Use custom CSS file for styling (default: assets/style.css)
+  --input FILE    Path to the CV markdown file (default: auto-detect cv.md)
+  --help          Show this help message
 """
 
 import subprocess
@@ -70,11 +72,49 @@ def check_latex():
         print("  Or TeX Live: https://tug.org/texlive/")
     return None
 
-def find_cv_file():
-    """Find cv.md file"""
-    cv_file = Path("cv.md")
-    if cv_file.exists():
-        return cv_file
+def find_cv_file(custom_input=None):
+    """Locate the CV markdown file, even if run from different folders"""
+    script_dir = Path(__file__).resolve().parent
+    project_root = script_dir.parent
+
+    def check_candidates(candidates):
+        for path in candidates:
+            if path.exists():
+                return path
+        return None
+
+    # If user provided a path, honor it and try a couple relative locations
+    if custom_input:
+        user_path = Path(custom_input)
+        candidates = [user_path]
+
+        if not user_path.is_absolute():
+            candidates.extend([
+                script_dir / user_path,
+                project_root / user_path
+            ])
+
+        found = check_candidates(candidates)
+        if found:
+            return found
+        print(f"❌ Provided input file not found: {custom_input}")
+        return None
+
+    # Default search: common locations when running from repo root or assets/
+    default_candidates = [
+        Path("cv.md"),
+        project_root / "cv.md",
+        script_dir / "cv.md"
+    ]
+
+    found = check_candidates(default_candidates)
+    if found:
+        return found
+
+    # Fallback: search for cv.md under the project root
+    for path in project_root.rglob("cv.md"):
+        return path
+
     return None
 
 def convert_to_docx(input_file, output_file, css_file=None):
@@ -140,8 +180,9 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python3 convert_cv.py                    # Use default style.css
-  python3 convert_cv.py --css custom.css   # Use custom CSS file
+  python3 convert_cv.py                           # Use default style.css
+  python3 convert_cv.py --css custom.css          # Use custom CSS file
+  python3 convert_cv.py --input path/to/cv.md     # Point to a specific CV file
 
 For reproducibility:
   - Edit assets/style.css to customize the default styling
@@ -150,14 +191,28 @@ For reproducibility:
     )
     parser.add_argument('--css', type=str, default='assets/style.css',
                        help='CSS file for styling (default: assets/style.css)')
+    parser.add_argument('--input', '-i', type=str, default=None,
+                       help='Path to the CV markdown file (default: auto-detect cv.md)')
 
     args = parser.parse_args()
 
     print("🔄 CV Conversion Script")
     print("=" * 40)
 
-    # Resolve CSS file path
+    script_dir = Path(__file__).resolve().parent
+    project_root = script_dir.parent
+
+    # Resolve CSS file path, trying common relative locations
     css_file = Path(args.css)
+    if not css_file.exists() and not css_file.is_absolute():
+        alt_css = script_dir / args.css
+        if alt_css.exists():
+            css_file = alt_css
+        else:
+            alt_css = project_root / args.css
+            if alt_css.exists():
+                css_file = alt_css
+
     if not css_file.exists():
         print(f"⚠️  CSS file not found: {css_file}")
         print("   Proceeding without custom styling...")
@@ -173,15 +228,15 @@ For reproducibility:
     latex_engine = check_latex()
 
     # Find input file
-    input_file = find_cv_file()
+    input_file = find_cv_file(args.input)
     if not input_file:
         print("❌ cv.md not found")
         sys.exit(1)
 
     print(f"📄 Found CV: {input_file}")
 
-    # Setup output
-    output_dir = Path("cv-downloads")
+    # Setup output relative to project root so paths stay consistent
+    output_dir = project_root / "cv-downloads"
     output_dir.mkdir(exist_ok=True)
 
     docx_output = output_dir / "cv.docx"
