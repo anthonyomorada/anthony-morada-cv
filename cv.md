@@ -106,6 +106,8 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Manuscripts Under Review/In Preparation
 
+-   **Morada AO**, Kropp Lopez A, Droney AC, Matera D, Lopez R. Traumatic Page Kidney: A Systematic Review and Case Report of Bilateral Gerota's Fascia Release. *Submitted to Trauma Surgery & Acute Care Open*; in review.
+-   **Morada AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Hepatocellular Carcinoma Metastasis to Salivary Glands: A Systematic Review of Diagnostic Challenges and Survival Outcomes. *Submitted to Journal of Gastrointestinal Oncology*; in review.
 -   Dewar Z, **Morada AO**, Senapathi H, Rittenberger J. Ultrasound versus combined ultrasound and modified Seldinger technique in obtaining difficult peripheral intravenous access: A systematic review and meta-analysis. \[[PROSPERO Protocol](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=210386)\] *Manuscript in preparation*
 
 -   Seungwoo C, Senapathi SH, **Morada AO**, et al. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study. *Manuscript in preparation*
@@ -153,47 +155,49 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Poster Presentations
 
-1.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [🖼️ PDF](./presentations/2021-sages-poster.pdf)
+1.  
 
-2.  Yeung E, Senapathi SH, **Morada AO**, Wung C, Miner J, Cagir B. High Output Ileostomy: A Retrospective Study on the Predictive Parameters of 30 Days Readmission from Dehydration. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021.
+2.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [🖼️ PDF](./presentations/2021-sages-poster.pdf)
 
-3.  Chai S, Kolade V, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study of the patient-doctor relationship. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+3.  Yeung E, Senapathi SH, **Morada AO**, Wung C, Miner J, Cagir B. High Output Ileostomy: A Retrospective Study on the Predictive Parameters of 30 Days Readmission from Dehydration. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021.
 
-4.  Senapathi SH, **Morada AO**, Morgan P, Cagir B. Comparing Epidemiology and Survival of Gastro-Intestinal Stromal Tumors and Leiomyosarcomas. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+4.  Chai S, Kolade V, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study of the patient-doctor relationship. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-5.  Bertram C, Yeung E, Senapathi SH, Perry M, **Morada AO**, Bertsch D, Cagir B. Evaluation of the Survival outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 registry: What do we know? *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+5.  Senapathi SH, **Morada AO**, Morgan P, Cagir B. Comparing Epidemiology and Survival of Gastro-Intestinal Stromal Tumors and Leiomyosarcomas. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-6.  Yeung E, Senapathi H, Perry M, Bertram C, **Morada AO**, Bertsch D, Cagir B. P90: Evaluation of the Survival Outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 Registry: What Do We Know? *Society of Surgical Oncology 2021: International Conference on Surgical Cancer Care*, Virtual Meeting. March 2021.
+6.  Bertram C, Yeung E, Senapathi SH, Perry M, **Morada AO**, Bertsch D, Cagir B. Evaluation of the Survival outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 registry: What do we know? *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-7.  Senapathi SH, Perry M, **Morada AO**, Bertram C, Yeung E, Bertsch D, Cagir B. P85: Review of Intestinal Leiomyosarcomas: Epidemiology and Survival. *Society of Surgical Oncology 2021: International Conference on Surgical Cancer Care*, Virtual Meeting. March 2021.
+7.  Yeung E, Senapathi H, Perry M, Bertram C, **Morada AO**, Bertsch D, Cagir B. P90: Evaluation of the Survival Outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 Registry: What Do We Know? *Society of Surgical Oncology 2021: International Conference on Surgical Cancer Care*, Virtual Meeting. March 2021.
 
-8.  **Morada A**, Adnani A, Bombar B, Rodriguez A, Simpson K, Pamula J. Optimizing Transition Care Management Referrals to Primary Care Providers. *Stanley Conklin Research Day*, Sayre, PA. April 2020.
+8.  Senapathi SH, Perry M, **Morada AO**, Bertram C, Yeung E, Bertsch D, Cagir B. P85: Review of Intestinal Leiomyosarcomas: Epidemiology and Survival. *Society of Surgical Oncology 2021: International Conference on Surgical Cancer Care*, Virtual Meeting. March 2021.
 
-9.  Vaddadi S, Vyas N, Mathews K, **Morada A**, Hanrahan M, Santa-Lucia G, Davis G. An Artificial Intelligence Tool to Aid in the Management of Mechanical Ventilation: A Proof-of-Concept Study. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
+9.  **Morada A**, Adnani A, Bombar B, Rodriguez A, Simpson K, Pamula J. Optimizing Transition Care Management Referrals to Primary Care Providers. *Stanley Conklin Research Day*, Sayre, PA. April 2020.
 
-10. Stewart J, Behrman J, Davis G, **Morada A**, Vyas N, Ali B, Watson S, Ca K, Sorour K. Retrospective evaluation of dependency on supplemental oxygen in patients undergoing therapeutic hypothermia. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
+10. Vaddadi S, Vyas N, Mathews K, **Morada A**, Hanrahan M, Santa-Lucia G, Davis G. An Artificial Intelligence Tool to Aid in the Management of Mechanical Ventilation: A Proof-of-Concept Study. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
 
-11. **Morada A**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *American College of Surgeons Clinical Congress 2019*, San Francisco, CA, October 2019.
+11. Stewart J, Behrman J, Davis G, **Morada A**, Vyas N, Ali B, Watson S, Ca K, Sorour K. Retrospective evaluation of dependency on supplemental oxygen in patients undergoing therapeutic hypothermia. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
 
-12. **Morada A**, Teixeira A, Tripathi K, Reisch-Neyman Y, Davis G, Sorour O, Mccallion P, Sorour K. Intracolonic Administration of Vancomycin Via Cecal Tube in Intensive Care Unit Patients with Fulminant Clostridium Difficile Colitis. *16th Annual American Medical Association Research Symposium*, National Harbor, MD, November 2018.
+12. **Morada A**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *American College of Surgeons Clinical Congress 2019*, San Francisco, CA, October 2019.
 
-13. **Morada A**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
+13. **Morada A**, Teixeira A, Tripathi K, Reisch-Neyman Y, Davis G, Sorour O, Mccallion P, Sorour K. Intracolonic Administration of Vancomycin Via Cecal Tube in Intensive Care Unit Patients with Fulminant Clostridium Difficile Colitis. *16th Annual American Medical Association Research Symposium*, National Harbor, MD, November 2018.
 
-14. Marinock J, **Morada A**, Mirshahi U, Smelser DT, Carey DJ. Rare Variants in APC Gene Increase Population Burden of Familial Adenomatous Polyposis. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
+14. **Morada A**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
 
-15. Davis G, **Morada A**, Myers T, Sorour K. Effects of Body Temperature on Vasoactive-Inotropic Score. *Annual National Student Research Forum*, Galveston, TX, May 2018.
+15. Marinock J, **Morada A**, Mirshahi U, Smelser DT, Carey DJ. Rare Variants in APC Gene Increase Population Burden of Familial Adenomatous Polyposis. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
 
-16. Bolock A, Choudhary M, Fei X, Loser M, **Morada A**, Stefanelli M, Rwabukwisi F. Longitudinal Community Health Research Project: Colorectal Cancer Screening. *Geisinger Commonwealth School of Medicine Research Day*, Scranton, PA, March 2017.
+16. Davis G, **Morada A**, Myers T, Sorour K. Effects of Body Temperature on Vasoactive-Inotropic Score. *Annual National Student Research Forum*, Galveston, TX, May 2018.
 
-17. Miller BN, Garnett G, **Morada A**, Annamalai A, Hendifar A, Dhall D, Wachsman A, Yu R, Nissen N. Parenchymal-Preserving Resection for Pancreatic Neuroendocrine Tumors: are the Outcomes Justified? *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
+17. Bolock A, Choudhary M, Fei X, Loser M, **Morada A**, Stefanelli M, Rwabukwisi F. Longitudinal Community Health Research Project: Colorectal Cancer Screening. *Geisinger Commonwealth School of Medicine Research Day*, Scranton, PA, March 2017.
 
-18. **Morada A**, Mehta PA, Miller BN, Annamalai A, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Pancreatic Fistula or Leak after Distal Pancreatectomy: Has anything changed? 13-year Single Surgeon Experience. *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
+18. Miller BN, Garnett G, **Morada A**, Annamalai A, Hendifar A, Dhall D, Wachsman A, Yu R, Nissen N. Parenchymal-Preserving Resection for Pancreatic Neuroendocrine Tumors: are the Outcomes Justified? *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
 
-19. Miao Y, **Morada A**, Sun A, Garcia-Vedrenne AE, Foltz KR. Egg Activation Signaling Networks Revealed Via High Throughput Phosphoproteomics. *2015 Molecular, Cellular, and Developmental Biology Graduate Symposium*, Santa Barbara, CA, Feb 2015.
+19. **Morada A**, Mehta PA, Miller BN, Annamalai A, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Pancreatic Fistula or Leak after Distal Pancreatectomy: Has anything changed? 13-year Single Surgeon Experience. *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
 
-20. **Morada A**, Garcia-Vedrenne AE, Foltz KR. Investigating egg activation signaling circuits using high throughput phosphoproteomics. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2014.
+20. Miao Y, **Morada A**, Sun A, Garcia-Vedrenne AE, Foltz KR. Egg Activation Signaling Networks Revealed Via High Throughput Phosphoproteomics. *2015 Molecular, Cellular, and Developmental Biology Graduate Symposium*, Santa Barbara, CA, Feb 2015.
 
-21. **Morada A**, Garcia-Vedrenne AE, Foltz KR. Profiling and enrichment mapping of the sea urchin egg phosphoproteome in response to fertilization. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2013.
+21. **Morada A**, Garcia-Vedrenne AE, Foltz KR. Investigating egg activation signaling circuits using high throughput phosphoproteomics. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2014.
+
+22. **Morada A**, Garcia-Vedrenne AE, Foltz KR. Profiling and enrichment mapping of the sea urchin egg phosphoproteome in response to fertilization. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2013.
 
 ## Honors and Awards
 
