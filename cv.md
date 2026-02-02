@@ -70,7 +70,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 -   **Clinical Research Volunteer** \| 2015 Department of Microbiology, St. John's Regional Medical Center, Oxnard, CA
     -   Analyzed blood culture contamination data using R programming
 -   **Undergraduate Research Assistant** \| 2013 – 2015 Dr. Kathy Foltz Laboratory, University of California – Santa Barbara, Santa Barbara, CA
-    -   Investigated egg activation mechanisms; reviewed more than 8,000 unique phosphor-sequences from a high throughput phosphoproteomic analysis of time course egg lysates of S. Purpuratus
+    -   Investigated egg activation mechanisms; reviewed more than 8,000 unique phospho-sequences from a high throughput phosphoproteomic analysis of time course egg lysates of *S. purpuratus*
     -   Awarded two Undergraduate Research and Creative Activities (URCA) Grants
 -   **Laboratory Research Assistant** \| 2014 Dr. Megan Valentine and Dr. Stuart Feinstein Laboratories, University of California – Santa Barbara, Santa Barbara, CA
     -   Summer research project synthesizing Alzheimer's-associated tau protein and isoforms
@@ -90,15 +90,15 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 1.  **Morada, AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Late Parotid Recurrence of Hepatocellular Carcinoma Following Liver Transplantation: A Case Report, *Case Reports in Hepatology*, 2025, 2965476, 5 pages, 2025. \[[Full Text](https://doi.org/10.1155/crhe/2965476)\] \[[PDF](./publications/2025-cr-parotid-hcc-mets.pdf)\]
 
-2.  Bashiri A, **Morada A**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. \[[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)\]
+2.  Bashiri A, **Morada AO**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. \[[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)\]
 
-3.  Keller HR, Senapathi SH, **Morada A**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. \[[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)\]
+3.  Keller HR, Senapathi SH, **Morada AO**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. \[[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)\]
 
 4.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. \[[Full Text](https://doi.org/10.1007/s00464-021-08847-7)\] \[[PDF](./publications/2022-sr-ileostomy-malig.pdf)\]
 
-5.  Sundaram N, **Morada A**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. \[[Full Text](https://doi.org/10.1136/bcr-2021-247609)\] \[[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)\]
+5.  Sundaram N, **Morada AO**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. \[[Full Text](https://doi.org/10.1136/bcr-2021-247609)\] \[[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)\]
 
-6.  Senapathi H, **Morada A**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Open Access](https://doi.org/10.7759/cureus.19447)\]
+6.  Senapathi H, **Morada AO**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Open Access](https://doi.org/10.7759/cureus.19447)\]
 
 7.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. \[[Preprint](https://doi.org/10.1101/2021.04.12.21255201)\]
 
@@ -117,7 +117,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 ### Media & Publications
 
 -   **Morada AO**, Mackarey P. Finding your way clear of opioid problems. *The Scranton Times-Tribune*. August 27, 2018. \[[Full Article](https://www.thetimes-tribune.com/news/finding-your-way-clear-of-opioid-problems-1.2378516)\]
--   **Morada A**. Ending Tuberculosis: A Global Commitment. *The Traveler*. December 2017.
+-   **Morada AO**. Ending Tuberculosis: A Global Commitment. *The Traveler*. December 2017.
 
 ### Peer Review Activities
 
@@ -141,23 +141,23 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 1.  Bashiri A, **Morada AO**, Silverman S, Behara M, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-2.  Bertram C, Yeung E, Senapathi H, Perry M, **Morada A**, Bertsch D, Cagir B. Evaluation of the Survival outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 registry: What do we know? *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+2.  Bertram C, Yeung E, Senapathi H, Perry M, **Morada AO**, Bertsch D, Cagir B. Evaluation of the Survival outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 registry: What do we know? *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
 3.  Chai S, Kolade V, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study of the patient-doctor relationship. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
 4.  Senapathi SH, **Morada AO**, Morgan P, Cagir B. Comparing Epidemiology and Survival of Gastro-Intestinal Stromal Tumors and Leiomyosarcomas. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-5.  **Morada A**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Examining the Genetic Burden of Two Rare Autosomal Dominant Diseases. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
+5.  **Morada AO**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Examining the Genetic Burden of Two Rare Autosomal Dominant Diseases. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
 
-6.  **Morada A**, Mehta PA, Miller BN, Alagappan AA, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Management of Pancreatic Fistula or Leak after Pancreatectomy: Perspective from a 14-year Single Surgeon Experience. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
+6.  **Morada AO**, Mehta PA, Miller BN, Alagappan AA, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Management of Pancreatic Fistula or Leak after Pancreatectomy: Perspective from a 14-year Single Surgeon Experience. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
 
-7.  Miller BN, **Morada A**, Gangi A, Annamalai AA, Wachsman A, Hendifar A, Tuli R, Nissen N. Challenging the Treatment Paradigm of Oligometastatic Pancreatic Adenocarcinoma with Selective Use of Locoregional Cytoreductive Therapies. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
+7.  Miller BN, **Morada AO**, Gangi A, Annamalai AA, Wachsman A, Hendifar A, Tuli R, Nissen N. Challenging the Treatment Paradigm of Oligometastatic Pancreatic Adenocarcinoma with Selective Use of Locoregional Cytoreductive Therapies. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
 
-8.  Miller BN, Mehta PA, **Morada A**, Hendifar A, Annamalai AA, Wachsman A, Deepti D, Nissen N. Age-Related Differences in Presentation and Management of Pancreatic Neuroendocrine Tumors. *Society of Surgical Oncology's 70th Annual Cancer Symposium*, Seattle, WA, March 2017.
+8.  Miller BN, Mehta PA, **Morada AO**, Hendifar A, Annamalai AA, Wachsman A, Deepti D, Nissen N. Age-Related Differences in Presentation and Management of Pancreatic Neuroendocrine Tumors. *Society of Surgical Oncology's 70th Annual Cancer Symposium*, Seattle, WA, March 2017.
 
 ### Poster Presentations
 
-1.  
+1.  **Morada AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Uncommon Sites of Hepatocellular Carcinoma Metastasis: A Systematic Review of Salivary Gland Involvement. *International Liver Transplantation Society (ILTS) Annual Congress 2025*, Singapore, May 2025. [🖼️ PDF](./presentations/2025-ilts-poster.pdf)
 
 2.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A Systematic Review of Primary Ileostomy Site Malignancies. *Society of American Gastrointestinal and Endoscopic Surgeons 2021 Meeting*, Las Vegas, NV, August 2021. [🖼️ PDF](./presentations/2021-sages-poster.pdf)
 
@@ -173,33 +173,33 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 8.  Senapathi SH, Perry M, **Morada AO**, Bertram C, Yeung E, Bertsch D, Cagir B. P85: Review of Intestinal Leiomyosarcomas: Epidemiology and Survival. *Society of Surgical Oncology 2021: International Conference on Surgical Cancer Care*, Virtual Meeting. March 2021.
 
-9.  **Morada A**, Adnani A, Bombar B, Rodriguez A, Simpson K, Pamula J. Optimizing Transition Care Management Referrals to Primary Care Providers. *Stanley Conklin Research Day*, Sayre, PA. April 2020.
+9.  **Morada AO**, Adnani A, Bombar B, Rodriguez A, Simpson K, Pamula J. Optimizing Transition Care Management Referrals to Primary Care Providers. *Stanley Conklin Research Day*, Sayre, PA. April 2020.
 
-10. Vaddadi S, Vyas N, Mathews K, **Morada A**, Hanrahan M, Santa-Lucia G, Davis G. An Artificial Intelligence Tool to Aid in the Management of Mechanical Ventilation: A Proof-of-Concept Study. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
+10. Vaddadi S, Vyas N, Mathews K, **Morada AO**, Hanrahan M, Santa-Lucia G, Davis G. An Artificial Intelligence Tool to Aid in the Management of Mechanical Ventilation: A Proof-of-Concept Study. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
 
-11. Stewart J, Behrman J, Davis G, **Morada A**, Vyas N, Ali B, Watson S, Ca K, Sorour K. Retrospective evaluation of dependency on supplemental oxygen in patients undergoing therapeutic hypothermia. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
+11. Stewart J, Behrman J, Davis G, **Morada AO**, Vyas N, Ali B, Watson S, Ca K, Sorour K. Retrospective evaluation of dependency on supplemental oxygen in patients undergoing therapeutic hypothermia. *Geisinger Commonwealth School of Medicine 2019 Spring Research Symposium*, Scranton, PA, March 2019.
 
-12. **Morada A**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *American College of Surgeons Clinical Congress 2019*, San Francisco, CA, October 2019.
+12. **Morada AO**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *American College of Surgeons Clinical Congress 2019*, San Francisco, CA, October 2019.
 
-13. **Morada A**, Teixeira A, Tripathi K, Reisch-Neyman Y, Davis G, Sorour O, Mccallion P, Sorour K. Intracolonic Administration of Vancomycin Via Cecal Tube in Intensive Care Unit Patients with Fulminant Clostridium Difficile Colitis. *16th Annual American Medical Association Research Symposium*, National Harbor, MD, November 2018.
+13. **Morada AO**, Teixeira A, Tripathi K, Reisch-Neyman Y, Davis G, Sorour O, Mccallion P, Sorour K. Intracolonic Administration of Vancomycin Via Cecal Tube in Intensive Care Unit Patients with Fulminant Clostridium Difficile Colitis. *16th Annual American Medical Association Research Symposium*, National Harbor, MD, November 2018.
 
-14. **Morada A**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
+14. **Morada AO**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Elucidating Rare Genetic Variants Associated with Autosomal Dominant Tubulointerstitial Kidney Disease. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
 
-15. Marinock J, **Morada A**, Mirshahi U, Smelser DT, Carey DJ. Rare Variants in APC Gene Increase Population Burden of Familial Adenomatous Polyposis. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
+15. Marinock J, **Morada AO**, Mirshahi U, Smelser DT, Carey DJ. Rare Variants in APC Gene Increase Population Burden of Familial Adenomatous Polyposis. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
 
-16. Davis G, **Morada A**, Myers T, Sorour K. Effects of Body Temperature on Vasoactive-Inotropic Score. *Annual National Student Research Forum*, Galveston, TX, May 2018.
+16. Davis G, **Morada AO**, Myers T, Sorour K. Effects of Body Temperature on Vasoactive-Inotropic Score. *Annual National Student Research Forum*, Galveston, TX, May 2018.
 
-17. Bolock A, Choudhary M, Fei X, Loser M, **Morada A**, Stefanelli M, Rwabukwisi F. Longitudinal Community Health Research Project: Colorectal Cancer Screening. *Geisinger Commonwealth School of Medicine Research Day*, Scranton, PA, March 2017.
+17. Bolock A, Choudhary M, Fei X, Loser M, **Morada AO**, Stefanelli M, Rwabukwisi F. Longitudinal Community Health Research Project: Colorectal Cancer Screening. *Geisinger Commonwealth School of Medicine Research Day*, Scranton, PA, March 2017.
 
-18. Miller BN, Garnett G, **Morada A**, Annamalai A, Hendifar A, Dhall D, Wachsman A, Yu R, Nissen N. Parenchymal-Preserving Resection for Pancreatic Neuroendocrine Tumors: are the Outcomes Justified? *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
+18. Miller BN, Garnett G, **Morada AO**, Annamalai A, Hendifar A, Dhall D, Wachsman A, Yu R, Nissen N. Parenchymal-Preserving Resection for Pancreatic Neuroendocrine Tumors: are the Outcomes Justified? *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
 
-19. **Morada A**, Mehta PA, Miller BN, Annamalai A, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Pancreatic Fistula or Leak after Distal Pancreatectomy: Has anything changed? 13-year Single Surgeon Experience. *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
+19. **Morada AO**, Mehta PA, Miller BN, Annamalai A, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Pancreatic Fistula or Leak after Distal Pancreatectomy: Has anything changed? 13-year Single Surgeon Experience. *Society for Surgery of the Alimentary Tract 58th Annual Meeting at Digestive Disease Week 2017*, Chicago, IL, May 2017.
 
-20. Miao Y, **Morada A**, Sun A, Garcia-Vedrenne AE, Foltz KR. Egg Activation Signaling Networks Revealed Via High Throughput Phosphoproteomics. *2015 Molecular, Cellular, and Developmental Biology Graduate Symposium*, Santa Barbara, CA, Feb 2015.
+20. Miao Y, **Morada AO**, Sun A, Garcia-Vedrenne AE, Foltz KR. Egg Activation Signaling Networks Revealed Via High Throughput Phosphoproteomics. *2015 Molecular, Cellular, and Developmental Biology Graduate Symposium*, Santa Barbara, CA, Feb 2015.
 
-21. **Morada A**, Garcia-Vedrenne AE, Foltz KR. Investigating egg activation signaling circuits using high throughput phosphoproteomics. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2014.
+21. **Morada AO**, Garcia-Vedrenne AE, Foltz KR. Investigating egg activation signaling circuits using high throughput phosphoproteomics. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2014.
 
-22. **Morada A**, Garcia-Vedrenne AE, Foltz KR. Profiling and enrichment mapping of the sea urchin egg phosphoproteome in response to fertilization. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2013.
+22. **Morada AO**, Garcia-Vedrenne AE, Foltz KR. Profiling and enrichment mapping of the sea urchin egg phosphoproteome in response to fertilization. *University of California – Santa Barbara's Undergraduate Research Colloquium*, Santa Barbara, CA, May 2013.
 
 ## Honors and Awards
 
@@ -260,24 +260,8 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ## Cultural Competencies
 
--   **Transgender Conference** · November 2017 Geisinger Commonwealth School of Medicine, Scranton, PA
-    -   Engaged in training to learn and support unique health needs of transgender individuals
--   **Safe Zone Trained** · November 2017 Geisinger Commonwealth School of Medicine, Scranton, PA
-    -   Acquired understanding of importance of language in creating affirming environments for LGBTQ individuals
--   **Cross-Cultural Communication Trained** · November 2017 Geisinger Commonwealth School of Medicine, Scranton, PA
-    -   Engaged in interactive activity to experience how culture plays vital role in navigating cultural spaces
--   **Microaggression Training** · November 2017 Geisinger Commonwealth School of Medicine, Scranton, PA
-    -   Interactive discussion regarding techniques to minimize microaggressions
--   **Community Action Poverty Simulation** · November 2017 Geisinger Commonwealth School of Medicine, Scranton, PA
-    -   Interactive, immersive experience to gain awareness of poverty and understand experiences of those living in low-income environment
--   **Psychiatric Disability Empathy Training** · November 2017 Geisinger Commonwealth School of Medicine, Scranton, PA
-    -   Three-hour interactive training session on performing mental status exam in mock psychiatric emergency room
--   **People with Disabilities as Teachers (PDAT) Training** · November 2017 Geisinger Commonwealth School of Medicine, Scranton, PA
-    -   Communication with partners at Center for Independent Living to understand life and interactions of those living with disabilities
+Trained in: Transgender Health, Safe Zone (LGBTQ+), Cross-Cultural Communication, Microaggression Awareness, Community Action Poverty Simulation, Psychiatric Disability Empathy, People with Disabilities as Teachers (PDAT) — Geisinger Commonwealth School of Medicine, 2017
 
 ## Personal Interests
 
--   Photography: Nikon D60 with 50mm F/1.8G and 18-270mm F/3.5-6.3 lens
--   Programming and Data Analytics: Proficient with R and Python (GitHub profile: moradaao)
--   Fantasy Sports: 9-year basketball commissioner; basketball, football, and baseball champion
--   Fitness: Backpacking, bowling, cycling, hiking, lifting, and running
+-   Photography, Programming (R, Python), Fantasy Sports, Fitness (hiking, cycling, running)
