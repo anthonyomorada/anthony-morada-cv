@@ -90,19 +90,19 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 1.  **Morada, AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Late Parotid Recurrence of Hepatocellular Carcinoma Following Liver Transplantation: A Case Report, *Case Reports in Hepatology*, 2025, 2965476, 5 pages, 2025. \[[Full Text](https://doi.org/10.1155/crhe/2965476)\] \[[PDF](./publications/2025-cr-parotid-hcc-mets.pdf)\]
 
-2.  Bashiri A, **Morada AO**, Sultany M, et al. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. \[[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)\]
+2.  Bashiri A, **Morada AO**, Sultany M, Senapathi S, Silverman S, Casós S, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. \[[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)\]
 
-3.  Keller HR, Senapathi SH, **Morada AO**, et al. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. \[[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)\]
+3.  Keller HR, Senapathi SH, **Morada AO**, Bertsch D, Cagir B. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. \[[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)\]
 
 4.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. \[[Full Text](https://doi.org/10.1007/s00464-021-08847-7)\] \[[PDF](./publications/2022-sr-ileostomy-malig.pdf)\]
 
 5.  Sundaram N, **Morada AO**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. \[[Full Text](https://doi.org/10.1136/bcr-2021-247609)\] \[[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)\]
 
-6.  Senapathi H, **Morada AO**, Perry M, et al. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Open Access](https://doi.org/10.7759/cureus.19447)\]
+6.  Senapathi H, **Morada AO**, Perry M, Bertram C, Yeung E, Sultany M, Bertsch D, Cagir B. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Open Access](https://doi.org/10.7759/cureus.19447)\]
 
-7.  **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. \[[Preprint](https://doi.org/10.1101/2021.04.12.21255201)\]
+7.  **Morada AO**, Scheidel C, Brown JL, Albright J, Kolade V, Cagir B. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. \[[Preprint](https://doi.org/10.1101/2021.04.12.21255201)\]
 
-8.  Guo H, Garcia-Vedrenne AE, Isserlin R, et al. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26572944. \[[Full Text](https://doi.org/10.1002/pmic.201500159)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/26572944/)\]
+8.  Guo H, Garcia-Vedrenne AE, Isserlin R, Lugowski A, **Morada A**, Sun A, Miao Y, Kuzmanov U, Wan C, Ma H, Foltz K, Emili A. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26227301. \[[Full Text](https://doi.org/10.1002/pmic.201500159)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/26227301/)\]
 
 ### Manuscripts Under Review/In Preparation
 
@@ -112,7 +112,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 -   Dewar Z, **Morada AO**, Senapathi H, Rittenberger J. Ultrasound versus combined ultrasound and modified Seldinger technique in obtaining difficult peripheral intravenous access: A systematic review and meta-analysis. \[[PROSPERO Protocol](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=210386)\] *Manuscript in preparation*
 
--   Seungwoo C, Senapathi SH, **Morada AO**, et al. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study. *Manuscript in preparation*
+-   Chai S, Kolade V, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study. *Manuscript in preparation*
 
 ### Media & Publications
 
