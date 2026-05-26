@@ -88,31 +88,47 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer-Reviewed Articles
 
-1.  **Morada, AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Late Parotid Recurrence of Hepatocellular Carcinoma Following Liver Transplantation: A Case Report, *Case Reports in Hepatology*, 2025, 2965476, 5 pages, 2025. \[[Full Text](https://doi.org/10.1155/crhe/2965476)\] \[[PDF](./publications/2025-cr-parotid-hcc-mets.pdf)\]
+1.  **Morada AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Hepatocellular Carcinoma Metastasis to Salivary Glands: A Systematic Review of Diagnostic Challenges and Survival Outcomes. *J Gastrointest Oncol*. 2026. doi: 10.21037/jgo-2026-1-0015. \[[Full Text](https://doi.org/10.21037/jgo-2026-1-0015)\] \[[PDF](./publications/2026-jgo-hcc-salivary-glands.pdf)\]
 
-2.  Bashiri A, **Morada AO**, Sultany M, Senapathi S, Silverman S, Casós S, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. \[[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)\]
+2.  **Morada AO**, Kropp Lopez A, Droney A, Lopez R. Traumatic Page kidney: a systematic review and patient report of bilateral Gerota's fascia release. *Trauma Surgery & Acute Care Open*. 2026;11:e002041. \[[Full Text](https://doi.org/10.1136/tsaco-2025-002041)\] \[[PDF](./publications/2026-tsaco-page-kidney.pdf)\]
 
-3.  Keller HR, Senapathi SH, **Morada AO**, Bertsch D, Cagir B. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. \[[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)\]
+3.  **Morada, AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Late Parotid Recurrence of Hepatocellular Carcinoma Following Liver Transplantation: A Case Report, *Case Reports in Hepatology*, 2025, 2965476, 5 pages, 2025. \[[Full Text](https://doi.org/10.1155/crhe/2965476)\] \[[PDF](./publications/2025-cr-parotid-hcc-mets.pdf)\]
 
-4.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. \[[Full Text](https://doi.org/10.1007/s00464-021-08847-7)\] \[[PDF](./publications/2022-sr-ileostomy-malig.pdf)\]
+4.  Bashiri A, **Morada AO**, Sultany M, Senapathi S, Silverman S, Casós S, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703. \[[Full Text](https://doi.org/10.1016/j.jss.2023.02.040)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)\] \[[PDF](./publications/2023-jsr-trauma-admissions.pdf)\]
 
-5.  Sundaram N, **Morada AO**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. \[[Full Text](https://doi.org/10.1136/bcr-2021-247609)\] \[[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)\]
+5.  Keller HR, Senapathi SH, **Morada AO**, Bertsch D, Cagir B. Survival in patients with neuroendocrine tumors of the colon, rectum and small intestine. *Am J Surg*. 2023;225(1):58-65. PMID: 36216612. \[[Full Text](https://doi.org/10.1016/j.amjsurg.2022.09.053)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/36216612/)\] \[[PDF](./publications/2023-amjsurg-neuroendocrine-tumors.pdf)\]
 
-6.  Senapathi H, **Morada AO**, Perry M, Bertram C, Yeung E, Sultany M, Bertsch D, Cagir B. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Open Access](https://doi.org/10.7759/cureus.19447)\]
+6.  Yeung E, Bertram C, Senapathi H, Perry M, **Morada AO**, Bertsch D, Cagir B. Evaluation of the survival outcomes of intestinal adenosquamous carcinomas using the SEER 18 registry: What do we know? *The Guthrie Journal*. 2023;75(1):7-16.
 
-7.  **Morada AO**, Scheidel C, Brown JL, Albright J, Kolade V, Cagir B. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. \[[Preprint](https://doi.org/10.1101/2021.04.12.21255201)\]
+7.  **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348. \[[Full Text](https://doi.org/10.1007/s00464-021-08847-7)\] \[[PDF](./publications/2022-sr-ileostomy-malig.pdf)\]
 
-8.  Guo H, Garcia-Vedrenne AE, Isserlin R, Lugowski A, **Morada A**, Sun A, Miao Y, Kuzmanov U, Wan C, Ma H, Foltz K, Emili A. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26227301. \[[Full Text](https://doi.org/10.1002/pmic.201500159)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/26227301/)\]
+8.  Sundaram N, **Morada AO**, Bashiri A, Cagir B. CT images demonstrating the natural progression of locally advanced partially treated rectal cancer. *BMJ Case Rep*. 2022;15(3):e247609. PMID: 35332009. \[[Full Text](https://doi.org/10.1136/bcr-2021-247609)\] \[[PMC Free](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8948397/)\] \[[PDF](./publications/2022-bmj-rectal-cancer.pdf)\]
+
+9.  Senapathi H, **Morada AO**, Perry M, Bertram C, Yeung E, Sultany M, Bertsch D, Cagir B. Prognostic Factors in Gastrointestinal Leiomyosarcomas: An Analysis Using the SEER Database. *Cureus*. 2021;13(11):e19447. PMID: 34926025. \[[Full Text](https://doi.org/10.7759/cureus.19447)\] \[[PDF](./publications/2021-cureus-leiomyosarcomas.pdf)\]
+
+10. **Morada AO**, Scheidel C, Brown JL, Albright J, Kolade V, Cagir B. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. \[[Preprint](https://doi.org/10.1101/2021.04.12.21255201)\] \[[PDF](./publications/2021-medrxiv-covid-triage.pdf)\]
+
+11. Guo H, Garcia-Vedrenne AE, Isserlin R, Lugowski A, **Morada A**, Sun A, Miao Y, Kuzmanov U, Wan C, Ma H, Foltz K, Emili A. Phosphoproteomic network analysis in the sea urchin *Strongylocentrotus purpuratus* reveals new candidates in egg activation. *Proteomics*. 2015;15(23-24):4080-4095. PMID: 26227301. \[[Full Text](https://doi.org/10.1002/pmic.201500159)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/26227301/)\]
+
+### Published Abstracts
+
+1.  Marica S, Dearborn M, Wilson MJ, Satchell E, Bashiri A, Senapathi S, **Morada AO**, Hussain A, Sampson L. Comparison of Bovine Carotid Artery Grafts versus ePTFE Grafts for Dialysis Access in a Rural Population. *J Vasc Surg*. 2025;81(6):e17-e18. doi: 10.1016/j.jvs.2025.03.075. \[[PDF](./publications/2025-jvs-dialysis-access-abstract.pdf)\]
+
+2.  Guru S, Scharf M, **Morada AO**, Sundaram N, Senapathi S, Dombert L, Bashiri A, Cagir B. Systematic review of malignant transformation of perianal fistulae. *Dis Colon Rectum*. 2022;65(5):163.
+
+3.  Senapathi H, Perry M, **Morada AO**, Bertram C, Yeung E, Bertsch D, Cagir B. Review of Intestinal Leiomyosarcomas: Epidemiology and Survival. *Ann Surg Oncol*. 2021;28(Suppl 1):S77-S78.
+
+4.  Yeung E, Senapathi H, Perry M, Bertram C, **Morada AO**, Bertsch D, Cagir B. Evaluation of the Survival Outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 Registry: What Do We Know? *Ann Surg Oncol*. 2021;28(Suppl 1):S79.
+
+5.  Miller BN, Mehta P, **Morada AO**, Hendifar A, Annamalai A, Wachsman A, Dhall D, Nissen N. Age-Related Differences in Presentation and Management of Pancreatic Neuroendocrine Tumors. *Ann Surg Oncol*. 2017;24(Suppl):S127-S128.
+
+6.  **Morada AO**, Mehta P, Miller BN, Annamalai AA, Wachsman A, Gaddam S, Jamil LH, Lo SK, Nissen NN. Pancreatic fistula or leak after distal pancreatectomy: has anything changed? 13-year single surgeon experience. *Gastroenterology*. 2017;152(5 Suppl 1):S1272-S1273. doi: 10.1016/S0016-5085(17)34242-7. \[[PDF](./publications/2017-gastroenterology-pancreatic-fistula.pdf)\]
+
+7.  Miller BN, Garnett G, **Morada AO**, Annamalai AA, Hendifar A, Dhall D, Lo SK, Wachsman A, Nissen NN. Parenchymal-Preserving Resection for Pancreatic Neuroendocrine Tumors: are the Outcomes Justified? *Gastroenterology*. 2017;152(5 Suppl 1):S1274. doi: 10.1016/S0016-5085(17)34247-6. \[[PDF](./publications/2017-gastroenterology-pnet-resection.pdf)\]
 
 ### Manuscripts Under Review/In Preparation
 
--   **Morada AO**, Kropp Lopez A, Droney AC, Matera D, Lopez R. Traumatic Page Kidney: A Systematic Review and Case Report of Bilateral Gerota's Fascia Release. *Submitted to Trauma Surgery & Acute Care Open*; in review.
-
--   **Morada AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Hepatocellular Carcinoma Metastasis to Salivary Glands: A Systematic Review of Diagnostic Challenges and Survival Outcomes. *Submitted to Journal of Gastrointestinal Oncology*; in review.
-
--   Dewar Z, **Morada AO**, Senapathi H, Rittenberger J. Ultrasound versus combined ultrasound and modified Seldinger technique in obtaining difficult peripheral intravenous access: A systematic review and meta-analysis. \[[PROSPERO Protocol](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=210386)\] *Manuscript in preparation*
-
--   Chai S, Kolade V, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study. *Manuscript in preparation*
+-   **Morada AO**, Becker JL, Furey MJ, Summa CH, Richards KR, Bodde J, Jordan RM, Bannon JP, Falvo A. Building a Better Sub-Internship Evaluation: A Multi-Stakeholder Approach. *Manuscript in preparation for submission to Global Surgical Education: Journal of the Association for Surgical Education.*
 
 ### Media & Publications
 
@@ -121,6 +137,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer Review Activities
 
+-   **HepatoBiliary Surgery and Nutrition** (2026) - Manuscript #HBSN-2026-0250 \[[Certificate](./publications/hsbn-review-certificate-May2026.png)\]
 -   **Cancer Medicine** (2025) - Manuscript #CAM4-2025-04-2129
 -   **PLOS ONE** (2025) - Manuscript #PONE-D-25-15492R (revision review)
 -   **PLOS ONE** (2025) - Manuscript #PONE-D-25-15492
@@ -133,27 +150,25 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Oral Presentations
 
-*Accepted*
-
-1.  **Morada AO**, Becker JL, Furey MJ, Summa CH, Richards KR, Bodde J, Jordan RM, Bannon JP, Falvo A. Building a Better Sub-Internship Evaluation: A Multi-Stakeholder Approach. *Accepted for 2026 Association for Surgical Education Annual Meeting,* Atlanta, GA. April 29 2026.
-
 *Completed*
 
-1.  Bashiri A, **Morada AO**, Silverman S, Behara M, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+1.  **Morada AO**, Becker JL, Furey MJ, Summa CH, Richards KR, Bodde J, Jordan RM, Bannon JP, Falvo A. Building a Better Sub-Internship Evaluation: A Multi-Stakeholder Approach. *2026 Association for Surgical Education Annual Meeting*, Atlanta, GA. April 29, 2026.
 
-2.  Bertram C, Yeung E, Senapathi H, Perry M, **Morada AO**, Bertsch D, Cagir B. Evaluation of the Survival outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 registry: What do we know? *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+2.  Bashiri A, **Morada AO**, Silverman S, Behara M, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-3.  Chai S, Kolade V, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study of the patient-doctor relationship. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+3.  Bertram C, Yeung E, Senapathi H, Perry M, **Morada AO**, Bertsch D, Cagir B. Evaluation of the Survival outcomes of Intestinal Adenosquamous Carcinomas with SEER-18 registry: What do we know? *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-4.  Senapathi SH, **Morada AO**, Morgan P, Cagir B. Comparing Epidemiology and Survival of Gastro-Intestinal Stromal Tumors and Leiomyosarcomas. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
+4.  Chai S, Kolade V, Senapathi SH, **Morada AO**, Khaliq AA, Malviya B. Exploring the quality of internal medicine resident ambulatory patient care: a feasibility study of the patient-doctor relationship. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-5.  **Morada AO**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Examining the Genetic Burden of Two Rare Autosomal Dominant Diseases. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
+5.  Senapathi SH, **Morada AO**, Morgan P, Cagir B. Comparing Epidemiology and Survival of Gastro-Intestinal Stromal Tumors and Leiomyosarcomas. *Stanley Conklin Research Day*, Sayre, PA. April 2021.
 
-6.  **Morada AO**, Mehta PA, Miller BN, Alagappan AA, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Management of Pancreatic Fistula or Leak after Pancreatectomy: Perspective from a 14-year Single Surgeon Experience. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
+6.  **Morada AO**, Marinock J, Mirshahi U, Smelser DT, Carey DJ. Examining the Genetic Burden of Two Rare Autosomal Dominant Diseases. *2018 Geisinger Commonwealth School of Medicine Summer Research Symposium*, Scranton, PA, August 2018.
 
-7.  Miller BN, **Morada AO**, Gangi A, Annamalai AA, Wachsman A, Hendifar A, Tuli R, Nissen N. Challenging the Treatment Paradigm of Oligometastatic Pancreatic Adenocarcinoma with Selective Use of Locoregional Cytoreductive Therapies. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
+7.  **Morada AO**, Mehta PA, Miller BN, Alagappan AA, Wachsman A, Gaddam S, Jamil L, Lo S, Nissen N. Management of Pancreatic Fistula or Leak after Pancreatectomy: Perspective from a 14-year Single Surgeon Experience. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
 
-8.  Miller BN, Mehta PA, **Morada AO**, Hendifar A, Annamalai AA, Wachsman A, Deepti D, Nissen N. Age-Related Differences in Presentation and Management of Pancreatic Neuroendocrine Tumors. *Society of Surgical Oncology's 70th Annual Cancer Symposium*, Seattle, WA, March 2017.
+8.  Miller BN, **Morada AO**, Gangi A, Annamalai AA, Wachsman A, Hendifar A, Tuli R, Nissen N. Challenging the Treatment Paradigm of Oligometastatic Pancreatic Adenocarcinoma with Selective Use of Locoregional Cytoreductive Therapies. *Southern California Chapter of the American College of Surgeons Annual Scientific Meeting*, Santa Barbara, CA, January 2017.
+
+9.  Miller BN, Mehta PA, **Morada AO**, Hendifar A, Annamalai AA, Wachsman A, Deepti D, Nissen N. Age-Related Differences in Presentation and Management of Pancreatic Neuroendocrine Tumors. *Society of Surgical Oncology's 70th Annual Cancer Symposium*, Seattle, WA, March 2017.
 
 ### Poster Presentations
 

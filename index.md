@@ -59,6 +59,11 @@ hr {
   margin-bottom: 14px;
 }
 
+.hero-details {
+  max-width: 720px;
+  margin: 0 auto 14px;
+}
+
 .stat-card p {
   margin: 10px 0 0 0;
   font-size: 0.95em;
@@ -181,6 +186,10 @@ hr {
   color: var(--primary-color);
 }
 
+.publication-list li {
+  margin-bottom: 12px;
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
   body {
@@ -215,18 +224,18 @@ hr {
 <div class="hero-section">
   <img src="assets/profile-photo.png" alt="Anthony Onde Morada, MD - Professional headshot" style="max-width: 200px; border-radius: 50%; margin: 0 auto 20px; display: block;">
   <h1>Anthony Onde Morada, MD</h1>
-  <p class="hero-tagline">General Surgery Resident (PGY-4) | Transplant Surgery Researcher</p>
-  <p>Geisinger Northeast General Surgery Program<br>
-  UCSB Alumnus | Cedars-Sinai Transplant Research (2015-2017)</p>
+  <p class="hero-tagline">General Surgery Resident (PGY-4) | Surgical Education and Outcomes Research</p>
+  <p class="hero-details">Geisinger Northeast General Surgery Program, Scranton, PA<br>
+  Research interests in surgical education, hepatobiliary and transplant surgery, systematic reviews, and clinical outcomes.</p>
   
   <div class="contact-badges">
-    <a href="https://orcid.org/0000-0002-0428-6558" target="_blank">
+    <a href="https://orcid.org/0000-0002-0428-6558" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/ORCID-0000--0002--0428--6558-green?style=flat-square&logo=orcid" alt="ORCID">
     </a>
-    <a href="https://linkedin.com/in/anthonyomorada" target="_blank">
+    <a href="https://linkedin.com/in/anthonyomorada" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/LinkedIn-anthonyomorada-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-   <a href="https://github.com/anthonyomorada" target="_blank">
+   <a href="https://github.com/anthonyomorada" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/GitHub-anthonyomorada-black?style=flat-square&logo=github" alt="GitHub">
     </a>
   </div>
@@ -234,28 +243,28 @@ hr {
 
 ---
 
-## 📄 Quick Navigation
+## CV Access
 
 <div class="nav-cards">
   <a href="cv.html" class="nav-card">
-    📋 View Full CV
+    View Full CV
   </a>
-  <a href="cv-downloads/anthony-morada-cv.pdf" class="nav-card" download>
-    📥 Download PDF
+  <a href="cv-downloads/cv.pdf" class="nav-card" download>
+    Download PDF
   </a>
-  <a href="cv-downloads/anthony-morada-cv.docx" class="nav-card" download>
-    📝 Download Word
+  <a href="cv-downloads/cv.docx" class="nav-card" download>
+    Download Word
   </a>
 </div>
 
 <p style="text-align: center; color: var(--text-dark); font-size: 0.9em; margin-top: 10px;">
-  <em>Last Updated: November 2025</em><br>
+  <em>Last Updated: May 2026</em><br>
   <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
 </p>
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Institutional Email:** [amorada1@geisinger.edu](mailto:amorada1@geisinger.edu)  
 **Personal Email:** [anthony.omorada@gmail.com](mailto:anthony.omorada@gmail.com)  
@@ -264,15 +273,15 @@ hr {
 
 ---
 
-## 📊 Research Impact at a Glance
+## Research Impact
 
 <div class="stats-grid">
   <div class="stat-card">
-    <h3>8</h3>
+    <h3>11</h3>
     <p>Peer-Reviewed<br>Publications</p>
   </div>
   <div class="stat-card">
-    <h3>21+</h3>
+    <h3>31+</h3>
     <p>Conference<br>Presentations</p>
   </div>
   <div class="stat-card">
@@ -287,13 +296,14 @@ hr {
 
 ---
 
-## 🎯 Research Focus
+## Research Focus
 
 **Systematic Reviews • Clinical Outcomes • Transplant Surgery**
 
 From computational genomics at Geisinger's DiscovEHR to clinical research at Cedars-Sinai's Liver Transplant program, my work bridges data science and surgical innovation. Currently applying systematic review methodology and outcomes research to advance evidence-based surgical practice.
 
 **Key Areas:**
+
 - Transplant surgery outcomes and quality improvement
 - Systematic reviews and meta-analyses in surgery
 - Genomic medicine applications (92,297 patient cohort analysis)
@@ -301,19 +311,25 @@ From computational genomics at Geisinger's DiscovEHR to clinical research at Ced
 
 ---
 
-## 🔬 Selected Publications
+## Selected Publications
 
-1. **Morada AO**, Senapathi SH, Bashiri A, Chai S, Cagir B. A systematic review of primary ileostomy site malignancies. *Surg Endosc*. 2022;36(3):1750-1760. PMID: 34997348 [[PDF](publications/2022-ileostomy-review.pdf)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34997348/)]
+<ol class="publication-list">
+<li>
+<strong>Morada AO</strong>, Chen CK, Akateh C, Marvin MR, Kotru A. Hepatocellular Carcinoma Metastasis to Salivary Glands: A Systematic Review of Diagnostic Challenges and Survival Outcomes. <em>J Gastrointest Oncol</em>. 2026. <a href="https://doi.org/10.21037/jgo-2026-1-0015">Full Text</a> | <a href="publications/2026-jgo-hcc-salivary-glands.pdf">PDF</a>
+</li>
+<li>
+<strong>Morada AO</strong>, Kropp Lopez A, Droney A, Lopez R. Traumatic Page kidney: a systematic review and patient report of bilateral Gerota's fascia release. <em>Trauma Surgery & Acute Care Open</em>. 2026;11:e002041. <a href="https://doi.org/10.1136/tsaco-2025-002041">Full Text</a> | <a href="publications/2026-tsaco-page-kidney.pdf">PDF</a>
+</li>
+<li>
+Bashiri A, <strong>Morada AO</strong>, Sultany M, Senapathi S, Silverman S, Casós S, Behm R. Trends of Trauma Admissions in a Rural Trauma Center During Coronavirus Disease 2019 Pandemic. <em>J Surg Res</em>. 2023;289:202-210. PMID: 37141703. <a href="https://doi.org/10.1016/j.jss.2023.02.040">Full Text</a> | <a href="publications/2023-jsr-trauma-admissions.pdf">PDF</a>
+</li>
+</ol>
 
-2. **Morada AO**, Scheidel C, Brown JL, et al. Predicting severe COVID-19 outcomes for triage and resource allocation. *MedRxiv*. 2021. [[Preprint](https://doi.org/10.1101/2021.04.12.21255201)]
-
-3. Bashiri A, **Morada A**, Sultany M, et al. Trends of trauma admissions during COVID-19 pandemic. *J Surg Res*. 2023;289:202-210. PMID: 37141703 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37141703/)]
-
-**[→ View all 7 publications in full CV](cv.html#publications)**
+**[View all publications in full CV](cv.html#publications)**
 
 ---
 
-## 💼 Research Experience Highlights
+## Research Experience Highlights
 
 ### **Cedars-Sinai Medical Center Liver Transplant Program** (2015-2017)
 **Clinical Research Data Specialist** • Department of Liver Transplant & Hepatobiliary Surgery
@@ -332,34 +348,34 @@ From computational genomics at Geisinger's DiscovEHR to clinical research at Ced
 - Focus on genetic diseases relevant to transplant medicine and familial conditions
 - Awarded competitive grant funding from Summer Research Immersion Program
 
-**[→ View Full Research Timeline in CV](cv.html#research-experience)**
+**[View Full Research Timeline in CV](cv.html#research-experience)**
 
 ---
 
-## 🏆 Selected Recognition
+## Selected Recognition
 
 <div class="awards-list">
   <div class="award-item">
-    <strong>🥇 1st Place Oral & Poster Presentations</strong><br>
+    <strong>1st Place Oral & Poster Presentations</strong><br>
     Stanley Conklin Research Day (2021)
   </div>
   <div class="award-item">
-    <strong>💰 Hacking Health Innovation Winner</strong><br>
+    <strong>Hacking Health Innovation Winner</strong><br>
     $5,000 for Healthcare Innovation Project "ABBY" (2019)
   </div>
   <div class="award-item">
-    <strong>📈 #1 Fundraising Team - Two Consecutive Years</strong><br>
+    <strong>#1 Fundraising Team - Two Consecutive Years</strong><br>
     Pancreatic Cancer Action Network (2016-2017)
   </div>
   <div class="award-item">
-    <strong>🔬 Summer Research Grant Recipient</strong><br>
+    <strong>Summer Research Grant Recipient</strong><br>
     Geisinger Commonwealth School of Medicine (2018)
   </div>
 </div>
 
 ---
 
-## 🎓 Professional Memberships
+## Professional Memberships
 
 - **International Liver Transplantation Society (ILTS)**
 - **American Society of Transplant Surgeons (ASTS)**

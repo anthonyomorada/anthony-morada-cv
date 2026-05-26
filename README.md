@@ -43,9 +43,16 @@ anthony-morada-cv/
 │   ├── cv.pdf
 │   └── cv.docx
 ├── publications/              # Research papers PDFs
-│   └── 2022-sr-ileostomy-malig.pdf
+│   ├── 2017-gastroenterology-*.pdf
+│   ├── 2021-*.pdf
+│   ├── 2022-*.pdf
+│   ├── 2023-*.pdf
+│   ├── 2025-*.pdf
+│   ├── 2026-*.pdf
+│   └── hsbn-review-certificate-May2026.png
 └── presentations/             # Conference posters and slides
-    └── 2021-sages-poster.pdf
+    ├── 2021-sages-poster.pdf
+    └── 2025-ilts-poster.pdf
 ```
 
 ---
@@ -131,7 +138,7 @@ sudo apt install texlive-xetex  # Linux
 
 ### Run Conversion Script
 ```bash
-python assets/convert_cv.py
+python3 assets/convert_cv.py
 ```
 
 This generates:
@@ -247,4 +254,4 @@ This repository structure and template code is available under the [MIT License]
 
 ---
 
-*Last updated: November 2025*
+*Last updated: May 2026*
