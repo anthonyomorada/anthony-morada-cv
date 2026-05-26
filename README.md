@@ -40,8 +40,8 @@ anthony-morada-cv/
 │   └── convert_cv.py          # Python script for PDF/Word conversion
 ├── cv-downloads/              # Downloadable CV files
 │   ├── README.md
-│   ├── cv.pdf
-│   └── cv.docx
+│   ├── aom-cv.pdf
+│   └── aom-cv.docx
 ├── publications/              # Research papers PDFs
 │   ├── 2017-gastroenterology-*.pdf
 │   ├── 2021-*.pdf
@@ -63,8 +63,8 @@ anthony-morada-cv/
 Simply visit: [anthonyomorada.github.io/anthony-morada-cv](https://anthonyomorada.github.io/anthony-morada-cv/)
 
 ### Download CV Files
-- **PDF:** [cv-downloads/cv.pdf](cv-downloads/cv.pdf)
-- **Word:** [cv-downloads/cv.docx](cv-downloads/cv.docx)
+- **PDF:** [cv-downloads/aom-cv.pdf](cv-downloads/aom-cv.pdf)
+- **Word:** [cv-downloads/aom-cv.docx](cv-downloads/aom-cv.docx)
 
 ---
 
@@ -142,18 +142,18 @@ python3 assets/convert_cv.py
 ```
 
 This generates:
-- `cv-downloads/cv.pdf` - Print-ready PDF
-- `cv-downloads/cv.docx` - Editable Word document
+- `cv-downloads/aom-cv.pdf` - Print-ready PDF
+- `cv-downloads/aom-cv.docx` - Editable Word document
 
 ### Manual Conversion (Alternative)
 ```bash
 # Convert to PDF
-pandoc cv.md -o cv-downloads/cv.pdf \
+pandoc cv.md -o cv-downloads/aom-cv.pdf \
   --variable geometry:margin=0.75in \
   --variable fontsize=11pt
 
 # Convert to Word
-pandoc cv.md -o cv-downloads/cv.docx
+pandoc cv.md -o cv-downloads/aom-cv.docx
 ```
 
 ---

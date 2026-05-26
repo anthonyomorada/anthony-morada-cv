@@ -190,6 +190,21 @@ hr {
   margin-bottom: 12px;
 }
 
+.updates-list {
+  display: grid;
+  gap: 10px;
+  margin: 18px 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.updates-list li {
+  padding: 12px 16px;
+  background: var(--light-bg);
+  border-left: 4px solid var(--primary-color);
+  border-radius: 6px;
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
   body {
@@ -243,16 +258,16 @@ hr {
 
 ---
 
-## CV Access
+## Curriculum Vitae Access
 
 <div class="nav-cards">
   <a href="cv.html" class="nav-card">
     View Full CV
   </a>
-  <a href="cv-downloads/cv.pdf" class="nav-card" download>
+  <a href="cv-downloads/aom-cv.pdf" class="nav-card" download>
     Download PDF
   </a>
-  <a href="cv-downloads/cv.docx" class="nav-card" download>
+  <a href="cv-downloads/aom-cv.docx" class="nav-card" download>
     Download Word
   </a>
 </div>
@@ -261,6 +276,16 @@ hr {
   <em>Last Updated: May 2026</em><br>
   <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
 </p>
+
+---
+
+## Recent Updates
+
+<ul class="updates-list">
+  <li><strong>May 2026:</strong> Added two 2026 peer-reviewed publications in <em>Journal of Gastrointestinal Oncology</em> and <em>Trauma Surgery & Acute Care Open</em>, with full-text and PDF links.</li>
+  <li><strong>May 2026:</strong> Presented surgical education work at the 2026 Association for Surgical Education Annual Meeting in Atlanta; manuscript in preparation for <em>Global Surgical Education</em>.</li>
+  <li><strong>May 2026:</strong> Updated peer-review activity, published abstracts, and supporting publication PDFs to keep this electronic CV current and verifiable.</li>
+</ul>
 
 ---
 

@@ -239,8 +239,8 @@ For reproducibility:
     output_dir = project_root / "cv-downloads"
     output_dir.mkdir(exist_ok=True)
 
-    docx_output = output_dir / "cv.docx"
-    pdf_output = output_dir / "cv.pdf"
+    docx_output = output_dir / "aom-cv.docx"
+    pdf_output = output_dir / "aom-cv.pdf"
 
     print(f"📁 Output: {output_dir}/")
 
