@@ -137,6 +137,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer Review Activities
 
+-   **Journal of Gastrointestinal Oncology** (2026) - Manuscript #JGO-2026-0436-CL
 -   **HepatoBiliary Surgery and Nutrition** (2026) - Manuscript #HBSN-2026-0250 \[[Certificate](./publications/hsbn-review-certificate-May2026.png)\]
 -   **Cancer Medicine** (2025) - Manuscript #CAM4-2025-04-2129
 -   **PLOS ONE** (2025) - Manuscript #PONE-D-25-15492R (revision review)
