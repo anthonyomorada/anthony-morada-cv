@@ -282,6 +282,7 @@ hr {
 ## Recent Updates
 
 <ul class="updates-list">
+  <li><strong>June 2026:</strong> Received Certificate of Appointment from the <em>Journal of Gastrointestinal Oncology</em> (AME Publishing) for peer review of manuscript #JGO-2026-0436-CL.</li>
   <li><strong>May 2026:</strong> Added two 2026 peer-reviewed publications in <em>Journal of Gastrointestinal Oncology</em> and <em>Trauma Surgery & Acute Care Open</em>, with full-text and PDF links.</li>
   <li><strong>May 2026:</strong> Presented surgical education work at the 2026 Association for Surgical Education Annual Meeting in Atlanta; manuscript in preparation for <em>Global Surgical Education</em>.</li>
   <li><strong>May 2026:</strong> Updated peer-review activity, published abstracts, and supporting publication PDFs to keep this electronic CV current and verifiable.</li>
