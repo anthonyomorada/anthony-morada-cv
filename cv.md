@@ -88,9 +88,9 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer-Reviewed Articles
 
-1.  **Morada AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Hepatocellular Carcinoma Metastasis to Salivary Glands: A Systematic Review of Diagnostic Challenges and Survival Outcomes. *J Gastrointest Oncol*. 2026. doi: 10.21037/jgo-2026-1-0015. \[[Full Text](https://doi.org/10.21037/jgo-2026-1-0015)\] \[[PDF](./publications/2026-jgo-hcc-salivary-glands.pdf)\]
+1.  **Morada AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Hepatocellular Carcinoma Metastasis to Salivary Glands: A Systematic Review of Diagnostic Challenges and Survival Outcomes. *J Gastrointest Oncol*. 2026;17(3):175. doi: 10.21037/jgo-2026-1-0015. \[[Full Text](https://jgo.amegroups.org/article/view/117939/html)\] \[[DOI](https://doi.org/10.21037/jgo-2026-1-0015)\] \[[PDF](./publications/jgo-17-03-175.pdf)\]
 
-2.  **Morada AO**, Kropp Lopez A, Droney A, Lopez R. Traumatic Page kidney: a systematic review and patient report of bilateral Gerota's fascia release. *Trauma Surgery & Acute Care Open*. 2026;11:e002041. \[[Full Text](https://doi.org/10.1136/tsaco-2025-002041)\] \[[PDF](./publications/2026-tsaco-page-kidney.pdf)\]
+2.  **Morada AO**, Kropp Lopez A, Droney A, Lopez R. Traumatic Page kidney: a systematic review and patient report of bilateral Gerota's fascia release. *Trauma Surgery & Acute Care Open*. 2026;11(2):e002041. PMID: 42205709. \[[Full Text](https://doi.org/10.1136/tsaco-2025-002041)\] \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/42205709/)\] \[[PDF](./publications/2026-tsaco-page-kidney.pdf)\]
 
 3.  **Morada, AO**, Chen CK, Akateh C, Marvin MR, Kotru A. Late Parotid Recurrence of Hepatocellular Carcinoma Following Liver Transplantation: A Case Report, *Case Reports in Hepatology*, 2025, 2965476, 5 pages, 2025. \[[Full Text](https://doi.org/10.1155/crhe/2965476)\] \[[PDF](./publications/2025-cr-parotid-hcc-mets.pdf)\]
 
@@ -137,6 +137,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer Review Activities
 
+-   **Quantitative Imaging in Medicine and Surgery** (2026) - Manuscript #QIMS-2026-1692 \[[Certificate](./publications/qims-review-certificate-August2026.png)\]
 -   **Journal of Gastrointestinal Oncology** (2026) - Manuscript #JGO-2026-0436-CL \[[Certificate](./publications/jgo-review-certificate-2026.png)\]
 -   **HepatoBiliary Surgery and Nutrition** (2026) - Manuscript #HBSN-2026-0250 \[[Certificate](./publications/hsbn-review-certificate-May2026.png)\]
 -   **Cancer Medicine** (2025) - Manuscript #CAM4-2025-04-2129
