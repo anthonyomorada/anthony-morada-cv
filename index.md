@@ -273,7 +273,7 @@ hr {
 </div>
 
 <p style="text-align: center; color: var(--text-dark); font-size: 0.9em; margin-top: 10px;">
-  <em>Last Updated: May 2026</em><br>
+  <em>Last Updated: September 2026</em><br>
   <a href="cv.html">View Full CV</a> • <a href="cv-downloads/">Download CV Files</a>
 </p>
 
@@ -282,6 +282,7 @@ hr {
 ## Recent Updates
 
 <ul class="updates-list">
+  <li><strong>September 2026:</strong> Received Certificate of Appointment from <em>HepatoBiliary Surgery and Nutrition</em> (AME Publishing) for peer review of manuscript #HBSN-2026-0691.</li>
   <li><strong>June 2026:</strong> Received Certificate of Appointment from the <em>Journal of Gastrointestinal Oncology</em> (AME Publishing) for peer review of manuscript #JGO-2026-0436-CL.</li>
   <li><strong>May 2026:</strong> Added two 2026 peer-reviewed publications in <em>Journal of Gastrointestinal Oncology</em> and <em>Trauma Surgery & Acute Care Open</em>, with full-text and PDF links.</li>
   <li><strong>May 2026:</strong> Presented surgical education work at the 2026 Association for Surgical Education Annual Meeting in Atlanta; manuscript in preparation for <em>Global Surgical Education</em>.</li>

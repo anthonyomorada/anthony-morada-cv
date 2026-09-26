@@ -137,6 +137,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Peer Review Activities
 
+-   **HepatoBiliary Surgery and Nutrition** (2026) - Manuscript #HBSN-2026-0691 \[[Certificate](./publications/hbsn-review-certificate-September2026.png)\]
 -   **Quantitative Imaging in Medicine and Surgery** (2026) - Manuscript #QIMS-2026-1692 \[[Certificate](./publications/qims-review-certificate-August2026.png)\]
 -   **Journal of Gastrointestinal Oncology** (2026) - Manuscript #JGO-2026-0436-CL \[[Certificate](./publications/jgo-review-certificate-2026.png)\]
 -   **HepatoBiliary Surgery and Nutrition** (2026) - Manuscript #HBSN-2026-0250 \[[Certificate](./publications/hsbn-review-certificate-May2026.png)\]

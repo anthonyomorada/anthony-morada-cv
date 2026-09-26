@@ -49,7 +49,8 @@ anthony-morada-cv/
 │   ├── 2023-*.pdf
 │   ├── 2025-*.pdf
 │   ├── 2026-*.pdf
-│   └── hsbn-review-certificate-May2026.png
+│   ├── hsbn-review-certificate-May2026.png
+│   └── hbsn-review-certificate-September2026.png
 └── presentations/             # Conference posters and slides
     ├── 2021-sages-poster.pdf
     └── 2025-ilts-poster.pdf
@@ -254,4 +255,4 @@ This repository structure and template code is available under the [MIT License]
 
 ---
 
-*Last updated: May 2026*
+*Last updated: September 2026*
