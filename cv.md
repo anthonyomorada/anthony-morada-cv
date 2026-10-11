@@ -20,7 +20,7 @@ layout: default
 
 ## Professional Summary
 
-General Surgery Resident (PGY-4) at Geisinger Northeast with research experience in transplant surgery at Cedars-Sinai Medical Center. UCSB alumnus from Los Angeles with background in clinical outcomes research, systematic reviews, and genomic medicine. Filipino-American physician interested in advancing surgical care through research and evidence-based practice.
+General Surgery Resident (PGY-5) at Geisinger Northeast with research experience in transplant surgery at Cedars-Sinai Medical Center. UCSB alumnus from Los Angeles with background in clinical outcomes research, systematic reviews, and genomic medicine. Filipino-American physician interested in advancing surgical care through research and evidence-based practice.
 
 ## Research Highlights
 
@@ -32,7 +32,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ## Current Position
 
-**General Surgery Resident (PGY-4)** \| 2022 – Present Geisinger Northeast General Surgery Program, Scranton, PA
+**General Surgery Resident (PGY-5)** \| 2022 – Present Geisinger Northeast General Surgery Program, Scranton, PA
 
 ## Education
 
@@ -128,7 +128,7 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 
 ### Manuscripts Under Review/In Preparation
 
--   **Morada AO**, Becker JL, Furey MJ, Summa CH, Richards KR, Bodde J, Jordan RM, Bannon JP, Falvo A. Building a Better Sub-Internship Evaluation: A Multi-Stakeholder Approach. *Manuscript in preparation for submission to Global Surgical Education: Journal of the Association for Surgical Education.*
+-   **Morada AO**, Becker JL, Furey MJ, Summa CH, Richards KR, Bodde J, Baray A, Gordon ML, Patel A, Jordan RM, Bannon JP, Falvo A. Feasibility and Implementation of a Multi-Source, Competency-Based Evaluation System for Surgical Sub-Internship Students: A Single-Institution Pilot. *Global Surgical Education: Journal of the Association for Surgical Education*. Under review; revised manuscript submitted October 2026 after major revisions.
 
 ### Media & Publications
 
@@ -150,6 +150,14 @@ General Surgery Resident (PGY-4) at Geisinger Northeast with research experience
 -   **Annals of Internal Medicine** (2021) - Manuscript #M21-2536
 
 ## Presentations
+
+### Submitted Abstracts (Decision Pending)
+
+1.  **Morada AO**, Becker JL, Furey MJ, Summa CH, Richards KR, Bodde J, Baray A, Gordon ML, Patel A, Jordan RM, Bannon JP, Falvo A. Feasibility and Implementation of a Multi-Source, Competency-Based Evaluation System for Surgical Sub-Internship Students: A Single-Institution Pilot Study. *American College of Surgeons Pennsylvania Commonwealth Chapter 2026 Abstract Competition*. Submitted September 2026.
+
+2.  Dickey EM, **Morada AO**, Furey MJ, Blansfield J, Amini N. Robotic Pancreatoduodenectomy for an Unusual Pancreatic Neuroendocrine Tumor of the Uncinate Process with Ampullary and Duodenal Extension \[video abstract\]. *Americas Hepato-Pancreato-Biliary Association (AHPBA) 2027 Annual Meeting*. Submitted October 2026.
+
+3.  Dickey EM, **Morada AO**, Furey MJ, Blansfield J, Amini N. Robotic Adrenalectomy for a Rapidly Expanding High-Grade Malignant Epithelioid Adrenal Neoplasm Presenting as Spontaneous Adrenal Hemorrhage \[video abstract\]. *Society of Surgical Oncology (SSO) 2027 Annual Meeting*. Submitted October 2026.
 
 ### Oral Presentations
 

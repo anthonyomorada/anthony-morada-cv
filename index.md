@@ -239,7 +239,7 @@ hr {
 <div class="hero-section">
   <img src="assets/profile-photo.png" alt="Anthony Onde Morada, MD - Professional headshot" style="max-width: 200px; border-radius: 50%; margin: 0 auto 20px; display: block;">
   <h1>Anthony Onde Morada, MD</h1>
-  <p class="hero-tagline">General Surgery Resident (PGY-4) | Surgical Education and Outcomes Research</p>
+  <p class="hero-tagline">General Surgery Resident (PGY-5) | Surgical Education and Outcomes Research</p>
   <p class="hero-details">Geisinger Northeast General Surgery Program, Scranton, PA<br>
   Research interests in surgical education, hepatobiliary and transplant surgery, systematic reviews, and clinical outcomes.</p>
   
@@ -282,6 +282,8 @@ hr {
 ## Recent Updates
 
 <ul class="updates-list">
+  <li><strong>October 2026:</strong> Submitted the revised Sub-Internship evaluation manuscript to <em>Global Surgical Education</em>, and an abstract of the work to the ACS Pennsylvania Commonwealth Chapter 2026 competition.</li>
+  <li><strong>October 2026:</strong> Co-authored two robotic surgery video abstracts submitted to the SSO 2027 and AHPBA 2027 Annual Meetings (decisions pending).</li>
   <li><strong>September 2026:</strong> Received Certificate of Appointment from <em>HepatoBiliary Surgery and Nutrition</em> (AME Publishing) for peer review of manuscript #HBSN-2026-0691.</li>
   <li><strong>June 2026:</strong> Received Certificate of Appointment from the <em>Journal of Gastrointestinal Oncology</em> (AME Publishing) for peer review of manuscript #JGO-2026-0436-CL.</li>
   <li><strong>May 2026:</strong> Added two 2026 peer-reviewed publications in <em>Journal of Gastrointestinal Oncology</em> and <em>Trauma Surgery & Acute Care Open</em>, with full-text and PDF links.</li>
